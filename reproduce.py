@@ -57,6 +57,96 @@ def inputs():
             {r["record_id"]: r["rule_labels"] for r in read(D / "initial_rule_targets_1934.json")})
 
 
+def verify_archive_data():
+    """Check only released records; do not infer unavailable text checks."""
+    cfg = read(B / "EXPERIMENT_CONFIG.yaml")
+    parts = read(D / "locked_partitions.json")
+    train = read(D / "initial_rule_targets_1934.json")
+    assert len(train) == len({r["record_id"] for r in train}) == 1934
+    ids, test, pool = (set(parts[f"{key}_ids"]) for key in ("training", "test", "pool"))
+    assert (len(ids), len(test), len(pool)) == (3038, 60, 40)
+    assert {r["record_id"] for r in train} <= ids and pool <= ids and not test & ids
+    ncts = lambda records: {i.split(":")[0] for i in records}
+    assert not ncts(ids) & ncts(test) and not ncts(pool) & ncts(test)
+    human = csv_rows(B / "HUMAN_REFERENCE_FINAL_FROZEN.csv")
+    assert sha(B / "HUMAN_REFERENCE_FINAL_FROZEN.csv") == cfg["human_reference_sha256"]
+    assert len(human) == len({r["Record_ID"] for r in human}) == 100
+    assert {r["Record_ID"] for r in human if r["Partition"] == "Test_60"} == test
+    assert {r["Record_ID"] for r in human if r["Partition"] == "Pool_40"} == pool
+    assert sum(r["Current_Author_Label"] != "UNCLEAR" for r in human if r["Partition"] == "Test_60") == 58
+    for row in human:
+        assert set(row["Current_Author_Label"].split(";")) <= set(cfg["labels"]) | {"UNCLEAR"}
+    llm = read(D / "llm/LLM_PREDICTIONS_200_MERGED.json")["records"]
+    llm_ids = {r["Record_ID"] for r in llm}
+    assert len(llm) == len(llm_ids) == 200 and llm_ids <= ids
+    assert not ncts(llm_ids) & ncts(test | pool)
+    originals = {}
+    for prefix in ("original", "expansion"):
+        for i in range(1, 6):
+            records = read(D / f"llm/{prefix}_{i:02}.json")["Results"]
+            assert len(records) == 20 and not set(originals) & {r["Record_ID"] for r in records}
+            originals.update((r["Record_ID"], r) for r in records)
+    assert all(originals[r["Record_ID"]] == r["Original_LLM_Prediction"] for r in llm)
+    edges = csv_rows(D / "near_duplicate_pairs.csv")
+    assert len(edges) == 1849
+    assert not any((e["outcome_a"] in test and e["outcome_b"] in ids) or
+                   (e["outcome_b"] in test and e["outcome_a"] in ids) for e in edges)
+    absent = [name for name in ("pediatric_outcomes.json", "registry_source_extract_670.json")
+              if not (D / name).exists()]
+    result = dict(status="PASS_WITH_LIMITATIONS" if absent else "PASS",
+                  initial_train=1934, test=60, decidable_test=58, pool=40, llm=200,
+                  released_record_checks="PASS", missing_source_files=absent,
+                  raw_text_and_full_component_checks="BLOCKED" if absent else "SEE_FULL_SOURCE_CHECK")
+    if not absent:
+        result["full_source_checks"] = verify_data()
+    return result
+
+
+def verify_archive_data():
+    """Check only released records; do not infer unavailable text checks."""
+    cfg = read(B / "EXPERIMENT_CONFIG.yaml")
+    parts = read(D / "locked_partitions.json")
+    train = read(D / "initial_rule_targets_1934.json")
+    assert len(train) == len({r["record_id"] for r in train}) == 1934
+    ids, test, pool = (set(parts[f"{key}_ids"]) for key in ("training", "test", "pool"))
+    assert (len(ids), len(test), len(pool)) == (3038, 60, 40)
+    assert {r["record_id"] for r in train} <= ids and pool <= ids and not test & ids
+    ncts = lambda records: {i.split(":")[0] for i in records}
+    assert not ncts(ids) & ncts(test) and not ncts(pool) & ncts(test)
+    human = csv_rows(B / "HUMAN_REFERENCE_FINAL_FROZEN.csv")
+    assert sha(B / "HUMAN_REFERENCE_FINAL_FROZEN.csv") == cfg["human_reference_sha256"]
+    assert len(human) == len({r["Record_ID"] for r in human}) == 100
+    assert {r["Record_ID"] for r in human if r["Partition"] == "Test_60"} == test
+    assert {r["Record_ID"] for r in human if r["Partition"] == "Pool_40"} == pool
+    assert sum(r["Current_Author_Label"] != "UNCLEAR" for r in human if r["Partition"] == "Test_60") == 58
+    for row in human:
+        assert set(row["Current_Author_Label"].split(";")) <= set(cfg["labels"]) | {"UNCLEAR"}
+    llm = read(D / "llm/LLM_PREDICTIONS_200_MERGED.json")["records"]
+    llm_ids = {r["Record_ID"] for r in llm}
+    assert len(llm) == len(llm_ids) == 200 and llm_ids <= ids
+    assert not ncts(llm_ids) & ncts(test | pool)
+    originals = {}
+    for prefix in ("original", "expansion"):
+        for i in range(1, 6):
+            records = read(D / f"llm/{prefix}_{i:02}.json")["Results"]
+            assert len(records) == 20 and not set(originals) & {r["Record_ID"] for r in records}
+            originals.update((r["Record_ID"], r) for r in records)
+    assert all(originals[r["Record_ID"]] == r["Original_LLM_Prediction"] for r in llm)
+    edges = csv_rows(D / "near_duplicate_pairs.csv")
+    assert len(edges) == 1849
+    assert not any((e["outcome_a"] in test and e["outcome_b"] in ids) or
+                   (e["outcome_b"] in test and e["outcome_a"] in ids) for e in edges)
+    absent = [name for name in ("pediatric_outcomes.json", "registry_source_extract_670.json")
+              if not (D / name).exists()]
+    result = dict(status="PASS_WITH_LIMITATIONS" if absent else "PASS",
+                  initial_train=1934, test=60, decidable_test=58, pool=40, llm=200,
+                  released_record_checks="PASS", missing_source_files=absent,
+                  raw_text_and_full_component_checks="BLOCKED" if absent else "SEE_FULL_SOURCE_CHECK")
+    if not absent:
+        result["full_source_checks"] = verify_data()
+    return result
+
+
 def verify_data():
     config, parts, outcomes, train = inputs()
     assert len(outcomes) == 3412 and len(train) == 1934
@@ -168,7 +258,8 @@ def evaluate_archive(out):
                    for name in ("BASELINE_RESULTS.csv", "ACTIVE_LEARNING_RESULTS.csv")}
     comparisons["CLASS_WISE_METRICS.csv"] = compare_csv(out / "CLASS_WISE_METRICS.csv",
         B / "CLASS_WISE_METRICS.csv", (*keys, "label"), ("precision", "recall", "f1", "support"))
-    config, parts, _, _ = inputs()
+    config = read(B / "EXPERIMENT_CONFIG.yaml")
+    parts = read(D / "locked_partitions.json")
     labels = config["labels"]
     gold = {r["Record_ID"]: r["Current_Author_Label"].split(";")
             for r in csv_rows(B / "HUMAN_REFERENCE_FINAL_FROZEN.csv")}
@@ -292,21 +383,44 @@ def reconstruct(out):
 
 
 def load_models(out):
+    """Load both bundles; score only inputs actually distributed."""
     import joblib
     import numpy as np
-    cfg, parts, _, ids, texts, _, dense = baseline_matrices(fit_vectorizer=False)
-    ix = [ids.index(i) for i in parts["test_ids"]]
+    cfg = read(B / "EXPERIMENT_CONFIG.yaml")
+    parts = read(D / "locked_partitions.json")
+    prov = read(B / "MINILM_FEATURE_PROVENANCE.json")
+    dense = np.load(B / "MINILM_EMBEDDINGS.npy", allow_pickle=False)
+    assert prov["ids"] == parts["training_ids"] + parts["test_ids"]
+    assert dense.shape == (len(prov["ids"]), 384) and np.isfinite(dense).all()
+    ix = [prov["ids"].index(i) for i in parts["test_ids"]]
+    outcomes_path = D / "pediatric_outcomes.json"
+    outcomes = {r["outcome_id"]: r for r in read(outcomes_path)} if outcomes_path.exists() else None
     result = []
     for model in MODELS:
         bundle = joblib.load(P / "models" / f"RECONSTRUCTED_MODEL_{model}.joblib")
         assert bundle["status"] == "RECONSTRUCTED_MODEL" and bundle["labels"] == cfg["labels"]
-        test = bundle["vectorizer"].transform([texts[j] for j in ix]) if model == MODELS[0] else dense[ix]
-        p = score_bundle(bundle, test)
+        row = dict(model=model, artifact_status=bundle["status"], deserialization="PASS")
+        if model == "tfidf_svm" and outcomes is None:
+            assert bundle["vectorizer"] is not None
+            assert len(bundle["estimators"]) == len(cfg["labels"])
+            row.update(inference_status="BLOCKED_MISSING_SOURCE_TEXT",
+                       reason="Frozen test text is withheld; no SVM inference or agreement claimed.")
+            result.append(row)
+            continue
+        if model == "tfidf_svm":
+            texts = [outcomes[i]["measure"] + "\n" + outcomes[i]["description"] for i in parts["test_ids"]]
+            test = bundle["vectorizer"].transform(texts)
+        else:
+            test = dense[ix]
+        scores = score_bundle(bundle, test)
         archive = baseline_predictions(model)
         old = np.array([archive[i]["scores"] for i in parts["test_ids"]])
-        changed = [i for i, a, b in zip(parts["test_ids"], p > 0, old > 0) if not np.array_equal(a,b)]
-        result.append(dict(model=model, n=len(p), hard_prediction_differences=changed,
-                           max_abs_score_delta=float(np.abs(p-old).max())))
+        changes = [i for i, a, b in zip(parts["test_ids"], scores > 0, old > 0) if not np.array_equal(a, b)]
+        assert not changes, f"{model}: reconstructed hard predictions differ from archive."
+        row.update(inference_status="PASS", n=len(scores), hard_prediction_differences=changes,
+                   input_source="cached_embeddings" if model == "minilm_lr" else "frozen_source_text",
+                   max_abs_score_delta=float(np.abs(scores-old).max()))
+        result.append(row)
     write(out / "PACKAGED_MODEL_LOAD.json", result)
     return result
 
@@ -392,7 +506,7 @@ def main():
     args = parser.parse_args()
     hashes = verify_files()
     if args.command == "verify":
-        result = {"hashes_verified":hashes, **verify_data()}
+        result = {"hashes_verified": hashes, **verify_archive_data()}
     else:
         if args.out is None or P in args.out.resolve().parents or args.out.resolve() == P:
             parser.error("Provide --out as a fresh directory outside the package.")

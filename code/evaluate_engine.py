@@ -10,7 +10,17 @@ with (O/'HUMAN_REFERENCE_FINAL_FROZEN.csv').open(encoding='utf-8-sig') as f:huma
 gold={i:human[i]['Current_Author_Label'].split(';') for i in testids};valid=[i for i in testids if gold[i]!=['UNCLEAR']]
 encode=lambda labs:np.array([int(x in labs) for x in L],dtype=int)
 Y=np.stack([encode(gold[i]) for i in valid]);assert len(valid)==58
-by={x['outcome_id']:x for x in load(R/'data/pediatric_outcomes.json')}
+source_path=R/'data/pediatric_outcomes.json'
+source_available=source_path.exists()
+by=({x['outcome_id']:x for x in load(source_path)} if source_available else
+    {i:{'nct':i.split(':')[0],'measure':'WITHHELD_SOURCE_TEXT','description':'WITHHELD_SOURCE_TEXT'} for i in testids})
+(O/'METRIC_SCOPE.json').write_text(json.dumps({
+    'evaluation':'ARCHIVED_PREDICTION_RESCORING',
+    'source_text_available':source_available,
+    'rule_baseline':'REEXECUTED_ON_SOURCE' if source_available else 'SAVED_RULE_PREDICTIONS',
+    'rule_extraction_revalidated':source_available,
+    'model_refitting':False
+},indent=2),encoding='utf8')
 def savecsv(n,rr):
  with (O/n).open('w',encoding='utf-8-sig',newline='') as f:
   w=csv.DictWriter(f,fieldnames=list(rr[0]));w.writeheader();w.writerows(rr)
@@ -36,12 +46,20 @@ def frozen_rule(row):
  for conf in [rules,instruments]:fam.append({mapping[lab] for lab,pat in conf.items() if re.search(pat,text,re.I)})
  labs=fam[0]|fam[1];conflict=bool(fam[0] and fam[1] and fam[0]!=fam[1])
  return sorted(labs),conflict
-weak=load(R/'data/training_weak_labels.json')
-for x in weak:
- labs,conflict=frozen_rule(by[x['record_id']]);assert labs==x['rule_labels'] and conflict==(x['rule_status']=='Rule_sources_disagree')
-rulepred=[]
-for i in testids:
- labs,conflict=frozen_rule(by[i]);rulepred.append({'model':'rule_baseline','strategy':'none','seed':20261123,'budget':0,'Record_ID':i,'predicted_labels':[] if conflict else labs,'scores':None,'training_n':0,'human_trainable_n':0})
+if source_available:
+ weak=load(R/'data/training_weak_labels.json')
+ for x in weak:
+  labs,conflict=frozen_rule(by[x['record_id']]);assert labs==x['rule_labels'] and conflict==(x['rule_status']=='Rule_sources_disagree')
+ rulepred=[]
+ for i in testids:
+  labs,conflict=frozen_rule(by[i]);rulepred.append({'model':'rule_baseline','strategy':'none','seed':20261123,'budget':0,'Record_ID':i,'predicted_labels':[] if conflict else labs,'scores':None,'training_n':0,'human_trainable_n':0})
+else:
+ with (R/'history/baseline/TEST_PREDICTIONS_ALL.csv').open(encoding='utf-8-sig',newline='') as f:
+  stored=[x for x in csv.DictReader(f) if x['model']=='rule_baseline' and int(x['budget'])==0]
+ assert len(stored)==len({x['Record_ID'] for x in stored})==60
+ assert {x['Record_ID'] for x in stored}==set(testids)
+ rulepred=[dict(model='rule_baseline',strategy='none',seed=20261123,budget=0,Record_ID=x['Record_ID'],
+                predicted_labels=x['predicted_labels'].split(';') if x['predicted_labels'] else [],scores=None,training_n=0,human_trainable_n=0) for x in stored]
 allpred=rulepred[:]
 for model in ['tfidf_svm','minilm_lr']:
  p=O/(model+'_PREDICTIONS.json')

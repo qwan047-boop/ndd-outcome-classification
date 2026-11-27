@@ -2,18 +2,17 @@
 
 This research compares rule-based classifiers, TF-IDF with LinearSVC, and MiniLM with logistic regression for assigning five domains to pediatric trial outcome descriptions. It also audits ChatGPT web weak labels and examines offline active-learning replay.
 
-The author confirmed on 27 November 2026 that the authorized project rights holder approved publication of the original project code, human reference, machine weak labels, derived research data and reconstructed classifiers. Target visibility is Public. No remote repository, DOI or project open-source license has been assigned. Third-party material retains its source terms. See PUBLICATION_AUTHORIZATION.md and DATA_SOURCE_AND_TERMS.md.
+The author confirmed on 27 November 2026 that the authorized project rights holder approved publication of the original project code, human reference, machine weak labels, derived research data and reconstructed classifiers. The repository is public at https://github.com/qwan047-boop/ndd-outcome-classification. No DOI or project open-source license has been assigned. Third-party material retains its source terms. See PUBLICATION_AUTHORIZATION.md and DATA_SOURCE_AND_TERMS.md.
 
 ## Third-party text hold
 
-Publication of the complete package is currently BLOCKED. Two required frozen-input files are
-held outside this directory: data/pediatric_outcomes.json and data/registry_source_extract_670.json.
-The source outcome NCT05413187:secondaryOutcomes:3 contains a sponsor confidentiality and prior-written-
-permission statement. Project-owned asset publication is approved, but this explicit source notice
-has not been resolved. No historical text, label, prediction or model was changed to bypass it.
-The checksums cover the files actually included here. Dataset-dependent commands need the two
-original files restored with their verified hashes after the third-party issue is resolved.
-Full-input scoring and model loading were verified before the hold was applied.
+Two frozen source-text files are withheld: data/pediatric_outcomes.json and
+data/registry_source_extract_670.json. The source outcome NCT05413187:secondaryOutcomes:3 contains
+a sponsor confidentiality and prior-written-permission statement that remains unresolved.
+The released labels, predictions, cached embeddings and reconstructed classifiers support the
+archive checks below. Re-executing text rules, TF-IDF test inference, training and model-refitting
+replay require the missing source texts. The publication of those texts remains blocked.
+No historical input, label, prediction or model was edited to bypass the hold.
 
 ## Files
 
@@ -42,13 +41,24 @@ python -B reproduce.py metrics --out ../run_metrics
 python -B reproduce.py load-models --out ../run_load
 ~~~
 
-verify checks both SHA-256 lists, dataset counts, protected partitions, recognized leakage boundaries, and original outcome fields. The provenance scripts verify archived batch IDs, ordered record mappings and source fingerprints offline. metrics recomputes the baseline and replay scores and Bootstrap intervals from frozen predictions. load-models scores the fixed test records using the packaged reconstructed estimators, saved vectorizer and cached embeddings. Joblib is pickle-based. Load only snapshots from a trusted, independently verified package under the pinned software versions. A checksum verifies bytes and does not establish that an artifact is trustworthy.
+|Command|Checks available in the public package|Limitations explicitly reported|
+|---|---|---|
+|verify|Both checksum lists, 1,934 training targets, 60/40 reference partitions, 200 LLM records, NCT disjointness and archived near-duplicate edges.|Returns PASS_WITH_LIMITATIONS while raw-text and complete component checks are unavailable.|
+|metrics|Recomputes three baseline and archived replay metrics, classwise scores, original 1,000-draw bootstrap and manuscript 2,000-draw SVM/MiniLM intervals.|Uses saved rule predictions when source text is withheld; it does not rerun the text rules, train models or validate source extraction. METRIC_SCOPE.json records the scope.|
+|load-models|Deserializes both RECONSTRUCTED_MODEL bundles and checks MiniLM predictions for 60 records using the archived embedding cache.|SVM inference is BLOCKED_MISSING_SOURCE_TEXT. Loading its fitted vectorizer is not a test of text-to-prediction equivalence.|
+
+Successful exit codes mean the stated public-archive checks completed. They do not mean every
+historical end-to-end operation is available. Read the per-operation JSON status before reporting
+reproduction. The provenance scripts verify archived batch IDs, ordered record mappings and source
+fingerprints offline. Joblib is pickle-based and can execute code during deserialization. Load only
+trusted, independently verified artifacts under the recorded scikit-learn version. A checksum verifies
+bytes and does not establish trustworthiness.
 
 SHA256_MANIFEST.json covers the analysis files. SHA256SUMS.txt also includes that JSON manifest. The SHA256SUMS.txt file's own hash is held in the external upload manifest. The Git attributes file preserves file bytes across platforms.
 
-## Optional workflows involving refitting
+## Historical workflows requiring withheld source texts and refitting
 
-The Stage 3 standalone evaluation exercised these workflows. Use the recorded conditions and fresh output directories. The release-preparation validation checks saved artifacts without refitting.
+The Stage 3 local evaluation exercised these workflows with complete authorized inputs. They are not currently runnable from the public checkout because the frozen source-text files are withheld. The repair validation does not execute refits. These commands are retained as documented historical workflows:
 
 ~~~
 python -B reproduce.py train --out ../run_train
