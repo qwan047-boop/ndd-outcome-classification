@@ -1,0 +1,869 @@
+{
+  "Batch_ID": "CHATGPT_EXPANSION_BATCH_05",
+  "Prompt_Version": "ndd-web-multiaxis-v1.0.0",
+  "Results": [
+    {
+      "Record_ID": "NCT02561481:secondaryOutcomes:6",
+      "NCT_ID": "NCT02561481",
+      "Outcome_Domain": [
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "14"
+      ],
+      "NDD_Subdomain": [
+        "BiologicalMechanistic"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Free GSH:GSSG and Total GSH:GSSG Ratios"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "14",
+          "Source_Field": "Outcome_Description",
+          "Quote": "free reduced GSH and GSSG"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "BiologicalMechanistic",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Free GSH:GSSG and Total GSH:GSSG Ratios"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03900923:secondaryOutcomes:1",
+      "NCT_ID": "NCT03900923",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "26",
+        "29",
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "SocialCommunication",
+        "CognitionLanguage",
+        "RepetitiveBehavior"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Communication, Social Motivation, and Restricted Interests and Repetitive Behavior"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Cognition"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "26",
+          "Source_Field": "Outcome_Description",
+          "Quote": "defcits in social interaction"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Cognition"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Restricted Interests and Repetitive Behavior"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Communication"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Cognition"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "RepetitiveBehavior",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Restricted Interests and Repetitive Behavior"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03156153:secondaryOutcomes:4",
+      "NCT_ID": "NCT03156153",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "29"
+      ],
+      "NDD_Subdomain": [
+        "CognitionLanguage"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "nonverbal measure of symbolic functioning"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "nonverbal measure of symbolic functioning"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "nonverbal measure of symbolic functioning"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT07300956:primaryOutcomes:0",
+      "NCT_ID": "NCT07300956",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Attention-Deficit/Hyperactivity Disorder symptoms have changed"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Attention-Deficit/Hyperactivity Disorder symptoms have changed"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Attention-Deficit/Hyperactivity Disorder symptoms have changed"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03183674:primaryOutcomes:0",
+      "NCT_ID": "NCT03183674",
+      "Outcome_Domain": [
+        "UNCLEAR"
+      ],
+      "COMET_Domain": [
+        "UNCLEAR"
+      ],
+      "NDD_Subdomain": [
+        "UNCLEAR"
+      ],
+      "Evidence_Span": [],
+      "Uncertainty": "HIGH",
+      "Abstain": true,
+      "Abstain_Reason": "Eye tracking identifies a measurement method without specifying the measured construct."
+    },
+    {
+      "Record_ID": "NCT00681863:secondaryOutcomes:34",
+      "NCT_ID": "NCT00681863",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "09"
+      ],
+      "NDD_Subdomain": [
+        "GlobalFunction"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "change of the patient's overall condition"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Description",
+          "Quote": "change of the patient's overall condition"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Patient Global Impression - Improvement"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01883817:primaryOutcomes:0",
+      "NCT_ID": "NCT01883817",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Attention-Deficit Hyperactivity Disorder Symptom Ratings"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Attention-Deficit Hyperactivity Disorder Symptom Ratings"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Attention-Deficit Hyperactivity Disorder Symptom Ratings"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00211757:primaryOutcomes:0",
+      "NCT_ID": "NCT00211757",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "21",
+        "09"
+      ],
+      "NDD_Subdomain": [
+        "IrritabilityAggression",
+        "GlobalFunction"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "OAS-M aggression and irritability subscales"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "a general version CGI-I-autism focused on all symptoms including core symptom domains"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "OAS-M aggression and irritability subscales"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Description",
+          "Quote": "a general version CGI-I-autism focused on all symptoms including core symptom domains"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Description",
+          "Quote": "OAS-M aggression and irritability subscales"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "a general version CGI-I-autism focused on all symptoms including core symptom domains"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04219280:secondaryOutcomes:3",
+      "NCT_ID": "NCT04219280",
+      "Outcome_Domain": [
+        "Safety",
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "03"
+      ],
+      "NDD_Subdomain": [
+        "SafetyTolerability",
+        "BiologicalMechanistic"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Frequency of clinically significant cardiac occurrences"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "changes for Heart Rate (HR)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "03",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "clinically significant cardiac occurrences"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Frequency of clinically significant cardiac occurrences"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "BiologicalMechanistic",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "changes for Heart Rate (HR)"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00541346:secondaryOutcomes:8",
+      "NCT_ID": "NCT00541346",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "26"
+      ],
+      "NDD_Subdomain": [
+        "AdaptiveFunction"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "degree of independence in the Social-Function area"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "26",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social-Function"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AdaptiveFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "degree of independence in the Social-Function area"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01970345:secondaryOutcomes:1",
+      "NCT_ID": "NCT01970345",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "21",
+        "26",
+        "29",
+        "17"
+      ],
+      "NDD_Subdomain": [
+        "RepetitiveBehavior",
+        "SocialCommunication",
+        "AnxietyEmotion",
+        "IrritabilityAggression",
+        "CognitionLanguage",
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Specific Fears, and Aggressiveness subscales"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Expressive, and Learning Memory subscales"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Sensory"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Specific Fears, and Aggressiveness subscales"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "26",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Approach"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Learning Memory"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Sensory"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "RepetitiveBehavior",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Ritual"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Pragmatic"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AnxietyEmotion",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Specific Fears"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Aggressiveness"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Expressive, and Learning Memory subscales"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Sensory"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "Sensory outcomes lack a specific project leaf; the Arouse subscale is named without sufficient construct detail."
+    },
+    {
+      "Record_ID": "NCT07630506:otherOutcomes:2",
+      "NCT_ID": "NCT07630506",
+      "Outcome_Domain": [
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "14"
+      ],
+      "NDD_Subdomain": [
+        "BiologicalMechanistic"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Description",
+          "Quote": "plasma ergothioneine concentration"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "14",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Plasma ergothioneine (ET, nM), hercynine (nM), and ophthalmic acid"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "BiologicalMechanistic",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Plasma ergothioneine (ET, nM), hercynine (nM), and ophthalmic acid"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03260205:primaryOutcomes:0",
+      "NCT_ID": "NCT03260205",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "hyperactivity/impulsivity"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "frequency of occurrence of ADHD symptoms"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "inattentiveness"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03900923:secondaryOutcomes:7",
+      "NCT_ID": "NCT03900923",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "30",
+        "37"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "impact of autism interventions on family experience and quality of life"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "30",
+          "Source_Field": "Outcome_Description",
+          "Quote": "quality of life"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "37",
+          "Source_Field": "Outcome_Description",
+          "Quote": "impact of autism interventions on family experience"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "impact of autism interventions on family experience and quality of life"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT06568588:primaryOutcomes:8",
+      "NCT_ID": "NCT06568588",
+      "Outcome_Domain": [
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "09",
+        "17"
+      ],
+      "NDD_Subdomain": [
+        "AdaptiveFunction",
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "adaptive functioning"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "sensory response"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Description",
+          "Quote": "adaptive functioning"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Description",
+          "Quote": "sensory response"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AdaptiveFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "adaptive functioning"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "sensory response"
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "The stated adaptive and sensory constructs are retained; conduct is unspecified, and the named ADOS-2 assessment does not resolve the endpoint's construct ambiguity."
+    },
+    {
+      "Record_ID": "NCT03109756:primaryOutcomes:2",
+      "NCT_ID": "NCT03109756",
+      "Outcome_Domain": [
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "UNCLEAR"
+      ],
+      "NDD_Subdomain": [
+        "Pharmacokinetics"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Measurement of plasma half-life following a single dose"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Pharmacokinetics",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Plasma half-life (T1/2)"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "Pharmacokinetic half-life is explicit; no specific pharmacokinetic domain is provided in the supplied COMET categories."
+    },
+    {
+      "Record_ID": "NCT05439616:primaryOutcomes:0",
+      "NCT_ID": "NCT05439616",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "IrritabilityAggression"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Irritability (ABC-I) Subscale Score"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Irritability (ABC-I) Subscale Score"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Irritability (ABC-I) Subscale Score"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03460652:primaryOutcomes:0",
+      "NCT_ID": "NCT03460652",
+      "Outcome_Domain": [
+        "Safety"
+      ],
+      "COMET_Domain": [
+        "38"
+      ],
+      "NDD_Subdomain": [
+        "SafetyTolerability"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Treatment-Emergent Adverse Events (TEAEs)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "38",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Treatment-Emergent Adverse Events (TEAEs)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Treatment-Emergent Adverse Events (TEAEs)"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01418352:secondaryOutcomes:1",
+      "NCT_ID": "NCT01418352",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "30"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "measurement of health-related quality of life"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "30",
+          "Source_Field": "Outcome_Description",
+          "Quote": "measurement of health-related quality of life"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "measurement of health-related quality of life"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01825798:secondaryOutcomes:0",
+      "NCT_ID": "NCT01825798",
+      "Outcome_Domain": [
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "14"
+      ],
+      "NDD_Subdomain": [
+        "GrowthMetabolic"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Absolute Change in Weight"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "14",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Absolute Change in Weight"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GrowthMetabolic",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Absolute Change in Weight"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    }
+  ]
+}

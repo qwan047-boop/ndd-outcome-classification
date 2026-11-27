@@ -1,0 +1,1622 @@
+{
+  "CHATGPT_BATCH_01": [
+    {
+      "Record_ID": "NCT00641329:primaryOutcomes:0",
+      "NCT_ID": "NCT00641329",
+      "Outcome_Measure": "ADHDRS-IV Total Score",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Week 5"
+    },
+    {
+      "Record_ID": "NCT04569357:secondaryOutcomes:3",
+      "NCT_ID": "NCT04569357",
+      "Outcome_Measure": "CGI-EI Efficacy Score",
+      "Outcome_Description": "Clinical Global Impression Efficacy Index (CGI-EI). Rating scale for assessment of the therapeutic effect of treatment and associated side effects. The scale consists of 2 items: therapeutic effect and side effects. Scores in therapeutic effect range from 1 (marked improvement) to 13 (unchanged or worse). Scores in side effects range from 0 (no side effects) to 3 (side effects outweigh therapeutic effects). Efficacy index ranges between 0 and 16. Higher values represent a worse result. CGI-EI is filled out by an investigator. It is necessary to indicate the level of efficacy of the therapy and the grade of safety of the therapy and circle the index values at the intersection of the selected lines.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "After 8 weeks of treatment"
+    },
+    {
+      "Record_ID": "NCT03292952:secondaryOutcomes:0",
+      "NCT_ID": "NCT03292952",
+      "Outcome_Measure": "Change From Baseline in Permanent Product Measure of Performance (PERMP) Rating Scale, Number of Problems Attempted (PERMP-A)",
+      "Outcome_Description": "The PERMP is an adjusted math test designed to assess attention in children with ADHD (Swanson 1999). The test measures attention through a subject's ability to initiate, self-monitor, and complete the math test. A Placement PERMP was performed early in the trial to assure that subjects could complete at least the basic level of math problems and to determine the appropriate level of math to be assigned during the remainder of the study. The PERMP is an individually calibrated 5-page mathematics worksheet consisting of 400 problems. PERMP-A scores document the number of problems attempted, from 0 to 400, and thus higher scores represent a better outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Average of all time points during the full laboratory classroom day, which occurred on Day 7 (Day 28 of the overall study) of the Treatment Phase"
+    },
+    {
+      "Record_ID": "NCT01156051:secondaryOutcomes:0",
+      "NCT_ID": "NCT01156051",
+      "Outcome_Measure": "Change in Baseline to Treatment ADHD-Rating Scale IV Total Score",
+      "Outcome_Description": "Change in baseline to treatment ADHD-Rating Scale IV (Investigator-interview ) total. This scale quantitates ADHD symptoms based on DSM-IV criteria with a minimum score of 0 and a maximum score of 54 (higher scores suggesting more ADHD symptoms). The total score is a sum of the 9 items on the ADHD Rating Scale IV inattention score and the 9 items on the ADHD Rating Scale IV hyperactivity-impulsivity score (scores for each 0-27).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to last observation carried forward (after at least one week of dose stability)"
+    },
+    {
+      "Record_ID": "NCT05439616:secondaryOutcomes:1",
+      "NCT_ID": "NCT05439616",
+      "Outcome_Measure": "Change from Baseline in Parent-Rated Anxiety Scale for Youth with Autism Spectrum Disorder (PRAS-ASD) Total Score",
+      "Outcome_Description": "PRAS-ASD is a 25-item caregiver-reported measure of anxiety in participants aged 3 to 17 with ASD. All items use a 4-point response scale: 0 = \"None (not present);\" 1 = \"Mild (present sometimes, not a real problem);\" 2 = \"Moderate (often present and a problem);\" 3 = \"Severe (very frequent and a major problem).\" Total score ranges from 0 to 75, with higher scores indicating greater severity of anxiety.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline (Week 0) to Week 8"
+    },
+    {
+      "Record_ID": "NCT05516407:primaryOutcomes:0",
+      "NCT_ID": "NCT05516407",
+      "Outcome_Measure": "Clinical Global Impression Scale - Improvement (CGI-I)",
+      "Outcome_Description": "This is a 7-point scale measuring symptom change from baseline. Where a score of 1 is very much improved and a score of 7 is very much worse.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline, Weeks 5, 9, 13 & 17"
+    },
+    {
+      "Record_ID": "NCT02582515:primaryOutcomes:0",
+      "NCT_ID": "NCT02582515",
+      "Outcome_Measure": "Hopkins Motor/Vocal Tic Scale (HM/VTS)",
+      "Outcome_Description": "Participants can nominate up to five motor and five vocal tics they deem bothersome on the HM/VTS. Each bothersome tic is then rated by a clinician on a 5-point scale ranging from none (0) to severe (4).\n\nThe individual tic scores are summed (minimum of 0 and maximum of 40) and averaged together to create an average tic severity score. Lower scores represent less tic severity, and higher scores indicate greater tic severity.\n\nThe primary outcome will be the difference in the average score of the two bothersome tics on the HM/VTS that were targeted in treatment (range: 0-8). Change scores were calculated by subtracting the average of the two bothersome tics on the HM/VTS at post-treatment from the average of the two bothersome tics on the HM/VTS at the pre-treatment assessment. Positive scores indicate improvement/decrease in targeted tic severity, with negative scores indicating increase in targeted tic severity",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Pre-treatment, One Week post-treatment"
+    },
+    {
+      "Record_ID": "NCT02402166:primaryOutcomes:1",
+      "NCT_ID": "NCT02402166",
+      "Outcome_Measure": "Change in Sleep Patterns Assessed by Children's Sleep Habits Questionnaire at Week 8 / End of Treatment (ET)",
+      "Outcome_Description": "Children's Sleep Habits Questionnaire is a tool designed to screen the most common sleep problems in children, and consists of 33 items for scoring. The instrument evaluates the child's sleep based on behavior within 8 different subscales: bedtime resistance, sleep-onset delay, sleep duration, sleep anxiety, night walkings, parasomnias, sleep-disordered breathing, and daytime sleepiness. Each item receives a score from 1 (problem occurs rarely) to 3 (problem usually occurs); therefore, a higher score is the worse outcome. Scale ranges are as follows: bedtime resistance: 6 to 18, sleep onset delay: 1 to 3, sleep duration: 3 to 9, sleep anxiety: 4 to 12, night walkings: 3 to 9, parasomnias: 7 to 21, sleep-disordered breathing: 3 to 9, daytime sleepiness: 8 to 24, and total disturbance (items from all scales): 33 to 99.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline, Week 8/ET"
+    },
+    {
+      "Record_ID": "NCT02649959:primaryOutcomes:0",
+      "NCT_ID": "NCT02649959",
+      "Outcome_Measure": "Aberrant Behavioral Checklist: Subscale of Irritability / Agitation (ABC-I) at fecal chymotrypsin (FCT) levels less than or equal to 12.6",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Change from Baseline to each post-baseline visit, through study completion Week 72."
+    },
+    {
+      "Record_ID": "NCT01039792:primaryOutcomes:0",
+      "NCT_ID": "NCT01039792",
+      "Outcome_Measure": "Clinical Global Impression-Improvement (CGI-I)",
+      "Outcome_Description": "PI assesses subject's change using the CGI-I measure. This is a 7-point Likert scale that assesses improvement of the patient's condition. Scores range from the worst score of 7 (Very much worse) to the best score of 1 (Very much improved). Lower scores are better on this scale, and indicate greater improvement.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "8 weeks"
+    },
+    {
+      "Record_ID": "NCT02226458:secondaryOutcomes:5",
+      "NCT_ID": "NCT02226458",
+      "Outcome_Measure": "Secondary Endpoint",
+      "Outcome_Description": "Change from baseline to six months in intellectual function, attention and memory as assessed by Leiter-R test",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "6 months"
+    },
+    {
+      "Record_ID": "NCT06568588:primaryOutcomes:6",
+      "NCT_ID": "NCT06568588",
+      "Outcome_Measure": "Modifications of nutrient intake during Sb administration",
+      "Outcome_Description": "Changes in the nutrient intake of children with ASD when they are receiving Sb supplementation. The 24-hour reminder questionnaire will be applied to quantify nutrient intake.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Nutrient intake will be determined at months 1, 4, 5, 9 and 10 of the study."
+    },
+    {
+      "Record_ID": "NCT03788902:primaryOutcomes:0",
+      "NCT_ID": "NCT03788902",
+      "Outcome_Measure": "changes in scores of ToM test",
+      "Outcome_Description": "ToM test - consists of vignettes, stories, and drawings about which the child has to answer a number of questions.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "20 minutes"
+    },
+    {
+      "Record_ID": "NCT02466425:secondaryOutcomes:0",
+      "NCT_ID": "NCT02466425",
+      "Outcome_Measure": "Clinical Global Impression of Improvement (CGI-I) at Visit 6 (Week 4)",
+      "Outcome_Description": "CGI-I was performed to rate the severity of a participant's condition on a 7-point scale ranging from 1 (very much improved) to 7 (very much worse).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Visit 6 (Week 4)"
+    },
+    {
+      "Record_ID": "NCT01709695:primaryOutcomes:1",
+      "NCT_ID": "NCT01709695",
+      "Outcome_Measure": "Go/No-go Task Reaction Time",
+      "Outcome_Description": "Measures of go/no-go task performance during functional magnetic resonance imaging. Performance on a go-nogo task inside the scanner.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline and 8 weeks"
+    },
+    {
+      "Record_ID": "NCT01133847:primaryOutcomes:5",
+      "NCT_ID": "NCT01133847",
+      "Outcome_Measure": "Wechsler Individual Achievement Test-III (WIAT-III) Pseudoword Decoding Subtest",
+      "Outcome_Description": "The WIAT-III is an individually-administered test of academic achievement. In the Pseudoword Decoding subtest students read a list of increasingly difficult nonsense words as a test of their ability to use phonics to decode unknown words. Scores reported here are standardized scores with a mean of 100 and standard deviation of 15. Higher scores represent a better outcome.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Week 16 (End of Active Treatment Phase) and Follow-Up"
+    },
+    {
+      "Record_ID": "NCT00541346:secondaryOutcomes:2",
+      "NCT_ID": "NCT00541346",
+      "Outcome_Measure": "Change in Aberrant Behavior Checklist (ABC) Lethargy Scores From Baseline to 8-week Follow-up Visit",
+      "Outcome_Description": "The ABC is a behavior rating scale administered by the clinician which is designed to measure behavior changes brought about by drug treatment effects. 16 of these items comprise the lethargy/social withdrawal factor. Each item is scored on a 3 point scale where 0 indicates the behavior is not a problem and 3 indicates the behavior problem is severe in degree. The minimum score on this factor is 0 (no behavior problems) while the maximum score is 48 ( severe behavior problems).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 8 weeks"
+    },
+    {
+      "Record_ID": "NCT04085172:secondaryOutcomes:39",
+      "NCT_ID": "NCT04085172",
+      "Outcome_Measure": "Parts A and B: Behavioral, Social, and Academic Issues Assessed Using Conners 3 Parent Short Form (C3PS): Total Score",
+      "Outcome_Description": "The Conners 3 was a focused tool for the assessment of ADHD and associated learning, behavior, and emotional problems in children 6 to 18 years of age. The C3PS was completed by a child's parent/guardian and comprised of 45 items with subsets of items related to six content scales: inattention, hyperactivity/impulsivity, executive functioning, learning problems, defiance/aggression and peer relations. The parent rated his/her child on the first 43 items of the C3PS using a 4-point Likert scale (0-3; where 0=not at all true \\[never, seldom\\] and 3=very much true \\[very often, very frequently\\]) based on past month; the last 2 items were fill-in-the-blank and do not contribute to the raw score(s). Total scores were evaluated by summing the 43 numeric items, resulting in a range of 0 to 129, where higher score indicated a greater frequency of issues",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Part A: Baseline, Weeks 18 and 49; Part B: Baseline, Weeks 23, 36 and 49"
+    },
+    {
+      "Record_ID": "NCT00796302:otherOutcomes:0",
+      "NCT_ID": "NCT00796302",
+      "Outcome_Measure": "Antisocial Behavior Scale - Reactive Aggression Subscale",
+      "Outcome_Description": "The Antisocial Behavior Scale (ABS) is a 28-item scale that contains 10 Proactive Aggression items and six Reactive Aggression items. Each item is rated on a 3-point scale, ranging from 1 (Never) to 3 (Very often). Thus, scores on the Reactive Aggression subscale can range from 6 through 18; with higher scores indicating more reactive aggression.",
+      "Outcome_Type": "otherOutcomes",
+      "Time_Frame": "Measured at baseline and Week 9"
+    },
+    {
+      "Record_ID": "NCT01109849:secondaryOutcomes:9",
+      "NCT_ID": "NCT01109849",
+      "Outcome_Measure": "Change in Weight z Score During Weight Recovery Phase (Second Randomization)",
+      "Outcome_Description": "difference in weight z score from entry into weight recovery phase to exit from weight recovery phase (exact duration varied by participant). Randomization could not occur before month 6 (equaling a 24 month duration) but could start as late as month 29 (equaling a 1 month duration) of treatment based on the pattern of zBMI change by the individual participant.\n\nZ scores used to account for differences in age and gender. Larger values reflect a greater incremental weight gain.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "1 to 24 months duration"
+    }
+  ],
+  "CHATGPT_BATCH_02": [
+    {
+      "Record_ID": "NCT05523895:primaryOutcomes:0",
+      "NCT_ID": "NCT05523895",
+      "Outcome_Measure": "Change From Baseline at Week 6 in Caregiver-rated Aberrant Behavior Checklist Irritability (ABC-I) Subscale Score",
+      "Outcome_Description": "The Aberrant Behavior Checklist (ABC) is a caregiver-rated scale comprised of 5 empirically-derived subscales encompassing 58 items that describe various behavior problems. It measures domains of irritability, lethargy/social withdrawal, stereotypic behavior, hyperactivity/noncompliance, and inappropriate speech. ABC-I is one of the subscales and comprises of 15 items. Minimum score is 0, maximum is 45. A score for each item ranges from 0 indicating \"not at all a problem\" to 3 indicating \"the problem is severe in degree\". Subscale scores are calculated by summing the items within that subscale. Higher scores indicate greater impairment.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "6 weeks"
+    },
+    {
+      "Record_ID": "NCT06333964:primaryOutcomes:0",
+      "NCT_ID": "NCT06333964",
+      "Outcome_Measure": "K-VABS-II (Korean-Vineland Adaptive Behavior Scale-II)",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline, 12week, 24week"
+    },
+    {
+      "Record_ID": "NCT07285798:secondaryOutcomes:9",
+      "NCT_ID": "NCT07285798",
+      "Outcome_Measure": "Number of Participants With Treatment-emergent Adverse Events (TEAEs)",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Up to approximately 12 weeks"
+    },
+    {
+      "Record_ID": "NCT03325881:secondaryOutcomes:2",
+      "NCT_ID": "NCT03325881",
+      "Outcome_Measure": "Number of Participants With Clinically Significant Change in Vital Signs Were Reported as Adverse Event (AE)",
+      "Outcome_Description": "Vital sign assessments included systolic and diastolic blood pressure and pulse. Participants with clinically significant deviations from baseline values which are deemed clinically significant in the opinion of the investigator were considered as AE's. An AE was any untoward medical occurrence in a clinical investigation participant administered a pharmaceutical product and that does not necessarily have a causal relationship with this treatment.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "From start of study drug administration up to follow-up (Week 5)"
+    },
+    {
+      "Record_ID": "NCT06951854:primaryOutcomes:0",
+      "NCT_ID": "NCT06951854",
+      "Outcome_Measure": "Change from baseline in the composite scores of the major domains of the Korean Vineland Adaptive Behavior Scales-II (K-Vineland-II) at Week 8 after administration.",
+      "Outcome_Description": "Change from baseline in the composite scores of the major domains of the Korean Vineland Adaptive Behavior Scales-II (K-Vineland-II) at Week 8 after administration.\\*\n\nFor children under 7 years of age, the composite score refers to the standard scores of all four major domains: Communication, Daily Living Skills, Socialization, and Motor Skills.\n\nFor children aged 7 years and older, the composite score refers to the standard scores of the three domains excluding Motor Skills: Communication, Daily Living Skills, and Socialization.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "From enrollment to the end of treatment at 8 weeks"
+    },
+    {
+      "Record_ID": "NCT07300956:secondaryOutcomes:6",
+      "NCT_ID": "NCT07300956",
+      "Outcome_Measure": "Pittsburgh Side Effects Rating Scale",
+      "Outcome_Description": "The Pittsburgh Side Effects Rating Scale will be completed by caregivers and will measure safety and tolerability. This version of the scale has been adapted to include one additional item related to daytime sleepiness, a known side effect of Guanfacine, resulting in a total of 14 items. Each item is rated on a scale from 0 to 3, where 0 means the side effect is not present, 1 means the side effect is mild, 2 means the side effect is moderate, and 3 means the side effect is severe. Total scores range from 0 to 42, with 0 indicating no side effect symptoms and higher scores indicating more/worse side effects.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "From enrollment to the end of the 16-week medication treatment."
+    },
+    {
+      "Record_ID": "NCT07383363:primaryOutcomes:0",
+      "NCT_ID": "NCT07383363",
+      "Outcome_Measure": "Reduction in severity",
+      "Outcome_Description": "Efficacy of the treatment will be assessed using the Childhood Autism Rating Scale (CARS) score, which ranges between 15 and 60. Efficacy will be deemed 'yes' if a CARS score lower than the baseline is achieved.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "3 months"
+    },
+    {
+      "Record_ID": "NCT00782080:secondaryOutcomes:0",
+      "NCT_ID": "NCT00782080",
+      "Outcome_Measure": "Barkley´s Side Effects Rating Scale",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Difference between baseline and each visit"
+    },
+    {
+      "Record_ID": "NCT00850070:secondaryOutcomes:4",
+      "NCT_ID": "NCT00850070",
+      "Outcome_Measure": "Adverse Events Scale",
+      "Outcome_Description": "This was not a standardized scale but a set of questions that was asked of each family - some standard and others open ended.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Every 1-2 weeks for 16 weeks"
+    },
+    {
+      "Record_ID": "NCT01972074:primaryOutcomes:0",
+      "NCT_ID": "NCT01972074",
+      "Outcome_Measure": "Treatment Responder",
+      "Outcome_Description": "Treatment responders are defined as having a 25% reduction, from baseline to endpoint, in Social Responsiveness Scale, Second Edition: School-Age, Parent Report (SRS-2) total raw score and an Autism Spectrum Disorder Clinical Global Impression-Improvement (ASD CGI-I) score ≤2. The Social Responsiveness Scale, Second Edition (SRS-2) is a 65-item rating scale completed by the parents/guardians of children ages 4-18. It is used to measure the severity of autism spectrum disorder symptoms. Each item is rated on a 4-point Likert scale, ranging from 1=Not True to 4=Almost Always True. Higher scores indicate a higher severity of autism spectrum disorder symptoms. The Autism Spectrum Disorder Clinical Global Impression-Improvement subscale (ASD CGI-I) is a clinician-rated measure of the improvement of autism spectrum disorder symptoms. The subscale is rated on a 7-point Likert scale, ranging from 1=Very Much Improved to 7=Very Much Worse. Higher scores indicate less symptom improvement.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "12 Weeks (from Baseline [Week 0] to Endpoint [Week 12])"
+    },
+    {
+      "Record_ID": "NCT05063656:primaryOutcomes:0",
+      "NCT_ID": "NCT05063656",
+      "Outcome_Measure": "Right Anterior Insula GABA level",
+      "Outcome_Description": "Cortical GABA Levels in right anterior insula as measured by magnetic resonance spectroscopy",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "8 weeks"
+    },
+    {
+      "Record_ID": "NCT05187377:primaryOutcomes:0",
+      "NCT_ID": "NCT05187377",
+      "Outcome_Measure": "Visual Evoked Potentials (VEP)",
+      "Outcome_Description": "A noninvasive technique to evaluate the functional integrity of visual pathways in the brain from the retina to the visual cortex via the optic nerve/optic radiations. The VEP is recorded from the head's surface, over the visual cortex, and is extracted from ongoing EEG through signal averaging. VEPs reflect the sum of excitatory and inhibitory postsynaptic potentials occurring on apical dendrites which modulate excitatory and inhibitory signals received by the pyramidal cells.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "After 12 weeks of growth hormone therapy"
+    },
+    {
+      "Record_ID": "NCT03662763:primaryOutcomes:0",
+      "NCT_ID": "NCT03662763",
+      "Outcome_Measure": "Attention Deficit Hyperactivity Disorder-Rating Scale -IV",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "13 weeks"
+    },
+    {
+      "Record_ID": "NCT00365859:secondaryOutcomes:7",
+      "NCT_ID": "NCT00365859",
+      "Outcome_Measure": "Change From Baseline in Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS) Score at Week 52 (Endpoint, LOCF)",
+      "Outcome_Description": "CY-BOCS is a 10-item, clinician-rated scale designed to measure the severity of obsessive-compulsive symptoms in patients below the age of 18. The scale contains 5 items pertaining to obsessions (which were not used in this trial) and 5 items pertaining to compulsions, which rated each symptom domain in terms of time spent, interference with functioning, distress, resistance, and control. Each item was rated on a 5-point scale, from 0 (no symptoms or minimum severity) to 4 (extreme symptoms or maximum severity). CY-BOCS Score is from 0 to 20. A negative change score signifies improvement.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 0 (Baseline), Week 52 (Endpoint, LOCF)"
+    },
+    {
+      "Record_ID": "NCT01357239:secondaryOutcomes:4",
+      "NCT_ID": "NCT01357239",
+      "Outcome_Measure": "Global Improvement of Symptoms in Fragile X Using the Clinical Global Impression-Improvement (CGI-I) Scale in Stratum I",
+      "Outcome_Description": "The Clinical Global Impression-Improvement (CGI-I) scale is a clinician rated scale used to assess treatment response in psychiatric patients, and the score ranges from 1 to 7 (with 1 being \"very much improved\", 4 being \"no change\" to 7 being \"very much worse\"). Stratum I included patients whose FMR1 gene was fully methylated.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "12 weeks"
+    },
+    {
+      "Record_ID": "NCT03434366:secondaryOutcomes:2",
+      "NCT_ID": "NCT03434366",
+      "Outcome_Measure": "Childhood Autism Rating Scale (CARS)",
+      "Outcome_Description": "CARS assesses the child on a scale from 1 to 4 in each of 15 dimensions or symptoms (including the ability to relate to people, emotional response, imitation, body use, object use, listening response, fear or nervousness, verbal communication, nonverbal communication, activity level, level and reliability of intellectual response, adaptation to changes, visual response, taste, smell and touch responses and general impressions). A total score of at least 30 strongly suggests the presence of autism. Children who score between 30 and 36 have mild-to-moderate autism while those with scores between 37 and 60 have severe autism. Change in CARS from Baseline to Endpoint.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "change from baseline at 2, 5 and 12 weeks"
+    },
+    {
+      "Record_ID": "NCT01876719:secondaryOutcomes:0",
+      "NCT_ID": "NCT01876719",
+      "Outcome_Measure": "CGI-ADHD-S/I",
+      "Outcome_Description": "CGI-ADHD-S (severity) and I (improvement) - change from Baseline.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Day 35"
+    },
+    {
+      "Record_ID": "NCT02920892:primaryOutcomes:0",
+      "NCT_ID": "NCT02920892",
+      "Outcome_Measure": "Change in Weighted Child Intentional Communication Score",
+      "Outcome_Description": "The Weighted Child Intentional Communication Score is derived from a 22 minute semi-structured examiner/child play session. Structured and unstructured component scores are found by multiplying each intentional communication act by the following weights: nonverbal = 1; single symbol = 2; and multiple symbols = 3. The two scores are summed together to obtain the total. Higher scores indicate more child-initiated communication. There is no maximum score.\n\nThe scale was administered at Baseline, Month 2, Month 4, Month 6, and Month 8. A composite score representing the average of the estimated change scores calculated at months 2, 4, 6, and 8 was recorded. A higher least squares mean value indicates a greater increase in WCS score from baseline.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline through Month 8"
+    },
+    {
+      "Record_ID": "NCT02695355:primaryOutcomes:0",
+      "NCT_ID": "NCT02695355",
+      "Outcome_Measure": "Classification as responders (REs) or non-responders (non-REs) based on daily ratings from parents and teachers of ADHD symptoms during a four weeks medication trial",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Classification as RE or non-RE within a time frame of five to ten weeks after onset of medication trial."
+    },
+    {
+      "Record_ID": "NCT02683265:secondaryOutcomes:3",
+      "NCT_ID": "NCT02683265",
+      "Outcome_Measure": "Clinical Global Impression Scale of Improvement (CGI-I) Score at End of Double Blind Phase Relative to End of Open Label Phase (Baseline).",
+      "Outcome_Description": "The scale provides a global rating of illness improvement during the trial. The subject is rated relative to the clinician's past experience with other subjects who have the same diagnosis. The CGI-I scale is 1 question, and rates improvement compared with a baseline visit using a 7-point scale. The range of responses are from 1 (very much improved) through 7 (very much worse).\n\nA lower value is a better the outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "2 weeks: End of open label phase (Baseline) at study day 84 to end of double blind treatment at study day 98."
+    }
+  ],
+  "CHATGPT_BATCH_03": [
+    {
+      "Record_ID": "NCT00515320:secondaryOutcomes:2",
+      "NCT_ID": "NCT00515320",
+      "Outcome_Measure": "The indirect effects on patient caregivers of the dose regime in these subjects compared to placebo during treatment.",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Throughout the study"
+    },
+    {
+      "Record_ID": "NCT00506727:secondaryOutcomes:1",
+      "NCT_ID": "NCT00506727",
+      "Outcome_Measure": "treatment-emergent adverse events",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "approximately 3 weeks"
+    },
+    {
+      "Record_ID": "NCT00273650:primaryOutcomes:0",
+      "NCT_ID": "NCT00273650",
+      "Outcome_Measure": "Primary measure is the Clinical Global Impression Scale -Improvement supplemented by videos taken at all visits and rated blindly to measure executive function, speech, and language, and socio-economic development.",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "12 Weeks to 6 Months"
+    },
+    {
+      "Record_ID": "NCT06557902:primaryOutcomes:2",
+      "NCT_ID": "NCT06557902",
+      "Outcome_Measure": "Pharmacokinetics: AUC0-tau",
+      "Outcome_Description": "Area under the plasma lumateperone concentration time curve from time zero to the end of dosing (tau)",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Day 5"
+    },
+    {
+      "Record_ID": "NCT03614663:secondaryOutcomes:2",
+      "NCT_ID": "NCT03614663",
+      "Outcome_Measure": "Number of Participants With Any Improvement - Clinical Global Impressions- Improvement (CGI-I) - Full Analysis Set",
+      "Outcome_Description": "The Clinical Global Impressions- Improvement global improvement item is a 7-point Likert scale designed to measure behavioral symptomatic change at a specific time compared to baseline. CGI-I is a standard global measure of potential change with treatment in placebo-controlled pharmacotherapy trials in developmental disabilities. The score ranges form 1-very much improved to 7-very much worse. The percentage of patients with any improvement (minimally, much, very much improved) was assessed.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Change in CGI-I at end of treatment (Week 12)"
+    },
+    {
+      "Record_ID": "NCT04987762:primaryOutcomes:0",
+      "NCT_ID": "NCT04987762",
+      "Outcome_Measure": "The Number of Participants With Adverse Events as a Measure of Safety",
+      "Outcome_Description": "Adverse events (AEs) were documented and reported from the time the subject/parent(s)/legal guardian provided informed consent/assent up to 7 days after the last study drug administration. AEs that were ongoing at the subject's last study visit were followed until resolution or for 30 days after study drug administration.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Up to 9 months"
+    },
+    {
+      "Record_ID": "NCT00269789:secondaryOutcomes:0",
+      "NCT_ID": "NCT00269789",
+      "Outcome_Measure": "IOWA Conners Inattention/Overactivity and Oppositional/Defiance subscale ratings; SKAMP attention and deportment ratings; Global assessments; Accuracy and completion on assigned academic tasks; Peer interactions ratings; Incidence of adverse events",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": ""
+    },
+    {
+      "Record_ID": "NCT00760747:secondaryOutcomes:9",
+      "NCT_ID": "NCT00760747",
+      "Outcome_Measure": "Number of Participants With Suicidal Behaviors and Ideations",
+      "Outcome_Description": "Columbia Suicide Rating Scale (C-SSRS): scale capturing occurrence, severity, and frequency of suicide-related thoughts and behaviors. Number of participants with suicidal behaviors and ideations are provided. Suicidal behavior: a \"yes\" answer to any of 5 suicidal behavior questions: preparatory acts or behavior, aborted attempt, interrupted attempt, actual attempt, and completed suicide. Suicidal ideation: a \"yes\" answer to any one of 5 suicidal ideation questions, which includes wish to be dead, and 4 different categories of active suicidal ideation.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline through 14 weeks"
+    },
+    {
+      "Record_ID": "NCT03564132:secondaryOutcomes:2",
+      "NCT_ID": "NCT03564132",
+      "Outcome_Measure": "Response Rate",
+      "Outcome_Description": "Clinical response is defined as \\> 25% improvement from baseline to Week 4 in YGTSS TTS between 2 groups or a CGI-TS Change score of 1 \\[very much improved\\] or 2 \\[much improved\\] at Week 4.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 4"
+    },
+    {
+      "Record_ID": "NCT00528697:secondaryOutcomes:2",
+      "NCT_ID": "NCT00528697",
+      "Outcome_Measure": "Parent Rating Scales",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to Final Evaluation of 8-week treatment period"
+    },
+    {
+      "Record_ID": "NCT03530293:secondaryOutcomes:3",
+      "NCT_ID": "NCT03530293",
+      "Outcome_Measure": "Change From Randomization Baseline to the Week 36 Visit in the CGI-Tics-Severity Score",
+      "Outcome_Description": "The CGI-Tics-Severity scale is used to assess overall severity on a 7-point scale. Each of the CGI-Tics-Severity response categories was assigned a numerical score as follows: 1 = Normal, not at all ill; 2 = Borderline ill; 3 = Mildly ill; 4 = Moderately ill; 5 = Markedly ill; 6 = Severely ill; 7 = Among the most extremely ill patient.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Randomization Baseline (Week 8, 10 or 12); Week 36"
+    },
+    {
+      "Record_ID": "NCT03487770:secondaryOutcomes:1",
+      "NCT_ID": "NCT03487770",
+      "Outcome_Measure": "Change in ABC subscale scores from Baseline to Week 8 (or endpoint)",
+      "Outcome_Description": "The efficacy is assessed by changes from Baseline to Week 8 (or endpoint) in Social Withdrawal, Hyperactivity, Stereotypy and Inappropriate Speech Subscale scores of the ABC",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and 8 weeks (or endpoint)"
+    },
+    {
+      "Record_ID": "NCT03887754:primaryOutcomes:0",
+      "NCT_ID": "NCT03887754",
+      "Outcome_Measure": "Childhood Autism Rating Scale version 2 (CARS2)measured after one year and after two years to compare the effect of hyperbaric oxygen therapy, Risperidone, both of them and the placebo effect",
+      "Outcome_Description": "The CARS is a 15 items behavioral rating scale developed to identify autism as well as to quantitatively describe the severity of the disorder. The items are as follows: I. Relating to People; II. Imitation; III. Emotional Response; IV. Body Use; V. Object Use; VI. Adaptation to Change; VII. Visual Response; VIII. Listening Response; IX. Taste; Smell, and Touch Response and Use; X. Fear or Nervousness; XI. Verbal Communication; XII. Nonverbal Communication; XIII. Activity Level; XIV. Level and Consistency of Intellectual Response; and XV. General Impressions. Each item is scored from 1 (no pathology) to 4 (severe pathology) in 0.5 intervals. A total score of 15-29.5 is considered non-autistic to minimal; a score of 30-36.5 is considered mild to moderate autism; a score of 37-60 is considered severe autism (these are based on raw scores)",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "two years"
+    },
+    {
+      "Record_ID": "NCT03460652:secondaryOutcomes:1",
+      "NCT_ID": "NCT03460652",
+      "Outcome_Measure": "Change From Baseline in CGI-S",
+      "Outcome_Description": "The CGI-S is a clinician-rated scale that evaluates the severity of psychopathology (ADHD symptoms in this study) on a scale from 1 (not at all ill) to 7 (among the most severely ill).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Up to 12 months"
+    },
+    {
+      "Record_ID": "NCT00181714:primaryOutcomes:0",
+      "NCT_ID": "NCT00181714",
+      "Outcome_Measure": "Cigarette Smoking",
+      "Outcome_Description": "Cigarette smoking was assessed by youth self report using a modified version of the Fagerstrom Tolerance Questionnaire (FTQ)",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "24 months"
+    },
+    {
+      "Record_ID": "NCT01053156:secondaryOutcomes:1",
+      "NCT_ID": "NCT01053156",
+      "Outcome_Measure": "Expressive Vocabulary Test-2",
+      "Outcome_Description": "The EVT-2 standard score assesses language development through a participant's one word synonym response to visual stimuli. Standard scores range from 20-160. A standard score of 100 is average, with a 15 point standard deviation. Higher values represent a better outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 3 months and 6 months"
+    },
+    {
+      "Record_ID": "NCT07635862:secondaryOutcomes:0",
+      "NCT_ID": "NCT07635862",
+      "Outcome_Measure": "The score of Insistence on Sameness subscale of the Dimensional Assessment of Repetitive Behaviors (DARB)",
+      "Outcome_Description": "The DARB is an informant report measure developed and validated following methods outlined by the NIH Patient-Reported Outcome Measurement Information System (PROMIS) framework. Comprehensive, multi-trait, multi-method factor analyses across existing RRB instruments and meta-analysis of factor analyses identified the following eight RRB subdomains: repetitive motor behaviors, insistence on sameness, restricted interests, unusual interests, self-injurious behaviors, sensory sensitivity, obsessions and compulsions, and repetitive language.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "The measures will be completed at screening, baseline, week 2, week 4, week 6, week 8, week 10, week 12, week 14, and week 16."
+    },
+    {
+      "Record_ID": "NCT02551380:secondaryOutcomes:0",
+      "NCT_ID": "NCT02551380",
+      "Outcome_Measure": "Evaluation of the reduction of autistic symptom perceived by parents with a heteroevaluation scale : SRS (social responsiveness scale)",
+      "Outcome_Description": "\\- Evaluation of the reduction of autistic symptom perceived by parents with a heteroevaluation scale : SRS (social responsiveness scale)\n\no Comparison of score between folinic acid group and placebo group at T0 (inclusion) and after 12 weeks of treatment",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Change in SRS at 12 weeks"
+    },
+    {
+      "Record_ID": "NCT02677519:primaryOutcomes:2",
+      "NCT_ID": "NCT02677519",
+      "Outcome_Measure": "Vital signs",
+      "Outcome_Description": "blood pressure, pulse, height, weight",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "12 month maintenance phase"
+    },
+    {
+      "Record_ID": "NCT02884544:primaryOutcomes:0",
+      "NCT_ID": "NCT02884544",
+      "Outcome_Measure": "Dose Escalation to determine optimal dosage for clinical effects",
+      "Outcome_Description": "Primary outcome is the determination of the dose achieving optimal clinical effect in a safe and tolerable manner",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "6 weeks"
+    }
+  ],
+  "CHATGPT_BATCH_04": [
+    {
+      "Record_ID": "NCT01547000:primaryOutcomes:0",
+      "NCT_ID": "NCT01547000",
+      "Outcome_Measure": "Yale Global Tic Severity Scale (YGTSS)",
+      "Outcome_Description": "The YGTSS is a clinician-rated scale that begins with a systematic inquiry of tic symptoms in the preceding week. Current motor and phonic tics are rated separately according to number, frequency, intensity, complexity, and interference, each rated on 0 to 5 scale with higher scores indicating greater severity/worse outcome (Leckman et al. 1989). The YGTSS yields a total motor score (0-25), a total phonic score (0-25), a total tic score (sum of total motor and total phonic scores; 0-50), and an impairment score (0-50). Higher scores indicate greater severity/worse outcome.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "8 weeks"
+    },
+    {
+      "Record_ID": "NCT04007991:secondaryOutcomes:0",
+      "NCT_ID": "NCT04007991",
+      "Outcome_Measure": "Change From Baseline in Clinical Global Impression of Tourette Syndrome Severity (CGI-TS-S) at Week 12",
+      "Outcome_Description": "Clinical Global Impression (CGI) scale was used to assess overall severity on a 7-point Likert scale consisted of 2 reliable and valid 7-item Likert scales used to assess severity and change in clinical symptoms. The CGI severity scale ranges from 1 = Normal, not at all ill; 2 = Borderline ill; 3 = Mildly ill; 4 = Moderately ill; 5 = Markedly ill; 6 = Severely ill; 7 = Among the most extremely ill subject. 1 = \"normal, not ill at all\" to 7 = \"extremely ill.\" A negative change indicates improvement in the condition.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Week 12"
+    },
+    {
+      "Record_ID": "NCT07324057:secondaryOutcomes:0",
+      "NCT_ID": "NCT07324057",
+      "Outcome_Measure": "Incidence of negative postoperative behavioral changes (NPOBCs) at postoperative day 1 and postoperative day 30, assessed using the Post Hospitalization Behavior Questionnaire for Autism Spectrum Disorder (PHBQ-AS).",
+      "Outcome_Description": "Incidence of negative postoperative behavioral changes (NPOBCs) at postoperative day 3 and postoperative day 28, assessed using the Post Hospitalization Behavior Questionnaire for Autism Spectrum Disorder (PHBQ-AS) during postoperative follow-up. NPOBCs are defined as new or worsened maladaptive behaviors after anesthesia/surgery, which may include changes such as sleep disturbance, altered eating patterns, emotional dysregulation (e.g., irritability/anxiety), medical-related fears, and reduced treatment cooperation. Follow-up assessments are performed by an independent researcher blinded to group allocation.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Postoperative day 3 and postoperative day 28"
+    },
+    {
+      "Record_ID": "NCT05954052:secondaryOutcomes:0",
+      "NCT_ID": "NCT05954052",
+      "Outcome_Measure": "Social Responsiveness Scale",
+      "Outcome_Description": "The Social Responsiveness Scale, Second Edition (SRS-2) is a 65-item caregiver-rated questionnaire that measures the severity of social impairments associated with autism spectrum disorder (ASD) in children and adolescents (ages 2 years 6 months to 18 years). It assesses five domains: Social Awareness, Social Cognition, Social Communication, Social Motivation, and Restricted Interests and Repetitive Behavior, as well as a Total Score.\n\nT-scores typically range from approximately 30 to 90+, with scores capped at 90 in cases of severe impairment.\n\nHigher T-scores indicate greater severity of social impairment (worse outcome), while lower T-scores indicate fewer social difficulties (better outcome).\n\nClinically Relevant Thresholds\n\nT-score ≤ 59: Within normal limits T-score 60-65: Mild range (borderline, subclinical difficulties) T-score 66-75: Moderate range (clinically significant impairment) T-score ≥ 76: Severe range (marked impairment)",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "We only have the Social Responsiveness Scale measurement at baseline."
+    },
+    {
+      "Record_ID": "NCT05685732:secondaryOutcomes:0",
+      "NCT_ID": "NCT05685732",
+      "Outcome_Measure": "A Comparison of the Change in Mean Clinical Global Impressions-Severity (CGI-S) Results From Baseline to End of Treatment Between Active and Placebo Treatments.",
+      "Outcome_Description": "The CGI-S is a clinician-rated scale that evaluates the severity of ADHD symptoms in the study on a scale from 1 (not at all ill) to 7 (among the most severely ill).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "4 weeks"
+    },
+    {
+      "Record_ID": "NCT02199925:primaryOutcomes:0",
+      "NCT_ID": "NCT02199925",
+      "Outcome_Measure": "The primary objective is to assess the efficacy of Gammaplex as an immunomodulatory therapy in autistic children with evidence of immune dysfunction.",
+      "Outcome_Description": "The primary endpoint is disease improvement, as evidenced by standardized test measures across 3 intervals: screening for baseline measurements, visit 5, and end of study visit measurements. Primary efficacy variables will be measured using the following standardized tests\n\n1. Caregiver Scales (SRS, CCC-2, ABC)\n2. CGI-S and CGI - I\n3. PPVT\n4. ADOS",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "1 year"
+    },
+    {
+      "Record_ID": "NCT03008889:primaryOutcomes:4",
+      "NCT_ID": "NCT03008889",
+      "Outcome_Measure": "Parent Satisfaction Rating",
+      "Outcome_Description": "Goal: at least 80% of parents will agree or strongly agree when asked in an anonymous survey that they would recommend the study and the study treatment to other parents of children with ASD and SIB.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Week 9 (at the end of the study intervention)"
+    },
+    {
+      "Record_ID": "NCT03432065:primaryOutcomes:0",
+      "NCT_ID": "NCT03432065",
+      "Outcome_Measure": "Reduction in Child and Adolescent Symptom Inventory-5-Anxiety (CASI-Anx) Score",
+      "Outcome_Description": "The primary outcome measure of efficacy will be assessed by the reduction in anxiety symptom severity as measured by a change from baseline on the Child and Adolescent Symptom Inventory-5-Anxiety (CASI-Anx) scores. Responders are defined as those who demonstrate a \\>30% reduction on the CASI-Anx.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline to 8 Weeks"
+    },
+    {
+      "Record_ID": "NCT00943579:secondaryOutcomes:1",
+      "NCT_ID": "NCT00943579",
+      "Outcome_Measure": "Children's Yale Brown Obsessive Compulsive Scale",
+      "Outcome_Description": "The C-YBOCS is a scale is designed to rate the severity of obsessive and compulsive symptoms in children and adolescents, ages 6 to 17 years. It can be administered by a clinican or trained interviewer in a semi-structured fashion. In general, the ratings depend on the child's and parent's report; however, the final rating is based on the clinical judgement of the interviewer. Rate the characteristics of each item over the prior week up until, and including, the time of the interview. Scores should reflect the average of each item for the entire week, unless otherwise specified.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Weeks 8 & 16"
+    },
+    {
+      "Record_ID": "NCT01256060:primaryOutcomes:0",
+      "NCT_ID": "NCT01256060",
+      "Outcome_Measure": "Maximum Tolerated Dose (MTD)",
+      "Outcome_Description": "The hypothesis is that the maximum tolerated dose in a range of 0.2-0.4 IU/kg / dose will be 0.4 IU/kg / dose, as was the case in the adult study, given that oxytocin is not stored in body fat and does not depend on liver or renal clearance.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "12 Weeks"
+    },
+    {
+      "Record_ID": "NCT00418262:primaryOutcomes:7",
+      "NCT_ID": "NCT00418262",
+      "Outcome_Measure": "Pittsburg Side-Effects Scale: Crabby/Irritable",
+      "Outcome_Description": "Crabby/Irritable\n\nParent rating of none (0), mild (1) , moderate (2) or severe (3) for each manifestation",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "12 months or study duration"
+    },
+    {
+      "Record_ID": "NCT01333072:primaryOutcomes:0",
+      "NCT_ID": "NCT01333072",
+      "Outcome_Measure": "Changes in the Irritability Subscale of the Larger ABC (Abberent Behavior Checklist) That Occur From Baseline to 10 Weeks",
+      "Outcome_Description": "Multi-center, blinded clinical trial to evaluate biomarkers as predictors of efficacy and safety in children with autistic disorder to risperidone, an atypical antipsychotic drug and aripiprazole, an antipsychotic having a unique clinical and receptor-binding profile.\n\nThe major outcome measure was the score on the Irritability subscale of the Aberrant Behavior Checklist (ABC-I) . The ABC has 58 items describing some aspect of behavior and the Irritability sub-scale has 15 items, each completed by a parent or caregiver under the supervision of an investigator. Scores on each item range from 0 = no problem and 3 = severe problem (range of total scores 0 to 45). A fall in scores indicates behavioral improvement.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "baseline to 10 weeks"
+    },
+    {
+      "Record_ID": "NCT01725152:secondaryOutcomes:0",
+      "NCT_ID": "NCT01725152",
+      "Outcome_Measure": "Pediatric Anxiety Rating Scale (PARS) Total Score",
+      "Outcome_Description": "Pediatric Anxiety Rating Scale (PARS) is a clinician administered measure of anxiety in children and adolescents. The PARS is comprised of a 50-item symptom checklist used to determine the presence or absence of specific anxiety symptoms during the prior week and 7 severity/impairment items, each scored from 0 to 5. The score on the 7 items allows the clinician to rate symptom severity and associated impairment on a range from 0 to 35, with higher scores reflecting greater symptom severity and associated impairment.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 14 (End of Treatment)"
+    },
+    {
+      "Record_ID": "NCT02757066:secondaryOutcomes:1",
+      "NCT_ID": "NCT02757066",
+      "Outcome_Measure": "Abnormal behavior checklist Japanese version",
+      "Outcome_Description": "To assess effects of this drug on neurodevelopment disorders",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 2, 9"
+    },
+    {
+      "Record_ID": "NCT00794625:secondaryOutcomes:0",
+      "NCT_ID": "NCT00794625",
+      "Outcome_Measure": "ADHD symptoms",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Measured weekly for 11 to 16 weeks"
+    },
+    {
+      "Record_ID": "NCT03247556:secondaryOutcomes:6",
+      "NCT_ID": "NCT03247556",
+      "Outcome_Measure": "Effect of SPN-812 Assessed by Conners 3 - Self Report Short Form",
+      "Outcome_Description": "An additional secondary endpoint was the change from baseline in the Conners 3rd Edition - Self Report Short Form (C3-SRS) Composite T score at Week 7 (End of Study). The Conners 3rd Edition is a focused diagnostic tool for assessment of ADHD and associated learning, behavior, and emotional problems in children 6 to 18 years of age. The C3-SRS, which is only validated in children/adolescents 8-18 years of age, is comprised of 41 items with subsets of items related to five content scales: inattention, hyperactivity/impulsivity, learning problems, aggression and family relations. The subject rates himself/herself on the first 39 items of C3-SRS using a 4-point Likert scale (0-3; where 0=not at all true \\[never, seldom\\] and 3=very much true \\[very often, very frequently\\] based on past month; the last 2 items are fill-in-the-blank and do not contribute to the raw score(s). Raw scores are converted to T-scores. Lower change from baseline T-scores (\\<0) represent a better outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and Week 7 (End of Study)"
+    },
+    {
+      "Record_ID": "NCT07424404:primaryOutcomes:0",
+      "NCT_ID": "NCT07424404",
+      "Outcome_Measure": "Number of participants with treatment emergent adverse events (TEAEs)",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Up to 56 weeks"
+    },
+    {
+      "Record_ID": "NCT00198120:primaryOutcomes:3",
+      "NCT_ID": "NCT00198120",
+      "Outcome_Measure": "Change in Lethargy Subscale of the Aberrant Behavior Checklist (ABC)",
+      "Outcome_Description": "All placebo non-responders will enter into an open-label phase after the Double-Blind Phase",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Change from Open-Label Baseline at 8 Weeks"
+    },
+    {
+      "Record_ID": "NCT01914393:secondaryOutcomes:4",
+      "NCT_ID": "NCT01914393",
+      "Outcome_Measure": "Change From Baseline in PANSS Excitability Subscale Score",
+      "Outcome_Description": "Change from Baseline in PANSS Excitability Subscale Score for subjects continued from study D1050301 Subscale of Excitability consists of the following four items from the PANSS: excitement, hostility, uncooperativeness, and poor impulse control. The sum of the four items ranges from 4 to 28 Higher values of PANSS sub-scale scores represent greater severity of illness.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Open-Label Baseline, Week 28, Week 52, and Week 104"
+    },
+    {
+      "Record_ID": "NCT06229210:primaryOutcomes:0",
+      "NCT_ID": "NCT06229210",
+      "Outcome_Measure": "Incidence of Common Adverse Events",
+      "Outcome_Description": "An AE is any untoward medical occurrence associated with the use of a drug in humans, whether or not considered drug-related. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding, for example), symptom, or disease temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Up to 6 months"
+    }
+  ],
+  "CHATGPT_BATCH_05": [
+    {
+      "Record_ID": "NCT01012622:secondaryOutcomes:12",
+      "NCT_ID": "NCT01012622",
+      "Outcome_Measure": "Clinical Global Impression - Improvement (CGI-I) Scale Score at Week 12",
+      "Outcome_Description": "The CGI-I is a 7-point scale that requires the clinician to assess how much the participant's illness has improved or worsened relative to a baseline state at the beginning of the intervention and rated as: 1=very much improved; 2=much improved; 3=minimally improved; 4=no change; 5=minimally worse; 6=much worse; 7=very much worse. Improved very much, Improved much and Improved a little are defined as improvement and No change, Aggravated a little, Aggravated much and Aggravated very much were defined as aggravation.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 12"
+    },
+    {
+      "Record_ID": "NCT07284745:primaryOutcomes:0",
+      "NCT_ID": "NCT07284745",
+      "Outcome_Measure": "Change From Baseline in the Aberrant Behavior Checklist Irritability (ABC-I) Score at Week 8",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Week 8"
+    },
+    {
+      "Record_ID": "NCT04382885:primaryOutcomes:3",
+      "NCT_ID": "NCT04382885",
+      "Outcome_Measure": "Percentage of participants with potentially clinically significant values in clinical laboratory assessments",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Up to 84 days"
+    },
+    {
+      "Record_ID": "NCT01592747:primaryOutcomes:0",
+      "NCT_ID": "NCT01592747",
+      "Outcome_Measure": "Proportion of Patients Meeting the Criterion for Loss of Therapeutic Response (LTR) by the End of the Study (Based on Observed Cases)",
+      "Outcome_Description": "Loss of Therapeutic response is defined as a worsening (increase) of at least 10 points in Social Responsiveness Scale (SRS) total raw score relative to the Visit 1 (randomization) score. The Social Responsiveness Scale (SRS) is a 65-item informant-rated assessment with total raw score ranging from 0 (no impairment) to 195 (severe social impairment). Each item is associated with 1 of 5 subscales (social awareness, social cognition, social communication, social motivation and autistic mannerisms). Each item is rated on a 4-point scale from 1 (not true) to 4 (almost always true). The scores are then transposed to a scale from 0 to 3 and scores are summed within each of the 5 subscales. A higher score indicates greater severity of social impairment.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline (Visit 1) to week 12"
+    },
+    {
+      "Record_ID": "NCT02642653:secondaryOutcomes:0",
+      "NCT_ID": "NCT02642653",
+      "Outcome_Measure": "FXS- Normed Aberrant Behavior Checklist (ABC) Social Avoidance Subscale",
+      "Outcome_Description": "The ABC-C is a 58-item caregiver-rated behavior scale used to examine treatment effects on challenging behaviors for individuals with FXS in the following domains: (1) irritability; (2) lethargy/social withdrawal; (3) stereotypic behavior; (4) hyperactivity; and (5) inappropriate speech. Caregiver rates the subject's behavior as follows: 0 = not a problem, l = the behavior is a problem but slight in degree, 2 = the problem is moderately serious, 3 = the problem is severe in degree. Sansone et al. (2012) further subdivided social withdrawal to rate social avoidance in FXS. The subscale includes 4 items which were originally part of the Lethargy/Withdrawal subscale. This subscale captures core aspects of the FXS phenotype related to gaze avoidance, social ''escape'' behaviors, and social anxiety. Subscale score ranges from 0 to 12, higher scores reflect a more problematic behavior.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline"
+    },
+    {
+      "Record_ID": "NCT01302964:primaryOutcomes:0",
+      "NCT_ID": "NCT01302964",
+      "Outcome_Measure": "Mean 10-Week Change in Pediatric Anxiety Rating Scale 5-Item Total Score, Double-blind Phase",
+      "Outcome_Description": "The Pediatric Anxiety Rating Scale (PARS) is a clinician-rated instrument that assesses anxiety symptoms that are commonly associated with social anxiety, separation anxiety, and generalized anxiety disorders. Scaled score ranges form 0-25 with higher scores indicating more severe anxiety symptoms. Means were estimated using a repeated measures linear regression model with treatment group, study week (in categories), and their interaction as covariates, and assuming a common mean between treatment groups at baseline. Confidence intervals reflect a Bonferroni multiple testing correction accounting for the selection of two primary outcomes.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Weeks Baseline, 2, 4, 6, and 10"
+    },
+    {
+      "Record_ID": "NCT00681863:secondaryOutcomes:2",
+      "NCT_ID": "NCT00681863",
+      "Outcome_Measure": "Mean Change From Baseline in Total Tic Score (TTS) of the Yale Global Tic Severity Scale",
+      "Outcome_Description": "Total Tic Score is the sum of ten individual ratings of the impairment due to tics. Each scale ranges from 0 (None/Absent) to 5 (Severe) and total score ranges from 0 to 50.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "baseline and Week 1"
+    },
+    {
+      "Record_ID": "NCT00556959:primaryOutcomes:0",
+      "NCT_ID": "NCT00556959",
+      "Outcome_Measure": "ADHDRS-IV",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Week 5"
+    },
+    {
+      "Record_ID": "NCT01205282:primaryOutcomes:8",
+      "NCT_ID": "NCT01205282",
+      "Outcome_Measure": "Maximum tolerated dose to be used in the follow-up multisite randomized controlled trial",
+      "Outcome_Description": "Maximum Tolerated Dose (MTD)",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "16 Weeks"
+    },
+    {
+      "Record_ID": "NCT04964427:secondaryOutcomes:1",
+      "NCT_ID": "NCT04964427",
+      "Outcome_Measure": "evaluate the change in visuo-spatial working memory measure",
+      "Outcome_Description": "Compare N-Back Correct Scores of visuo-spatial working memory task in patients with ADHD following the administration of a single anodal tDCS session, a single sham tDCS session and a single dose of MPH",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "immediately after the interventions"
+    },
+    {
+      "Record_ID": "NCT01170325:secondaryOutcomes:0",
+      "NCT_ID": "NCT01170325",
+      "Outcome_Measure": "Improvement in behavior",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": ""
+    },
+    {
+      "Record_ID": "NCT00996931:secondaryOutcomes:0",
+      "NCT_ID": "NCT00996931",
+      "Outcome_Measure": "Change in Childhood Autism Rating Scale (CARS)Value From Baseline to 6 Weeks",
+      "Outcome_Description": "Change in CARS value from baseline to 6 weeks. Total CARS scores range from a fifteen to 60, with a minimum score of thirty serving as the cutoff for a diagnosis of autism on the mild end of the autism spectrum.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and 6 weeks"
+    },
+    {
+      "Record_ID": "NCT00178503:primaryOutcomes:1",
+      "NCT_ID": "NCT00178503",
+      "Outcome_Measure": "Mean Continuous Performance Test (CPT)-Commission Errors by Dose",
+      "Outcome_Description": "CPT is a measure of sustained attention using nonverbal stimuli (pictures). Participants are asked to click on the witch (target), which appears for 25% of the trials. Commission errors are measured by number of times they click for the non-target items.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Measured at each dosing week of the drug trial (placebo, low, medium, high)"
+    },
+    {
+      "Record_ID": "NCT01172288:secondaryOutcomes:2",
+      "NCT_ID": "NCT01172288",
+      "Outcome_Measure": "Overall Improvement",
+      "Outcome_Description": "Clinical Global Impression - Improvement Scale (CGI-I). The CGI is a 7-point scare that requires the clinician to assess how much the patient's illness has improved or worsened relative to a baseline state at the beginning of the intervention. 1 = Very much improved; 2 = Much improved; 3 = Minimally improved; 4 = No change; 5 = Minimally worse; 6 = Much worse; 7 = Very much worse.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "12 weeks"
+    },
+    {
+      "Record_ID": "NCT01418339:secondaryOutcomes:0",
+      "NCT_ID": "NCT01418339",
+      "Outcome_Measure": "Change From Baseline in Clinical Global Impressions Scale for Tourette's Syndrome (CGI-TS) Score",
+      "Outcome_Description": "The severity of illness and efficacy of study medication for each participant were rated using the CGI-TS scale. The study physician rated the participants total improvement whether or not it is due to study treatment. All responses were compared to the participants condition at Baseline (Day 0). Response choices included: 0 = not assessed; 1 = normal, not at all ill; 2 = borderline mentally ill; 3 = mildly ill; 4 = moderately ill; 5 = markedly ill; 6 = severely ill; and 7 = among the most extremely ill patients), with lower score indicating better improvement. A negative change from Baseline indicates improvement. MMRM analysis was performed.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to Week 8"
+    },
+    {
+      "Record_ID": "NCT01133353:primaryOutcomes:0",
+      "NCT_ID": "NCT01133353",
+      "Outcome_Measure": "Improvement in total tic score as measured by the Yale Global Tic Severity Score (YGTSS)",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Days 0 to 84"
+    },
+    {
+      "Record_ID": "NCT00889538:primaryOutcomes:0",
+      "NCT_ID": "NCT00889538",
+      "Outcome_Measure": "Improvement in both developmental skills and behavior with either glutathione or glutathione, Vitamin C and N-acetylcysteine therapy as compared to placebo therapy. Subjects will also be monitored using clinical and laboratory safety parameters.",
+      "Outcome_Description": "Improvement in both developmental skills and behavior measured using validated scales in subjects receiving either glutathione, glutathione/Vitamin C/N-acetylcysteine or placebo measured at baseline, 9 weeks and at the end of study in a double-blind cross-over design.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "4 months"
+    },
+    {
+      "Record_ID": "NCT00844753:primaryOutcomes:1",
+      "NCT_ID": "NCT00844753",
+      "Outcome_Measure": "Percentage of Participants Who Were Autism Spectrum Disorder Respondents",
+      "Outcome_Description": "Respondents were defined as having ≥30% decrease on the HSQ and CGI-I≤2). The 25-item HSQ was adapted by the Research Units on Pediatric Psychopharmacology Autism Network to evaluate behavioral noncompliance in children with autism spectrum disorder (ASD). The Home Situations Questionnaire - Pervasive Developmental Disorder (HSQ) is a 25-item parent rating scale assessing noncompliance. Parents are asked to indicate whether each item is a problem and, if so, its severity from 1 (mild) to 9 (severe). The School Situations Questionnaire (SSQ) is a 9-item teacher rating scale that assesses noncompliance. The SSQ is a companion instrument to the HSQ and uses the same rating scale.\n\nThe Clinical Global Impressions Scale (CGI) includes subscales for severity of illness and global improvement. The Severity scale is scored from 1 (normal) to 7 (extremely ill),",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "week 10"
+    },
+    {
+      "Record_ID": "NCT01363544:primaryOutcomes:0",
+      "NCT_ID": "NCT01363544",
+      "Outcome_Measure": "Improvement in Behaviour",
+      "Outcome_Description": "Behaviour is assessed with rating scales (SWAN, SDQ, SDSC,DCD) and actigraphy",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Within 2 weeks after the end of treatment (T1) and 6 months after the end of treatment (T2)"
+    },
+    {
+      "Record_ID": "NCT03835117:secondaryOutcomes:3",
+      "NCT_ID": "NCT03835117",
+      "Outcome_Measure": "Change in the Aberrant Behavior Checklist (ABC) Scores",
+      "Outcome_Description": "The Aberrant Behavior Checklist is a 58-item caregiver questionnaire consisting of five subscales: hyperactivity, irritability, social withdrawal, stereotypic behavior and inappropriate speech in children with developmental disabilities. A higher score indicates more frequent aberrant behaviors. Our secondary measures are the subscale scores for Irritability (15 item), Social Withdrawal (16 item) and Hyperactivity (16 item). Each item rates behavior severity on a 4 point scale from 0 (Not at all a problem) to 3 (The problem is severe in degree). Total score ranges from 0 to 174. Lower scores are better.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Before (Baseline), After Part I (Week 12), After Part 2 (Week 24)"
+    }
+  ],
+  "CHATGPT_EXPANSION_BATCH_01": [
+    {
+      "Record_ID": "NCT00183391:secondaryOutcomes:17",
+      "NCT_ID": "NCT00183391",
+      "Outcome_Measure": "Conners Teacher Rating Scale- Short",
+      "Outcome_Description": "Standardized measure of ADHD symptoms and severity, norm referenced T scores, higher = worse",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "up to 14 weeks"
+    },
+    {
+      "Record_ID": "NCT07589842:secondaryOutcomes:2",
+      "NCT_ID": "NCT07589842",
+      "Outcome_Measure": "Score of Social Responsiveness Scale - total score",
+      "Outcome_Description": "Effect at Day 85 and Day 169 of ILT-101 versus placebo on the patient's other clinical dimensions (social cognition, repetitive behaviour and stereotypies, hyperactivity) and the residual effect at Day 275;",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "at Day 0, Day 85, Day 169 and Day 275"
+    },
+    {
+      "Record_ID": "NCT04049578:primaryOutcomes:3",
+      "NCT_ID": "NCT04049578",
+      "Outcome_Measure": "Plasma Concentation of M3 Metabolite",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Predose, 2, 4, 6 hours postdose at Week 2; predose at Week 6; predose at Week 12; predose at Week 24, predose at Week 54"
+    },
+    {
+      "Record_ID": "NCT01908205:secondaryOutcomes:0",
+      "NCT_ID": "NCT01908205",
+      "Outcome_Measure": "Efficacy of Intranasal Oxytocin vs. Placebo on Measures of Social Cognition",
+      "Outcome_Description": "This will be measured by a change in score the Revised Eyes Test (0- 28; where higher scores indicate better performance/improvement) Baseline to Week 12",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "12 Weeks"
+    },
+    {
+      "Record_ID": "NCT03247543:secondaryOutcomes:4",
+      "NCT_ID": "NCT03247543",
+      "Outcome_Measure": "Effect of SPN-812 Assessed by Parenting Stress Index, Fourth Edition, Short Form (PSI-4-SF)",
+      "Outcome_Description": "An additional secondary endpoint was the change from baseline in Parenting Stress Index, Fourth Edition, Short Form (PSI-4-SF) Total score at Week 8 (End of Study). The PSI-4 questionnaire evaluates the magnitude of stress in the parent-child relationship based on the parent's perception of the child's characteristics, the personal characteristics of the parent, and the interaction between the parent and the child. The PSI-4-SF was developed for parents of children ages 1 month to 12 years. The PSI-4-SF consists of 36 items divided into three domains: parental distress, parent-child dysfunctional interaction, and difficult child. Each item is rated on a 5-point Likert scale, where SD=Strongly Disagree, D=Disagree, NS=Not Sure, A=Agree, and SA=Strongly Agree. The total score ranges between 90 and 450. Lower change from baseline total scores (\\<0) represent a better outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and Week 8 (End of Study)"
+    },
+    {
+      "Record_ID": "NCT01661855:primaryOutcomes:4",
+      "NCT_ID": "NCT01661855",
+      "Outcome_Measure": "Safety and tolerability of riluzole in children and adolescents with ASD",
+      "Outcome_Description": "This will be measured by the Clinical Global Impressions - Improvement Scale - Global (CGI-I-Global)",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "12 Weeks"
+    },
+    {
+      "Record_ID": "NCT00640419:secondaryOutcomes:0",
+      "NCT_ID": "NCT00640419",
+      "Outcome_Measure": "CSHQ",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Day-1, Day 28, Day 42"
+    },
+    {
+      "Record_ID": "NCT03757585:secondaryOutcomes:1",
+      "NCT_ID": "NCT03757585",
+      "Outcome_Measure": "Mean Change in the NIMH Clinical Global Improvement Scale (CGI)",
+      "Outcome_Description": "The CGI-BPD-S is a clinician-rated measure of bipolar disorder severity. Severity scores range from 1 (normal, not at all ill) to 7 (among the most extremely ill patients). The outcome reported reflects the change from baseline in CGI-BPD-S scores and negative scores represent improvement (i.e., decrease in severity from baseline).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to 6 Weeks"
+    },
+    {
+      "Record_ID": "NCT04878198:primaryOutcomes:6",
+      "NCT_ID": "NCT04878198",
+      "Outcome_Measure": "First morning void melatonin level",
+      "Outcome_Description": "All participants will be instructed to collect the first morning void urine sample. 6-sulfatoxymelatonin, a creatinine-adjusted morning urinary melatonin and representative of melatonin level, will be measured from the sample. All urine samples will be collected using small urine bottles containing 0.1L of 0.5M hydrochloric acid as a preservative",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "10-week"
+    },
+    {
+      "Record_ID": "NCT00365859:primaryOutcomes:11",
+      "NCT_ID": "NCT00365859",
+      "Outcome_Measure": "Mean Change From Baseline in Patient Body Mass Index (BMI)",
+      "Outcome_Description": "The body mass index (BMI) is a statistical measurement which compares a person's weight and height. Though it does not actually measure the percentage of body fat, it is used to estimate a healthy body weight based on subject height.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "At screening (up to 42 days prior to treatment start), Week 0 (Baseline), Week 1, Week 2, Week 4, Week 8, Week 14, Week 20, Week 26, Week 34, Week 42, Week 52 (Endpoint)"
+    },
+    {
+      "Record_ID": "NCT07678827:secondaryOutcomes:3",
+      "NCT_ID": "NCT07678827",
+      "Outcome_Measure": "CGI-I(Clinical Global Impression-Improvement) Responder Rate at Each Scheduled Visit",
+      "Outcome_Description": "The Clinical Global Impression-Improvement (CGI-I) scale ranges from 1 to 7, where 1 indicates \"very much improved\" and 7 indicates \"very much worse.\" Lower scores indicate greater improvement. A CGI-I responder is defined as a participant with a CGI-I score of 1 or 2.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Weeks 1, 2, 3, 4, 6, and 8"
+    },
+    {
+      "Record_ID": "NCT03325894:primaryOutcomes:9",
+      "NCT_ID": "NCT03325894",
+      "Outcome_Measure": "Change From Baseline in Erythrocytes Mean Corpuscular Hemoglobin at Early Termination/Day 360",
+      "Outcome_Description": "Change from baseline in hematology parameter erythrocytes mean corpuscular hemoglobin were reported. Group A baseline was the baseline of the antecedent studies. Group B baseline was the last value collected before the first dose of investigational product.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline, Early termination/Day 360"
+    },
+    {
+      "Record_ID": "NCT00889915:primaryOutcomes:0",
+      "NCT_ID": "NCT00889915",
+      "Outcome_Measure": "Dichotomized Clinical Global Impression-Effectiveness (CGI-E) Scale",
+      "Outcome_Description": "The CGI-E is the value at which the participant's Therapeutic Benefit and Adverse Impact to the study drug intersect. This number is determined by combining each participant's scores for the degree of Therapeutic Benefit versus the degree to which problems with Tolerability and/or Acceptability adversely impact the subject. Participants are then determined to be Responders or Non-responders to the study medication. For example, a subject who is very much improved (CGI-I=1) or much improved (CGI-I=2) therapeutically and whose adverse impact rating is none (score 1,5) or mild (score 2,6) will be categorized as a Responder. All others whose adverse impact rating is moderate (score 3,7,11,15)or outweighs therapeutic effect (score 4,8,12,16) will be categorized as Non-responders to study medication. The CGI scores are totaled for each participant and a mean score is calculated. A median total score was calculated for each treatment group.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Measured at each participant's last visit, which can occur at or before Week 6"
+    },
+    {
+      "Record_ID": "NCT03008889:primaryOutcomes:1",
+      "NCT_ID": "NCT03008889",
+      "Outcome_Measure": "Attrition Rate",
+      "Outcome_Description": "Attrition rate is defined as the percent of subjects who did not complete the study. Goal:less than 15% (to indicate that study was acceptable to participants and parents).",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "12 months (throughout the duration of the study)"
+    },
+    {
+      "Record_ID": "NCT06359899:secondaryOutcomes:13",
+      "NCT_ID": "NCT06359899",
+      "Outcome_Measure": "Change from baseline in QT intervals from resting EKGs",
+      "Outcome_Description": "EKGs will be performed after the subject has been supine for at least 3 minutes",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Screen/day -1/day1/day14/day28/day33"
+    },
+    {
+      "Record_ID": "NCT02428088:secondaryOutcomes:10",
+      "NCT_ID": "NCT02428088",
+      "Outcome_Measure": "Absolute values and change from baseline in clinical laboratory evaluations (lipid panel).",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 6 Weeks"
+    },
+    {
+      "Record_ID": "NCT04060017:secondaryOutcomes:3",
+      "NCT_ID": "NCT04060017",
+      "Outcome_Measure": "Evaluate the safety of L-leucovorin calcium in young children with ASD on antiepileptic drugs",
+      "Outcome_Description": "For children using antiepileptic drugs, the level of that drug will be measured. If determined by the treating physician, a change will be considered an adverse event.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Screening, Week 12, Week 24"
+    },
+    {
+      "Record_ID": "NCT01592786:primaryOutcomes:0",
+      "NCT_ID": "NCT01592786",
+      "Outcome_Measure": "Number of Confirmed Social Responsiveness Scale (SRS) Responders",
+      "Outcome_Description": "A confirmed SRS responder was defined as a patient who had at least 12 weeks of exposure to memantine, and a ≥ 10-point reduction in the SRS total raw score relative to baseline at 2 consecutive visits separated by at least 2 weeks.\n\nThe SRS is a 65-item, caregiver-rated assessment scale that measures observable items on social behavior and social language use, as well as characteristics of autism in a naturalistic social setting. Each item is rated on a scale from 0 (never true) to 3 (almost always true). The SRS total raw score ranges from 0 to 195; a higher score indicates greater severity of social impairment.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Visit 1 (Baseline) to Visit 8 (week 48/Final Visit)"
+    },
+    {
+      "Record_ID": "NCT00873509:secondaryOutcomes:0",
+      "NCT_ID": "NCT00873509",
+      "Outcome_Measure": "To evaluate the effects of twice-daily oral buspirone on the ADOS Composite calibrated severity score, social behavior, repetitive behavior, language, sensory dysfunction and anxiety.",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline 1, Week 24 and Week 48"
+    },
+    {
+      "Record_ID": "NCT02226458:secondaryOutcomes:4",
+      "NCT_ID": "NCT02226458",
+      "Outcome_Measure": "Secondary Endpoint",
+      "Outcome_Description": "Change from baseline to six months in caregiver strain experienced by parents of children with emotional and behavioral disorders as assessed by Caregiver Strain Questionnaire (CGSQ)",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "6 months"
+    }
+  ],
+  "CHATGPT_EXPANSION_BATCH_02": [
+    {
+      "Record_ID": "NCT07284745:secondaryOutcomes:5",
+      "NCT_ID": "NCT07284745",
+      "Outcome_Measure": "Change From Baseline on the Inappropriate Speech Subscale at Week 8",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 8"
+    },
+    {
+      "Record_ID": "NCT04016792:secondaryOutcomes:1",
+      "NCT_ID": "NCT04016792",
+      "Outcome_Measure": "Effect of SPN-812 assessed longitudinally by Permanent Product (PERMP) math test",
+      "Outcome_Description": "Change from baseline in PERMP math test number attempted and number correct at individual time points across the classroom day",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "29 days"
+    },
+    {
+      "Record_ID": "NCT00191698:secondaryOutcomes:5",
+      "NCT_ID": "NCT00191698",
+      "Outcome_Measure": "Environmental stress exacerbation of ODD symptoms by Social Readjustment Rating Scale (SRRS).",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "8 weeks, 12 weeks"
+    },
+    {
+      "Record_ID": "NCT01914393:secondaryOutcomes:7",
+      "NCT_ID": "NCT01914393",
+      "Outcome_Measure": "Change From Baseline in Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire (PQ-LES-Q) Percentage Maximum Possible Score",
+      "Outcome_Description": "Change from Baseline in Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire (PQ-LES-Q) Percentage Maximum Possible Score for subjects continued from study D1050301\n\nThe Pediatric Q-LES-Q is a 15-item self-report measure of the degree of enjoyment and satisfaction in various areas of daily living, based on the content of the Short From of the Q-LES-Q. Each item is rated on a 5-point scale, ranging from 1 (very poor) to 5 (very good). The first 14 items are the same as the General Activities section of the regular Q-LES-Q form and are used to compute the raw score. The PQ-LES-Q-SF percentage maximum possible score is calculated as follows:\n\n% Max = 100 × (Raw Score - Minimum Score) / (Maximum Score - Minimum Score), where the Minimum Score equals 14 and the Maximum Score equals 70, and the % maximum possible score can range from 0% to 100%. Higher scores indicate better quality of life.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Open-Label Baseline, Week 28, Week 52, and Week 104"
+    },
+    {
+      "Record_ID": "NCT02614599:secondaryOutcomes:1",
+      "NCT_ID": "NCT02614599",
+      "Outcome_Measure": "Behavior",
+      "Outcome_Description": "Evaluate Behavior with clinical scales (AMEN questionnaire) at the beginning and after 3 months of nutritional approach.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "3 months"
+    },
+    {
+      "Record_ID": "NCT01256060:otherOutcomes:0",
+      "NCT_ID": "NCT01256060",
+      "Outcome_Measure": "Changes in Measures of Social Cognition, Social Function, Repetitive Behaviors, and Anxiety (Baseline to Week 12)",
+      "Outcome_Description": "Social Cognition (higher score=positive response)\n\n1. Let's Face It Skills Battery; i. Matchmaker (0-100); ii. Faces (0-100); iii. Houses (0-100)\n2. Eyes Test (0-28)\n3. Strange Stories (0-16)\n4. Irony and Empathy (0-24)\n\nSocial Function\n\n1. Aberrant Behavior Checklist (0-48) (lower score=positive response)\n2. Behavioral Assessment System for Children (higher score=positive response); i. Social: age 8 to 11 \\& 15 to 18 (18-69); age 12 to 14 (21-70); ii. Functional: age 8 to 14 (10-66); age 15 to 18 (10-64)\n3. Social Responsiveness Scale (higher score=positive response); male (34-127); female (35-142)\n\nAnxiety (lower score=positive response)\n\na. Child Symptom Inventory; i. Separation: male (44-106); female (44-101); ii. Generalized: male (40-101); female (41-96)\n\nRepetitive Behaviors (lower score=positive response)\n\n1. Child Yale-Brown Obsessive-Compulsive Scale (0-20)\n2. Repetitive Behavior Scale (0-129)\n\nMeasures insensitive to change will be omitted from results.",
+      "Outcome_Type": "otherOutcomes",
+      "Time_Frame": "12 Weeks"
+    },
+    {
+      "Record_ID": "NCT03231800:secondaryOutcomes:0",
+      "NCT_ID": "NCT03231800",
+      "Outcome_Measure": "Change From Baseline at Day 15 in Mean Swanson, Kotkin, Agler, M-Flynn, and Pelham Rating Scale (SKAMP)Attention Subscale Score Obtained From the 7 Assessments Collected Across the 12-hour Classroom Day (12 to 24 Hours Postdose)",
+      "Outcome_Description": "The Swanson, Kotkin, Agler, M-Flynn, Pelham Rating Scale (SKAMP) scale is a 13-item independent observer rating of subject impairment of classroom observed behaviors. Each item is rated on a 7-point impairment scale (0 = normal to 6 = maximal impairment). The Attention Subscale scores for the SKAMP are obtained by summing the values of Items 1-4 in the assessment. The range of SKAMP Attention Subscale score is 0-24, with higher values represent a worse outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to Day 15"
+    },
+    {
+      "Record_ID": "NCT04312932:secondaryOutcomes:9",
+      "NCT_ID": "NCT04312932",
+      "Outcome_Measure": "Autism Impact Measure - Atypical Behavior",
+      "Outcome_Description": "The Autism Impact Measure (AIM) Atypical Behavior Score captures unusual sensory responses, emotional regulation difficulties, and other atypical behaviors, assessing both how often these behaviors occur and how much they interfere with daily life. The possible range of raw scores for this scale is 12 to 60. It measures the presence and impact of atypical behaviors, with higher scores indicating more frequent or intense atypical behaviors and poorer functioning.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to 90 days post randomization."
+    },
+    {
+      "Record_ID": "NCT02410902:secondaryOutcomes:0",
+      "NCT_ID": "NCT02410902",
+      "Outcome_Measure": "Secondary Outcome Measurements of Changes in the Aberrant Behavior Checklist Checklist Subscale for Lethargy / Social Withdrawal (ABC-L) Between Baseline and Week 12/Termination Visit",
+      "Outcome_Description": "Secondary outcome measurements to determine efficacy of treatment with CM-AT versus Placebo for changes in the Aberrant Behavior Checklist- Community (ABC) sub scale for Lethargy / Social Withdrawal (ABC-L) between baseline (subject's initial measurement) and Week 12/Termination (subject's final measurement) visit. Participants were between 3 through to 6 years old inclusive and took 900mg CM-AT or Placebo three times daily. The ABC-L is one of five discrete sub scales measured by the ABC. The scale range is 0-48. A higher score reflects higher severity of symptoms (lethargy). Scores are obtained via Parent Rated Questionnaire. Parents respond to a series of questions on a scale directly into an electronic data capture system (EDC), responding: 0 = not at all a problem 1 = the behavior is a problem but slight in degree 2 = the problem is moderately serious 3 = the problem is severe in degree.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Screening through Week 12/Termination."
+    },
+    {
+      "Record_ID": "NCT04382885:primaryOutcomes:7",
+      "NCT_ID": "NCT04382885",
+      "Outcome_Measure": "Percentage of participants with treatment-emergent parkinsonism in SAS assessments",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Up to 84 Days"
+    },
+    {
+      "Record_ID": "NCT01053156:secondaryOutcomes:4",
+      "NCT_ID": "NCT01053156",
+      "Outcome_Measure": "Visual Analogue Scale Behavior 3- VAS3",
+      "Outcome_Description": "A VAS is used to represent a caregiver's assessment of given behaviors, which were chosen by the parents. Caregivers marked a 10 cm horizontal line representing a visual continuum of each behavior from \"worst behavior\" to \"behavior not a problem.\" Greater values indicate greater improvement. This measure represents the third behavior that caregivers noted, out of three.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 3 months, 6 months"
+    },
+    {
+      "Record_ID": "NCT01227668:secondaryOutcomes:1",
+      "NCT_ID": "NCT01227668",
+      "Outcome_Measure": "Change From Baseline in Mean Clinical Global Impression Improvement (CGI-I) Scale Score at Week 16 (Last Observation Carried Forward [LOCF])",
+      "Outcome_Description": "CG-I rating scale permits global evaluation of patient's improvement over time. At baseline (BL), CGI Severity of Illness assessment is performed, in which the clinician rates severity of patient's condition on a 7-point scale ranging from 1=no symptoms to 7=very severe symptoms. Higher total score=worse symptoms. At subsequent visits, clinician assesses patient's improvement relative to symptoms at baseline on CGI-I 7-point scale ranging from 1=very much improved to 7=very much worse. Since the drug targets irritability symptoms, the CGI focuses on severity of irritability secondary to autistic disorder. Lower score=more improved symptoms. LOCF data set includes data recorded at a given visit or, if nothing recorded, data areccarried forward from the prior visit. For secondary endpoints (endpt), hierarchical testing was used to keep overall experiment-wise type I error rate to \\<=0.05. diff=difference; IS=irritability scale; PA=primary analysis; signif=significance/significantly.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "From Baseline (end of Phase 1) to Week 16 of Phase 2"
+    },
+    {
+      "Record_ID": "NCT05924594:otherOutcomes:0",
+      "NCT_ID": "NCT05924594",
+      "Outcome_Measure": "Exploratory Endpoints",
+      "Outcome_Description": "Exploratory efficacy endpoints will evaluate the quality and satisfaction of prior medications and of CTx-1301 during screening and D56",
+      "Outcome_Type": "otherOutcomes",
+      "Time_Frame": "• Evaluate overall treatment experience of subjects who have ever taken an ADHD stimulant medication prior to screening (Visit 1) using the entrance questionnaire. • Evaluate overall treatment experience of CTx-1301 at Day 56 (end of dose optimization)"
+    },
+    {
+      "Record_ID": "NCT04786990:secondaryOutcomes:27",
+      "NCT_ID": "NCT04786990",
+      "Outcome_Measure": "Change From Baseline in the \"Morning\" Parent-rated ADHD Rating Scale, 5th Edition (PR-ADHD-RS-5) Total Score at Week 4 (AM Dosing) and at Week 8 (PM Dosing)",
+      "Outcome_Description": "The Attention-Deficit/Hyperactivity Disorder Rating Scale, 5th Edition (ADHD-RS-5) is an ADHD-specific rating scale designed and validated to assess current ADHD symptomatology. The scale consists of 18 items that directly correspond to the 18 Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5) symptoms of ADHD. Parent/guardian rates each item on a 4-point scale from 0 (never or rarely) to 3 (very often) based on observations of their child's behavior during the morning hours in the past week. The raw Total score (sum of 18 items range: 0-54; the higher the score, the more severe the ADHD symptoms in morning hours), is converted to a change from baseline (CFB) score. A CFB score \\<0 represents a better outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Week 4, and Week 8"
+    },
+    {
+      "Record_ID": "NCT01850355:primaryOutcomes:2",
+      "NCT_ID": "NCT01850355",
+      "Outcome_Measure": "Treatment Responder",
+      "Outcome_Description": "Treatment responder is defined by a Clinician-rated Clinical Global Impression-Anxiety-Improvement (CGI-Anxiety-I) score ≤ 2 (improved or very much improved) and a ≥30% reduction on the Pediatric Anxiety Rating Scale (PARS) from baseline.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Week 8 (study endpoint)"
+    },
+    {
+      "Record_ID": "NCT05954052:otherOutcomes:0",
+      "NCT_ID": "NCT05954052",
+      "Outcome_Measure": "Change in Clinical Global Impression Scale",
+      "Outcome_Description": "The Clinical Global Impression (CGI) is a clinician-rated instrument developed for use in NIMH-sponsored clinical trials to provide a brief global assessment of illness severity, improvement, and therapeutic efficacy. The three commonly reported CGI scales are:\n\nCGI-Severity (CGI-S): Rates current illness severity from 1 (Normal, not at all ill) to 7 (Among the most extremely ill patients).\n\nCGI-Improvement (CGI-I): Rates change in clinical status from baseline on a 7-point scale, ranging from 1 (Very much improved) to 7 (Very much worse).\n\nCGI-Efficacy Index (CGI-E): Balances therapeutic efficacy with adverse effects, rated on a 4 × 4 grid, where higher scores reflect minimal efficacy and/or significant side effects.\n\nLower CGI-S and CGI-I scores indicate better outcomes (less illness severity and/or greater improvement).\n\nHigher CGI-E scores reflect worse outcomes (limited efficacy and/or significant side effects).\n\nHigher CGI-E scores reflect worse outcomes",
+      "Outcome_Type": "otherOutcomes",
+      "Time_Frame": "At baseline and the end of the trial (12 weeks)"
+    },
+    {
+      "Record_ID": "NCT04085172:secondaryOutcomes:6",
+      "NCT_ID": "NCT04085172",
+      "Outcome_Measure": "Part A: Change From Baseline in the Spatial Working Memory (SWM) Task of the CANTAB",
+      "Outcome_Description": "The ability to retain spatial information and manipulate remembered items in working memory was measured with SWM task. Task was self-ordered and assessed the individual's ability to strategize heuristically. The test was a sensitive measure of frontal lobe and executive dysfunction. The test began with a number of colored squares (boxes) shown on the screen. By selecting the boxes and using a process of elimination, the participant should find one yellow 'token' in each of a number of boxes and use them to fill up an empty column on the right-hand side of the screen. The outcome measures to be presented for each assessment of the task as follows: Total errors- number of times a box was selected that was certain to not have any tokens, across all trials ranging 0 (very good) to 66 (poor/impaired). Strategy (6 to 8 boxes)- number of times a participant begins a new search pattern from same box they started with previously, ranging 0 to 13. Higher score indicated a very poor strategy.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Weeks 18 and 49"
+    },
+    {
+      "Record_ID": "NCT00191386:secondaryOutcomes:1",
+      "NCT_ID": "NCT00191386",
+      "Outcome_Measure": "Change From Baseline at Various Timepoints in the Clinical Global Impressions-Attention Deficit Hyperactivity Disorder-Severity (CGI-ADHD-S)",
+      "Outcome_Description": "Measures severity of the participant's overall severity of ADHD symptoms (1=normal, not at all ill; 7=among the most extremely ill patients).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 6 Months, 12 Months, 2 Years, 3 Years, 4 Years"
+    },
+    {
+      "Record_ID": "NCT03530293:primaryOutcomes:0",
+      "NCT_ID": "NCT03530293",
+      "Outcome_Measure": "Time to Loss of Treatment Response",
+      "Outcome_Description": "Loss of treatment response during the withdrawal period was defined as: 2 consecutive visits with 1) an increase in the Yale Global Tic Severity Scale (YGTSS) Total Tic Score (TTS) of greater than 35% or 7 points from the randomized withdrawal period baseline and 2) an increase in CGI-Tics-Severity score of ≥2 points from the randomized withdrawal period baseline; or discontinuation due to lack of efficacy or a treatment-emergent adverse event (TEAE) of worsening of tics. Median (lower and upper quartiles) Kaplan-Meier estimates for the time to loss of treatment response were not able to be calculated because of the low incidence of loss of treatment response events.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Randomization (Week 8, 10 or 12) through Week 36"
+    },
+    {
+      "Record_ID": "NCT03514784:otherOutcomes:0",
+      "NCT_ID": "NCT03514784",
+      "Outcome_Measure": "Effects of BB-12+LGG at Different Doses on Irritability and Maladaptive Behaviors Measured With the Social Responsiveness Scale-2",
+      "Outcome_Description": "Psychological/Behavioral change in irritability and related maladaptive behaviors associated with ASD will be measured by the and the Social Responsiveness Scale-2 (SRS-2) pre and post treatment.",
+      "Outcome_Type": "otherOutcomes",
+      "Time_Frame": "Days 1, 21, 56 and 84"
+    }
+  ],
+  "CHATGPT_EXPANSION_BATCH_03": [
+    {
+      "Record_ID": "NCT00867451:primaryOutcomes:0",
+      "NCT_ID": "NCT00867451",
+      "Outcome_Measure": "Sleep Duration",
+      "Outcome_Description": "Data was gathered via actigraphy. Data was gathered on a nightly basis for one week at baseline and at week five. Data presented is the mean nightly value (in minutes) for that week.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline; Week 5"
+    },
+    {
+      "Record_ID": "NCT04781140:secondaryOutcomes:6",
+      "NCT_ID": "NCT04781140",
+      "Outcome_Measure": "Attention-Deficit/Hyperactivity Disorder Rating Scale, 4th Edition, Preschool Version (ADHD-RS-IV-P) Responder Rate (percentage of subjects with ≥ 50% Reduction in Change from Baseline) at End of Study (Week 6)",
+      "Outcome_Description": "The Attention-Deficit/Hyperactivity Disorder Rating Scale, 4th Edition, Preschool Version (ADHD-RS-IV-P) consists of 18 items that correspond directly to the DSM-IV-TR criteria for ADHD. The scale is subdivided into two 9 item subscales: inattention and hyperactivity-impulsivity. The clinician rates the frequency and severity of each symptom on a 4-point Likert-type scale; 0 = Never or rarely, 1 = Sometimes, 2 = Often, and 3 = Very often. Sum of 18 ratings yields the Total score (range: 0-54; higher score represents severer symptoms). Percent reduction is calculated for the ADHD-RS-IV-P score: \\[(\"Post-baseline\"-\"Baseline\")/\"Baseline\"\\] x 100; range: 0 to 100%; a \"responder\" is a subject with a 50% or greater reduction in change from baseline Total score. Responder rate (percent of responders) is calculated: \\[\"number of 'responders' (m)\"/ \"number of subjects analyzed\" (n)\\] X 100; range: 0 to 100%. A Responder Rate greater than 50%, represents more \"responders\" versus \"nonresponders\".",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and Week 6"
+    },
+    {
+      "Record_ID": "NCT02623114:secondaryOutcomes:1",
+      "NCT_ID": "NCT02623114",
+      "Outcome_Measure": "Side effects measured using the side effect rating scale (SRS)",
+      "Outcome_Description": "The side effect rating scale (SRS) is a parent rated scale, measuring side effects of multiple domains in the previous 2 week period.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "1 year"
+    },
+    {
+      "Record_ID": "NCT04520685:secondaryOutcomes:16",
+      "NCT_ID": "NCT04520685",
+      "Outcome_Measure": "Sleep Clinical Global Impressions - Improvement Scale (Sleep CGI-I)",
+      "Outcome_Description": "The Sleep Clinical Global Impressions - Improvement Scale (Sleep CGI-I) is a clinician completed measure based upon interview which assesses improvement in domains of ability to fall asleep and remain sleeping independently, bedtime resistance; sleep onset delay; night awakening; caregiver satisfaction with their child's current sleep patterns; family functioning, as affected by their child's current sleep patterns. A 7-point Likert scale is used for each domain with scores ranging from \"very much improved\" (1) to \"very much worse\" (7).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to Week 12"
+    },
+    {
+      "Record_ID": "NCT02918864:secondaryOutcomes:10",
+      "NCT_ID": "NCT02918864",
+      "Outcome_Measure": "Rate of Change From Baseline in Quality of Life (CGSQ)",
+      "Outcome_Description": "The change from baseline in the Caregiver Strain Questionnaire (CGSQ) is represented by the slope of each group. The primary outcome is the difference between groups in this rate of change or the group\\*time interaction. The CGSQ was used to assess quality of life. The CGSQ is a parent-rated questionnaire designed for parents of children and adolescents with emotional and behavioral disorders. It includes 21 items rated on a 5-point problem scale (1 = not at all to 5 = very much) rating subjective internal, subjective external, and objective strain. A global measure of strain can be calculated by averaging the scores together. Higher CGSQ scores indicate greater strain. Larger, negative slopes reflect a greater reduction in strain (i.e., improvement in score).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and Week 12 (Endpoint)"
+    },
+    {
+      "Record_ID": "NCT07642661:otherOutcomes:7",
+      "NCT_ID": "NCT07642661",
+      "Outcome_Measure": "Change From Baseline to Week 9 in Quality of Life in Autism Questionnaire (QOLA) Parent Version total score",
+      "Outcome_Description": "The QOLA Parent version includes Part A, parents' overall perception of their quality of life, and Part B, the impact of ASD symptoms on parents' quality of life; higher scores indicate better quality of life. Total scores: Part A ranges from 28 to 140, with higher scores reflecting better perceived parental quality of life; Part B ranges from 20 to 100, with higher scores indicating that the child's autism-related difficulties are perceived as less problematic for the parent",
+      "Outcome_Type": "otherOutcomes",
+      "Time_Frame": "Baseline to Week 9"
+    },
+    {
+      "Record_ID": "NCT06542887:secondaryOutcomes:1",
+      "NCT_ID": "NCT06542887",
+      "Outcome_Measure": "Child Health Questionnaire Parent Form 28 item (CHQ-PF28)",
+      "Outcome_Description": "To assess the impact of ADHD on quality of life, Child Health Questionnaire Parent Form 28 item (CHQ-PF28) will be completed by parents at baseline and after 12 weeks.\n\nThe CHQ-PF28 measures the following scales: Physical Functioning (3 items), Role functioning: emotional/behavior (1 item), Role functioning: physical (1 item), Bodily Pain (1 item), General Behavior (4 items), Mental Health (3 items), Self Esteem (3 items), General Health (4 items), Change in Health (1 item), Parental Impact-Emotional (2 items), Parental Impact-Time (2 items), Family Activities (2 items), and Family Cohesion (1 item).\n\nResponse options vary from four to six levels for the scales. Per scale, the items are summed up and transformed into a scale from 0 (worst possible score) to 100 (best possible score), yielding two summary component scores of physical (PhS) and psychosocial (PsS) health.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "3 months"
+    },
+    {
+      "Record_ID": "NCT03682978:secondaryOutcomes:21",
+      "NCT_ID": "NCT03682978",
+      "Outcome_Measure": "To explore the use and feasibility of digital biomarkers",
+      "Outcome_Description": "To explore the use and feasibility of digital biomarkers as treatment-responsive measures of core and associated symptoms of ASD",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week -3 + Week 0 + Week 2 + Week 4 + Week 6 + Week 8 + Week 12 + Week 16"
+    },
+    {
+      "Record_ID": "NCT00824317:secondaryOutcomes:0",
+      "NCT_ID": "NCT00824317",
+      "Outcome_Measure": "WEEKLY RATINGS BY PARENTS AND TEACHERS ON WELL-NORMED MEASURES OF ADHD SYMPTOMS AND FUNCTIONAL IMPAIRMENT PREVIOUSLY SHOWN TO BE DRUG-SENSITIVE (CONNERS AND SKAMP SCALES).",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Weekly"
+    },
+    {
+      "Record_ID": "NCT04520685:secondaryOutcomes:18",
+      "NCT_ID": "NCT04520685",
+      "Outcome_Measure": "NIH Toolbox Scales: Satisfaction with Social Roles and Activities - Short Form 4a",
+      "Outcome_Description": "National Institutes of Health Patient Reported Outcome Measures Information System (NIH PROMIS) will be used to quantify psychological wellbeing and quality of life through self-report and/or parent proxy report. Satisfaction with Social Roles and Activities - Short Form 4a assesses satisfaction with performing one's usual social roles and activities and uses a 5-point Likert scale with scores ranging from \"not at all\" (1) to \"very much\" (5). The sum of all scores yields a total raw score (range 4 - 20) with higher scores indicating a greater level of satisfaction. The final score is represented by the T-score, a standardized score with a mean of 50 and a standard deviation (SD) of 10.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline to Week 12"
+    },
+    {
+      "Record_ID": "NCT00573534:secondaryOutcomes:0",
+      "NCT_ID": "NCT00573534",
+      "Outcome_Measure": "Number of Participants With Low or no Substance Use During the Study vs the Number With Intermittent Use Judged by (1)Time Line Follow Back (Confidential Clinician Administered Record of Recent Substance Use) (2) Urine Toxicology.",
+      "Outcome_Description": "This outcome measure integrates data from self report supplied in the Time Line Follow Back (a self report summary of all substance and alcohol use over the previous week or month) with evidence from periodic (weekly to monthly) urine toxicologies.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "up to 24 weeks"
+    },
+    {
+      "Record_ID": "NCT00760747:secondaryOutcomes:5",
+      "NCT_ID": "NCT00760747",
+      "Outcome_Measure": "Change From Baseline in Treatment Satisfaction Preference Survey Mean Score at Week 10 Endpoint",
+      "Outcome_Description": "The Treatment Satisfaction Survey consists of a five-question survey each rated on a 5 point scale (0=very satisfied/very likely, 4=very dissatisfied/not at all likely). The mean score over the items is reported.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 10 weeks"
+    },
+    {
+      "Record_ID": "NCT02199925:secondaryOutcomes:0",
+      "NCT_ID": "NCT02199925",
+      "Outcome_Measure": "The modulatory effect of IVIG on neuroinflammation will be assessed by laboratory measurements which we believe are indicative of immune dysregulation.",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "1 year"
+    },
+    {
+      "Record_ID": "NCT06854601:secondaryOutcomes:6",
+      "NCT_ID": "NCT06854601",
+      "Outcome_Measure": "Assessment Using the Clinical Global Impressions for Attention Deficit Hyperactivity Disorder Severity (CGI-ADHD-S) Scale",
+      "Outcome_Description": "The Clinical Global Impressions-ADHD-Severity (CGI-ADHD-S) is a clinician-rated scale used to assess the severity of Attention Deficit Hyperactivity Disorder (ADHD) symptoms. This tool is part of the Clinical Global Impressions (CGI) scales. It typically consists of a single item that rates the severity of ADHD on a 7-point scale, ranging from 1 (normal, not at all ill) to 7 (among the most extremely ill patients). 7 point scale: min value 1, max value 7, higher scores mean a worse outcome.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Visit 5 (after 6 weeks of therapy) compared to the baseline level (Visit 2 Day 1 = Randomization Visit)"
+    },
+    {
+      "Record_ID": "NCT00447278:secondaryOutcomes:4",
+      "NCT_ID": "NCT00447278",
+      "Outcome_Measure": "Change From Baseline to 4 Month, 6 Month, and 12 Month Endpoints in Clinical Global Impression Attention-Deficit/Hyperactivity Disorder - Severity (CGI-ADHD-S)",
+      "Outcome_Description": "Measures severity of the patient's overall severity of ADHD symptoms (1=normal, not at all ill; 7=among the most extremely ill patients).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 4 months, 6 months, 12 months"
+    },
+    {
+      "Record_ID": "NCT00585910:primaryOutcomes:0",
+      "NCT_ID": "NCT00585910",
+      "Outcome_Measure": "Attention Deficit Hyperactivity Disorder Rating Scale (ADHD RS)",
+      "Outcome_Description": "The primary outcome was the ADHD rating scale. Change scores for the ADHD Rating Scale (RS), from baseline to endpoint (week 7 or last observation carried forward), were analyzed with paired t-tests and nonparametric Wilcoxon sign-rank tests. The best score is a score of 0 (no ADHD symptoms) and the worst score is the highest score possible (54).",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "7 weeks"
+    },
+    {
+      "Record_ID": "NCT07635862:primaryOutcomes:0",
+      "NCT_ID": "NCT07635862",
+      "Outcome_Measure": "The score on irritability subscale on the Aberrant Behavior Checklist (ABC)",
+      "Outcome_Description": "It is a common symptom of emotion dysregulation in ASD that impacts quality of life, including mental health, independence, educational opportunities, and integration into the community, and ganaxolone may provide more direct benefits or increased tolerability compared to atypical antipsychotics.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "The measures will be completed at screening, baseline, week 2, week 4, week 6, week 8, week 10, week 12, week 14, and week 16."
+    },
+    {
+      "Record_ID": "NCT00506727:primaryOutcomes:0",
+      "NCT_ID": "NCT00506727",
+      "Outcome_Measure": "Change in SKAMP deportment scores from baseline to endpoint (averaged across Days 7, 14, 21)",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Approximately 3 weeks"
+    },
+    {
+      "Record_ID": "NCT01018056:secondaryOutcomes:4",
+      "NCT_ID": "NCT01018056",
+      "Outcome_Measure": "The Change From Baseline to 6-week in Plasma Amino Acid Levels",
+      "Outcome_Description": "Blood testing was performed at baseline and at each clinic visit. Data shown below reflects baseline Glutamic Acid minus Week 6 Glutamic Acid, and baseline Serine minus Week 6 Serine levels; as acquired from the blood tests during these respective clinic visits.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and 6 weeks."
+    },
+    {
+      "Record_ID": "NCT00406354:secondaryOutcomes:12",
+      "NCT_ID": "NCT00406354",
+      "Outcome_Measure": "German Revised Children's Quality of Life Questionnaire (KINDL-R): Physical Well-Being Score",
+      "Outcome_Description": "KINDL-R (\"Revidierter KINDer Lebensqualitatsfragebogen, revised version\"), a validated German quality of life (QOL) questionnaire, provides parents' views on their child's emotional QOL. It consists of 24 items covering 6 QOL related dimensions (subscales) and 7 additional items assessing chronic illness. Each item is rated on a 5-point scale (1= never; 5= all the time). The lowest possible score on the Physical Well-Being subscale is 0; highest possible score is 100. Scores were normalized between 0 and 100, irrespective of the number of items per subscore. Higher scores indicate better QOL.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "9 weeks"
+    }
+  ],
+  "CHATGPT_EXPANSION_BATCH_04": [
+    {
+      "Record_ID": "NCT02550912:secondaryOutcomes:1",
+      "NCT_ID": "NCT02550912",
+      "Outcome_Measure": "Effect of vitamin D on phosphorous level",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "At baseline, 12 weeks ,24 weeks"
+    },
+    {
+      "Record_ID": "NCT05516407:secondaryOutcomes:8",
+      "NCT_ID": "NCT05516407",
+      "Outcome_Measure": "The Child Behaviour Checklist for Ages 6 - 18 (CBCL)",
+      "Outcome_Description": "A parent/carer measure to assess patterns of behaviour. The measure is a Likert scale rated over 3 or 4 points.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Week 17"
+    },
+    {
+      "Record_ID": "NCT00912691:secondaryOutcomes:0",
+      "NCT_ID": "NCT00912691",
+      "Outcome_Measure": "Other key measures of behavior and quality of life associated with autism",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 4, 8,12,16, 20, 24, 36, 48, 60, 72, 84, 96, 108, 120, 132, 144, 156, 168, and 180 weeks"
+    },
+    {
+      "Record_ID": "NCT00050622:secondaryOutcomes:0",
+      "NCT_ID": "NCT00050622",
+      "Outcome_Measure": "Treatment Satisfaction",
+      "Outcome_Description": "Parent rating of treatment satisfaction with medication, behavioral treatment, and their combination,on a scale of 1 (bad) to 7 (good).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "End of Treatment"
+    },
+    {
+      "Record_ID": "NCT02618408:secondaryOutcomes:2",
+      "NCT_ID": "NCT02618408",
+      "Outcome_Measure": "Effect of SPN-810 on Impulsive Aggression Measured by Child Health Questionnaire Parent Form 28-item (CHQ-PF28)",
+      "Outcome_Description": "CHQ-PF28) is a short generic measure of health status and health-related quality of life. The 28 items have 4, 5, or 6 response options, divided over 8 multi-item scales (physical functioning, general behavior, mental health, self-esteem, general health perceptions, parental impact: emotional, parental impact: time, and family activities) and 5 single item concepts (role functioning: emotional/behavior, role functioning: physical, bodily pain, family cohesion, and change in health). In addition, the individual scale scores will be aggregated to derive 2 summary component scores: the physical functioning and psychosocial health summary scores. The range on subscales and the overall scale is 0-100 (0 = worst possible health state; 100 = best possible health state). Data represent the change from Baseline (Visit 3) one time point, Visit 6 (Week 5).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline Visit 3 (Day 1) and Visit 6 (Week 5). Total duration of the study was 5 weeks."
+    },
+    {
+      "Record_ID": "NCT01734941:secondaryOutcomes:0",
+      "NCT_ID": "NCT01734941",
+      "Outcome_Measure": "Secondary assessments of efficacy will be assessed via: The change from baseline in the CY-BOCS, CGI-I, SRS, SCQ.",
+      "Outcome_Description": "Secondary assessments of efficacy will be assessed via:\n\n• The change from baseline in the Clinical Global Impression - Improvement scale (CGI-I)",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "49 weeks"
+    },
+    {
+      "Record_ID": "NCT00515320:secondaryOutcomes:1",
+      "NCT_ID": "NCT00515320",
+      "Outcome_Measure": "The inter-relationship between these effects in the context of global clinical changes.",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Throughout the study"
+    },
+    {
+      "Record_ID": "NCT02839915:secondaryOutcomes:0",
+      "NCT_ID": "NCT02839915",
+      "Outcome_Measure": "Change in Clinician Global Impression for Improvement (CGI-I) Score",
+      "Outcome_Description": "The CGI-I is a 7-point measure of overall symptomatic change compared to baseline that will be used as a key secondary outcome measure. Scores range from 1 (Very Much Improved) through 4 (Unchanged) to 7 (Very Much Worse). The CGI-I will be rated by a clinician who is blind to treatment assignment, and will not engage in discussion of adverse events and medication dose. Ratings of \"Much Improved\" or \"Very Much Improved\" on the CGI-I will be used to define positive response. Subjects who drop out will be rated as non-responders.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Up to 12 Weeks"
+    },
+    {
+      "Record_ID": "NCT02094651:secondaryOutcomes:0",
+      "NCT_ID": "NCT02094651",
+      "Outcome_Measure": "behavior changes in drug vs placebo.",
+      "Outcome_Description": "To determine if administration of VPA results in improvement in behavior compared to placebo. Based on preliminary data the investigators hypothesize that VPA will be significantly associated with improvement in the areas of aggression, attention and externalizing behaviors as measured by the Child Behavior Checklist (CBCL), the primary behavioral outcome variables. A wide range of other behavioral measures (secondary outcomes) including those related to core ASD symptoms, language, adaptive functioning, sensory and motor behaviors to identify will also be examined. Behavioral measures will be examined in relation to reduction of epileptiform discharges. The investigators will also include both objective and subjective measures of sleep and examine the effect of sleep changes in relation to EEG discharge profiles and behavior.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "In this crossover study participants will be on drug and placebo for 12 weeks each"
+    },
+    {
+      "Record_ID": "NCT03715153:secondaryOutcomes:5",
+      "NCT_ID": "NCT03715153",
+      "Outcome_Measure": "Acceptability and Palatability Questionnaires - Only Descriptive Analyses",
+      "Outcome_Description": "Acceptability and palatability criterion Based on your child's reactions (indirect rating), do you think that he/she found the administration method to be",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 26"
+    },
+    {
+      "Record_ID": "NCT02102698:secondaryOutcomes:2",
+      "NCT_ID": "NCT02102698",
+      "Outcome_Measure": "Child Yale-Brown Obsessive Compulsive Scale",
+      "Outcome_Description": "The CY-BOCS is a clinician-rated, 10-item scale to both determine severity of OCD and to monitor improvement during treatment, with a higher score indicating greater severity.\n\nThe scale is a clinician-rated, 10-item scale (5 items regarding severity and 5 items regarding obsessions) that includes questions about the amount of time spent on obsessions/compulsions, level of impairment or distress, and how much resistance and control subjects have over these thoughts. The 10 items are assessed on a 6-point scale with an overall score. Total score from 0 to 40 with higher score indicating greater severity. Total score change shown below.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and 30 days"
+    },
+    {
+      "Record_ID": "NCT00100295:primaryOutcomes:0",
+      "NCT_ID": "NCT00100295",
+      "Outcome_Measure": "ADHD-IV rating scale",
+      "Outcome_Description": "",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Difference between baseline and end of study"
+    },
+    {
+      "Record_ID": "NCT02618434:secondaryOutcomes:0",
+      "NCT_ID": "NCT02618434",
+      "Outcome_Measure": "Effect of SPN-810 on Impulsive Aggression Measured by Clinical Global Impression - Severity Scale (CGI-S)",
+      "Outcome_Description": "The Clinical Global Impression - Severity of Illness (CGI-S) is a single item clinician rating of clinician's assessment of the severity of IA behaviors CGI-S was evaluated by the Investigator at each visit on a 7- point scale with 1=Normal, 2=Borderline ill, 3=Mildly ill, 4=Moderately ill, 5=Markedly ill, 6=Severely ill, and 7=Extremely ill. Data represent the change between Baseline (Visit 3/Day 1) and three time points: Visit 4 (Week 1); Visit 5 (Week 2) and Visit 6 (Week 5).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline/Visit 3 (Day 1), Visit 4 (Week 1), Visit 5 (Week 2), and Visit 6 (Week 5). The total duration of the study was 5 weeks."
+    },
+    {
+      "Record_ID": "NCT04318067:secondaryOutcomes:2",
+      "NCT_ID": "NCT04318067",
+      "Outcome_Measure": "Dundee Difficult Times of the Day Scale (D-DTODS)",
+      "Outcome_Description": "On a 4 point Likert scale (1-4) the instrument asses the impact on Child and Family Self-Esteem and Quality of Life . Total max is 40 points and indicates low QoL and Minimum score is 10 and indicate Normal functioning and High QoL",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "6 month"
+    },
+    {
+      "Record_ID": "NCT03197922:secondaryOutcomes:3",
+      "NCT_ID": "NCT03197922",
+      "Outcome_Measure": "Caregiver Strain Questionnaire - Short Form 7 (CGSQ-SF7) Subjective Internalized Strain Subscale Score",
+      "Outcome_Description": "The Caregiver Strain Questionnaire - Short Form (CGSQ-SF7) assesses parental stress and strain in the prior month in caregivers who are caring for a child with behavioral disorders. The CGSQ-SF includes 7 items where responses are given on a 5-point scale where \"not at all\" is scored as 0 and \"very much\" is scored as 4. The CGSQ-SF7 has two subscales: Objective Strain with four items, and Subjective Internalized Strain with three items. The total score for the Subjective Internalized Strain subscale ranges from 0 to 12 and higher scores indicate greater parental strain.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Week 8"
+    },
+    {
+      "Record_ID": "NCT05957055:secondaryOutcomes:8",
+      "NCT_ID": "NCT05957055",
+      "Outcome_Measure": "Improvement of the patient's quality of life (QoL)",
+      "Outcome_Description": "The outcome will be measured using PedsQL 3.2 questionnaires, completed by patient and parent/legal guardian, assessed by an investigator blinded to patient allocation.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Improvement of the patient's quality of life (QoL) measured from baseline (within 2 weeks before PT training), after completion of PT training (week 10th/22nd) and after each 6 months of pharmacotherapy arm"
+    },
+    {
+      "Record_ID": "NCT03788902:primaryOutcomes:1",
+      "NCT_ID": "NCT03788902",
+      "Outcome_Measure": "changes in scores of Faux-Pas Recognition test",
+      "Outcome_Description": "number of faux-pas recognized in specific vignettes by participants",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "15 minutes"
+    },
+    {
+      "Record_ID": "NCT03550209:primaryOutcomes:0",
+      "NCT_ID": "NCT03550209",
+      "Outcome_Measure": "Bioavailability",
+      "Outcome_Description": "Group differences in bioavailability; each fatty acid as a percent of total erythrocyte fatty acids at the end of the trial",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline to 90 days post-randomization"
+    },
+    {
+      "Record_ID": "NCT01302964:primaryOutcomes:1",
+      "NCT_ID": "NCT01302964",
+      "Outcome_Measure": "Proportion of Participants Who Responded to Treatment at 10 Weeks According to the Improvement Item of the Clinical Global Impression-Scale (Response Defined as CGI-I=1 or CGI-I=2)",
+      "Outcome_Description": "The Clinical Global Impressions Global Improvement (CGI-I) is designed to take into account all factors to arrive at an assessment of response to treatment. The CGI-I scale ranges from 1 to 7 (1=very much improved; 2= much improved; 3=minimally improved; 4=no change; 5=minimally worse; 6=much worse; 7=very much worse), with lower scores indicating improvement (1=very much improved and 2=much improved). In this study the CGI was focused on the target symptom of anxiety. Participants with a CGI-I score of 1 or 2 were classified as responders. The CGI-I was administered biweekly for 6 weeks and again at 10 weeks during the study. The participant who withdrew from the study before 10 weeks was not included in the calculations.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Screen (Visit 1) Baseline (Visit 2) and Endpoint (Week 10)"
+    },
+    {
+      "Record_ID": "NCT01205282:primaryOutcomes:0",
+      "NCT_ID": "NCT01205282",
+      "Outcome_Measure": "Safety of pioglitazone in children with ASD ages 5-12 years",
+      "Outcome_Description": "This will be measured by the Clinical Global Impressions - Improvement Scale - Global (CGI-I-Global)",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "16 Weeks"
+    }
+  ],
+  "CHATGPT_EXPANSION_BATCH_05": [
+    {
+      "Record_ID": "NCT02561481:secondaryOutcomes:6",
+      "NCT_ID": "NCT02561481",
+      "Outcome_Measure": "Free GSH:GSSG and Total GSH:GSSG Ratios at Week 15",
+      "Outcome_Description": "Ratios of free GSH:GSSG and total GSH:GSSG were calculated by obtaining ratios of f-statistic scores from baseline to week 15 between free reduced GSH and GSSG and between total GSH and GSSG.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 15"
+    },
+    {
+      "Record_ID": "NCT03900923:secondaryOutcomes:1",
+      "NCT_ID": "NCT03900923",
+      "Outcome_Measure": "Change in Social Responsiveness Scale, 2nd Edition (SRS-2), School-Age Form Score",
+      "Outcome_Description": "The SRS-2 is a 65-item questionnaire assessing Social Awareness, Social Cognition, Social Communication, Social Motivation, and Restricted Interests and Repetitive Behavior. Items are scored on a 4-point scale (ranging from 1=not true to 4=almost always true). The raw score is the sum of responses and is converted to a T-score; the final T-score has a mean of 50 points with a standard deviation of 10 points, where lower scores indicate greater social responsiveness:\n\n* Less than or equal to 59 = Low-to-no symptom impacts\n* Between 60-65 = Mild-to-moderate defcits in social interaction\n* Between 66-75 = Moderate defcit in social interaction\n* Greater than or equal to 76 = Severe",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Week 6"
+    },
+    {
+      "Record_ID": "NCT03156153:secondaryOutcomes:4",
+      "NCT_ID": "NCT03156153",
+      "Outcome_Measure": "Symbolic Play Test",
+      "Outcome_Description": "Symbolic Play Test is a nonverbal measure of symbolic functioning in participants aged 12-36 months. The test does not require any expressive speech, and is therefore appropriate for use with all participants with ASD. Participants are sequentially presented with four sets of toys, and their spontaneous manipulation of the objects is observed and recorded on a standardized checklist.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Day 0 and Day 90"
+    },
+    {
+      "Record_ID": "NCT07300956:primaryOutcomes:0",
+      "NCT_ID": "NCT07300956",
+      "Outcome_Measure": "Clinical Global Impression-Improvement",
+      "Outcome_Description": "The Clinical Global Impression-Improvement scale is a seven-point rating tool that evaluates how a participant's Attention-Deficit/Hyperactivity Disorder symptoms have changed since their baseline measurement. Although this scale can be used for other mental health conditions, in this study it is applied specifically to Attention-Deficit/Hyperactivity Disorder. A score of \"1\" indicates \"very much improved,\" while a score of \"7\" indicates \"very much worse.\" Higher scores reflect a worse outcome.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "From enrollment to the end of the 16-week medication treatment."
+    },
+    {
+      "Record_ID": "NCT03183674:primaryOutcomes:0",
+      "NCT_ID": "NCT03183674",
+      "Outcome_Measure": "Eye tracking",
+      "Outcome_Description": "Eye tracking program",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "on average of 1 year"
+    },
+    {
+      "Record_ID": "NCT00681863:secondaryOutcomes:34",
+      "NCT_ID": "NCT00681863",
+      "Outcome_Measure": "Patient Global Impression - Improvement",
+      "Outcome_Description": "Assessment of the change of the patient's overall condition during the last week compared to the patient's condition at baseline on a scale ranging from 1 (very much better) to 7 (very much worse). A responder is defined as having a response of very much (1) or much better (2).",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "week 8"
+    },
+    {
+      "Record_ID": "NCT01883817:primaryOutcomes:0",
+      "NCT_ID": "NCT01883817",
+      "Outcome_Measure": "Attention-Deficit Hyperactivity Disorder Symptom Ratings Using the ADHD Rating Scale (ADHD-RS-IV)",
+      "Outcome_Description": "Attention-Deficit Hyperactivity Disorder Rating Scale Version IV (ADHD-RS-IV) Min score: 0 Max score: 54 Higher score = more severe ADHD symptoms",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "10 weeks"
+    },
+    {
+      "Record_ID": "NCT00211757:primaryOutcomes:0",
+      "NCT_ID": "NCT00211757",
+      "Outcome_Measure": "Number of Participants Reporting Improvement on the Clinical Global Impression",
+      "Outcome_Description": "The CGI-I is a 7-point improvement scale. Ratings of 1 or 2 (responders) indicate a substantial reduction in symptoms. A rating of 3 (minimally improved) on the CGI is defined as a slight symptomatic improvement that is not deemed clinically significant; patients with such an improvement were not considered responders. Two versions of this test were used, one focused on irritability (primary outcome measure) and a general version CGI-I-autism focused on all symptoms including core symptom domains. The CGI-I irritability took into consideration the scores from the ABC-Irritability subscale, the OAS-M aggression and irritability subscales and information from open-ended questioning related to the degree of interference, nature, and range of behavioral problems at school and at home",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline to end of study (week 15)"
+    },
+    {
+      "Record_ID": "NCT04219280:secondaryOutcomes:3",
+      "NCT_ID": "NCT04219280",
+      "Outcome_Measure": "Frequency of clinically significant cardiac occurrences on MPH- clinically significant changes for Heart Rate (HR) during the MPH titration trial [Phase 1] and the MPH dosage maintenance period [Phase 4].",
+      "Outcome_Description": "HR will be assessed and collected by trained study staff and clinically significant changes will be tracked and assessed based on the participant's age.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Weeks 2-14, Weeks 18, 22, 26, and 30"
+    },
+    {
+      "Record_ID": "NCT00541346:secondaryOutcomes:8",
+      "NCT_ID": "NCT00541346",
+      "Outcome_Measure": "Change in Pediatric Evaluation Disability Inventory (PEDI) Social Function From Baseline to 8-week Follow-up Visit",
+      "Outcome_Description": "The PEDI Caregiver Assistance measures rate the child's function in three domains: Self-care, Mobility, and Social Function. Items are scored 0 (total, where the child is completely dependent on assistance) to 5 (independent, where no assistance is given or required). Scale scores represent summed item scores within each domain. The Social-Function scale score ranges from 0 to 25. A higher score indicates a higher degree of independence in the Social-Function area.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 8 weeks"
+    },
+    {
+      "Record_ID": "NCT01970345:secondaryOutcomes:1",
+      "NCT_ID": "NCT01970345",
+      "Outcome_Measure": "Social Pervasive Developmental Disorder-Behavior Inventory (PDDBI)",
+      "Outcome_Description": "Social Pervasive Developmental Disorder-Behavior Inventory (PDDBI) - Each item is marked as \"0\" (does not show the behavior), \"1\" (rarely shows the behavior), \"2\" (sometimes/partially shows the behavior), \"3\" (usually/typically shows the behavior), or \"?\" (uncertain/don't understand).\n\nThe Sensory, Ritual, Social Pragmatic, Semantic Pragmatic, Arouse, Specific Fears, and Aggressiveness subscales range from 0 to 100, where higher score indicates worse severity than the average child with autism.\n\nThe Social Approach, Expressive, and Learning Memory subscales range from 0 to 100, where higher score indicates better skills relative to the average child with autism.\n\nScores reported in subscales. Scores were not reported as full scale.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Week 12 of Phase 1"
+    },
+    {
+      "Record_ID": "NCT07630506:otherOutcomes:2",
+      "NCT_ID": "NCT07630506",
+      "Outcome_Measure": "Change in Plasma Ergothioneine Levels",
+      "Outcome_Description": "Change from baseline to Week 12 in plasma ergothioneine concentration (ET, nM). Plasma ergothioneine (ET, nM), hercynine (nM), and ophthalmic acid will be measured at baseline (T1) and Week 12 (T2).",
+      "Outcome_Type": "otherOutcomes",
+      "Time_Frame": "Baseline to Week 12"
+    },
+    {
+      "Record_ID": "NCT03260205:primaryOutcomes:0",
+      "NCT_ID": "NCT03260205",
+      "Outcome_Measure": "Change From Baseline in Clinician-Administered Attention-Deficit/Hyperactivity Disorder Rating Scale-IV (ADHD-RS-IV) Preschool Version Total Score at Week 6",
+      "Outcome_Description": "ADHD-RS-IV Preschool Version was adapted from the ADHD Rating Scale-IV and provided examples appropriate for the developmental level of preschool children. The ADHD-RS-IV Preschool Version was an 18-item questionnaire that required the respondent to rate the frequency of occurrence of ADHD symptoms as defined by Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition-Text Revision (DSM-IV-TR) criteria. Each item was scored on a 4-point scale ranging from 0 (never or rarely) to 3 (very often) with total scores ranging from 0-54. The 18 items were grouped into 2 subscales: hyperactivity/impulsivity (even numbered items 2-18) and inattentiveness (odd numbered items 1-17). Full analysis set (FAS) consisted of all participants in the safety analysis set who had at least 1 post-dose ADHD RS IV preschool version total score assessment.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline, Week 6"
+    },
+    {
+      "Record_ID": "NCT03900923:secondaryOutcomes:7",
+      "NCT_ID": "NCT03900923",
+      "Outcome_Measure": "Change in Autism Family Experience Questionnaire (AFEQ) Score",
+      "Outcome_Description": "Parent/Caregiver form used to measure impact of autism interventions on family experience and quality of life. Items are rated on a 5-point scale where 1=always and 5=never. The total score is the sum of responses and ranges from 48 - 240; lower scores indicate better outcomes.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, Week 6"
+    },
+    {
+      "Record_ID": "NCT06568588:primaryOutcomes:8",
+      "NCT_ID": "NCT06568588",
+      "Outcome_Measure": "Modifications of behavior during Sb administration",
+      "Outcome_Description": "Changes in the behavior of children with ASD when they are receiving Sb supplementation. ADOS- 2 test will be applied to determine conduct in different situations, sensory response and adaptive functioning. The total scores range from 15 to 60, and a higher score means a worse outcome.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "ADOS-2 test will be performed at months 1, 4, 5, 9, 10 of the study."
+    },
+    {
+      "Record_ID": "NCT03109756:primaryOutcomes:2",
+      "NCT_ID": "NCT03109756",
+      "Outcome_Measure": "Measurement of plasma half-life following a single dose of OV101",
+      "Outcome_Description": "Plasma half-life (T1/2)",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "10 hours"
+    },
+    {
+      "Record_ID": "NCT05439616:primaryOutcomes:0",
+      "NCT_ID": "NCT05439616",
+      "Outcome_Measure": "Change from Baseline in Aberrant Behavior Checklist, 2nd edition - Community Version - Irritability (ABC-I) Subscale Score",
+      "Outcome_Description": "The Aberrant Behavior Checklist (ABC) - Community version is a 58-item, caregiver-rated scale designed to measure inappropriate and maladaptive behavior of people with developmental disabilities (including intellectual disability and ASD). The ABC has 5 subscales (Irritability, Social Withdrawal, Stereotypic Behavior, Hyperactivity and Inappropriate Speech). The caregiver rates the child's behavior from 0=not at all a problem to 3= the problem is severe in degree. The range for Irritability is 0 to 45. Higher scores indicate greater severity.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Baseline (Week 0) to Week 8"
+    },
+    {
+      "Record_ID": "NCT03460652:primaryOutcomes:0",
+      "NCT_ID": "NCT03460652",
+      "Outcome_Measure": "Subjects With Treatment-Emergent Adverse Events (TEAEs)",
+      "Outcome_Description": "TEAEs will be assessed starting following the first dose of study drug, and ending with the Follow-Up Visit or Early Termination Visit.",
+      "Outcome_Type": "primaryOutcomes",
+      "Time_Frame": "Up to 12 months"
+    },
+    {
+      "Record_ID": "NCT01418352:secondaryOutcomes:1",
+      "NCT_ID": "NCT01418352",
+      "Outcome_Measure": "Mean Change From Baseline in Gilles de la Tourette Quality of Life (GTS-QOL) Overall Score at Week 8",
+      "Outcome_Description": "The GTS-QOL is a disease-specific patient-reported scale for the measurement of health-related quality of life in participants with Tourette's Disorder, taking into account the complexity of the clinical picture of the disease. The questionnaire consists of a 27-item Tourette's Disorder-specific scale with 4 subscales (psychological, physical, obsessional, and cognitive). The GTS-QOL total score ranged from 0 (extremely dissatisfied with life) and 100 (extremely satisfied with life). A positive change from Baseline indicates improvement.",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline and Week 8"
+    },
+    {
+      "Record_ID": "NCT01825798:secondaryOutcomes:0",
+      "NCT_ID": "NCT01825798",
+      "Outcome_Measure": "Changes in Additional Body Composition Parameters (Absolute Change in Weight)",
+      "Outcome_Description": "",
+      "Outcome_Type": "secondaryOutcomes",
+      "Time_Frame": "Baseline, 16 Weeks"
+    }
+  ]
+}

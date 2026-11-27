@@ -1,0 +1,827 @@
+{
+  "Batch_ID": "CHATGPT_EXPANSION_BATCH_03",
+  "Prompt_Version": "ndd-web-multiaxis-v1.0.0",
+  "Results": [
+    {
+      "Record_ID": "NCT00867451:primaryOutcomes:0",
+      "NCT_ID": "NCT00867451",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "Sleep"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Sleep Duration"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Sleep Duration"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Sleep",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Sleep Duration"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04781140:secondaryOutcomes:6",
+      "NCT_ID": "NCT04781140",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "inattention and hyperactivity-impulsivity"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "inattention and hyperactivity-impulsivity"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "inattention and hyperactivity-impulsivity"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02623114:secondaryOutcomes:1",
+      "NCT_ID": "NCT02623114",
+      "Outcome_Domain": [
+        "Safety"
+      ],
+      "COMET_Domain": [
+        "38"
+      ],
+      "NDD_Subdomain": [
+        "SafetyTolerability"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Description",
+          "Quote": "measuring side effects of multiple domains"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "38",
+          "Source_Field": "Outcome_Description",
+          "Quote": "measuring side effects of multiple domains"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Description",
+          "Quote": "measuring side effects of multiple domains"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04520685:secondaryOutcomes:16",
+      "NCT_ID": "NCT04520685",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "21",
+        "37"
+      ],
+      "NDD_Subdomain": [
+        "Sleep",
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "ability to fall asleep and remain sleeping independently"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "caregiver satisfaction with their child's current sleep patterns; family functioning, as affected by their child's current sleep patterns"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "bedtime resistance; sleep onset delay; night awakening"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "37",
+          "Source_Field": "Outcome_Description",
+          "Quote": "family functioning, as affected by their child's current sleep patterns"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Sleep",
+          "Source_Field": "Outcome_Description",
+          "Quote": "ability to fall asleep and remain sleeping independently"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "caregiver satisfaction with their child's current sleep patterns; family functioning, as affected by their child's current sleep patterns"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02918864:secondaryOutcomes:10",
+      "NCT_ID": "NCT02918864",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "30",
+        "37"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Caregiver Strain Questionnaire (CGSQ)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "30",
+          "Source_Field": "Outcome_Description",
+          "Quote": "The CGSQ was used to assess quality of life."
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "37",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Caregiver Strain Questionnaire (CGSQ)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Caregiver Strain Questionnaire (CGSQ)"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "The record explicitly describes quality of life, while the named questionnaire and scoring description assess caregiver strain."
+    },
+    {
+      "Record_ID": "NCT07642661:otherOutcomes:7",
+      "NCT_ID": "NCT07642661",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "30",
+        "37"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "parents' overall perception of their quality of life"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "30",
+          "Source_Field": "Outcome_Description",
+          "Quote": "parents' overall perception of their quality of life"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "37",
+          "Source_Field": "Outcome_Description",
+          "Quote": "the impact of ASD symptoms on parents' quality of life"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "parents' overall perception of their quality of life"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT06542887:secondaryOutcomes:1",
+      "NCT_ID": "NCT06542887",
+      "Outcome_Domain": [
+        "FunctionAndCognition",
+        "ClinicalSymptoms",
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "30",
+        "25",
+        "27",
+        "09",
+        "21",
+        "28",
+        "31",
+        "37",
+        "26"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Physical Functioning (3 items), Role functioning: emotional/behavior (1 item), Role functioning: physical (1 item)"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Mental Health (3 items)"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "quality of life"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "30",
+          "Source_Field": "Outcome_Description",
+          "Quote": "quality of life"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "25",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Physical Functioning (3 items)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "27",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Role functioning: emotional/behavior (1 item), Role functioning: physical (1 item)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Bodily Pain (1 item)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Mental Health (3 items)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "28",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Self Esteem (3 items)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "31",
+          "Source_Field": "Outcome_Description",
+          "Quote": "General Health (4 items), Change in Health (1 item)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "37",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Parental Impact-Emotional (2 items), Parental Impact-Time (2 items)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "26",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Family Activities (2 items), and Family Cohesion (1 item)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "quality of life"
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "Explicit physical/role functioning and broad mental health scales lack sufficiently specific project leaves; Other represents the explicitly measured quality-of-life and family constructs."
+    },
+    {
+      "Record_ID": "NCT03682978:secondaryOutcomes:21",
+      "NCT_ID": "NCT03682978",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "UNCLEAR"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "use and feasibility of digital biomarkers"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "use and feasibility of digital biomarkers"
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "Measurement feasibility is explicit, but neither the digital biomarker construct nor a matching COMET domain is specified."
+    },
+    {
+      "Record_ID": "NCT00824317:secondaryOutcomes:0",
+      "NCT_ID": "NCT00824317",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "21",
+        "09"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "ADHD SYMPTOMS"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "FUNCTIONAL IMPAIRMENT"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "ADHD SYMPTOMS"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "FUNCTIONAL IMPAIRMENT"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "ADHD SYMPTOMS"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "Functional impairment is explicit, but its specific functional construct and corresponding project leaf are not identified."
+    },
+    {
+      "Record_ID": "NCT04520685:secondaryOutcomes:18",
+      "NCT_ID": "NCT04520685",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "27"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "satisfaction with performing one's usual social roles and activities"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "27",
+          "Source_Field": "Outcome_Description",
+          "Quote": "satisfaction with performing one's usual social roles and activities"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "satisfaction with performing one's usual social roles and activities"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00573534:secondaryOutcomes:0",
+      "NCT_ID": "NCT00573534",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "all substance and alcohol use"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "all substance and alcohol use"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "all substance and alcohol use"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00760747:secondaryOutcomes:5",
+      "NCT_ID": "NCT00760747",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "32"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Treatment Satisfaction Preference Survey"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "32",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Treatment Satisfaction Preference Survey"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Treatment Satisfaction Preference Survey"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02199925:secondaryOutcomes:0",
+      "NCT_ID": "NCT02199925",
+      "Outcome_Domain": [
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "17",
+        "11"
+      ],
+      "NDD_Subdomain": [
+        "BiologicalMechanistic"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "laboratory measurements which we believe are indicative of immune dysregulation"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "neuroinflammation"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "11",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "immune dysregulation"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "BiologicalMechanistic",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "laboratory measurements which we believe are indicative of immune dysregulation"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT06854601:secondaryOutcomes:6",
+      "NCT_ID": "NCT06854601",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "severity of Attention Deficit Hyperactivity Disorder (ADHD) symptoms"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "severity of Attention Deficit Hyperactivity Disorder (ADHD) symptoms"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "severity of Attention Deficit Hyperactivity Disorder (ADHD) symptoms"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00447278:secondaryOutcomes:4",
+      "NCT_ID": "NCT00447278",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "overall severity of ADHD symptoms"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "overall severity of ADHD symptoms"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "overall severity of ADHD symptoms"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00585910:primaryOutcomes:0",
+      "NCT_ID": "NCT00585910",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Attention Deficit Hyperactivity Disorder Rating Scale"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Attention Deficit Hyperactivity Disorder Rating Scale"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Attention Deficit Hyperactivity Disorder Rating Scale"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT07635862:primaryOutcomes:0",
+      "NCT_ID": "NCT07635862",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "IrritabilityAggression"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "irritability subscale on the Aberrant Behavior Checklist (ABC)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "irritability subscale on the Aberrant Behavior Checklist (ABC)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "irritability subscale on the Aberrant Behavior Checklist (ABC)"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00506727:primaryOutcomes:0",
+      "NCT_ID": "NCT00506727",
+      "Outcome_Domain": [
+        "UNCLEAR"
+      ],
+      "COMET_Domain": [
+        "UNCLEAR"
+      ],
+      "NDD_Subdomain": [
+        "UNCLEAR"
+      ],
+      "Evidence_Span": [],
+      "Uncertainty": "HIGH",
+      "Abstain": true,
+      "Abstain_Reason": "SKAMP deportment is named without a description of its measured behaviors; a specific project construct cannot be established from the supplied text."
+    },
+    {
+      "Record_ID": "NCT01018056:secondaryOutcomes:4",
+      "NCT_ID": "NCT01018056",
+      "Outcome_Domain": [
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "14"
+      ],
+      "NDD_Subdomain": [
+        "BiologicalMechanistic"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Plasma Amino Acid Levels"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "14",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Plasma Amino Acid Levels"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "BiologicalMechanistic",
+          "Source_Field": "Outcome_Description",
+          "Quote": "baseline Glutamic Acid minus Week 6 Glutamic Acid, and baseline Serine minus Week 6 Serine levels"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00406354:secondaryOutcomes:12",
+      "NCT_ID": "NCT00406354",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "09"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Physical Well-Being Score"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Physical Well-Being Score"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Physical Well-Being Score"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "The endpoint specifies physical well-being; the description also mentions emotional quality of life without identifying it as the reported subscale."
+    }
+  ]
+}

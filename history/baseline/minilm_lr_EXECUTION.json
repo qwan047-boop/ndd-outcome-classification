@@ -1,0 +1,12 @@
+{
+  "elapsed_seconds": 278.90526299999874,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.5",
+  "sklearn": "1.9.1",
+  "scipy": "1.18.1",
+  "fit_count": 75,
+  "test_labels_used_by_fitting": false,
+  "input_config_sha256": "d59f4f2a55040af4db6b297b9b7d7aeac52c0baadcbc78413c86b98a76aa8c97",
+  "gold_sha256": "363c3a8746182736344176f5969d5d69a3a16af2bd2b9e188d4b9a2e6ce2f64e"
+}

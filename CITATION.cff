@@ -1,0 +1,18 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Citation metadata for an unpublished research project. No public repository or DOI has been assigned.",
+  "title": "Weakly Supervised Classification of Clinical Trial Outcomes in Pediatric Neurodevelopmental Disorders: Text Representations, LLM Label Quality, and Active Learning",
+  "type": "software",
+  "authors": [
+    {
+      "family-names": "Wan",
+      "given-names": "Qing",
+      "affiliation": "Institute of Pharmaceutical Innovation, Hubei Province Key Laboratory of Occupational Hazard Identification and Control, School of Medicine, Wuhan University of Science and Technology, Wuhan 430065, China"
+    },
+    {
+      "family-names": "Xi",
+      "given-names": "Jinlei",
+      "affiliation": "Institute of Pharmaceutical Innovation, Hubei Province Key Laboratory of Occupational Hazard Identification and Control, School of Medicine, Wuhan University of Science and Technology, Wuhan 430065, China"
+    }
+  ]
+}

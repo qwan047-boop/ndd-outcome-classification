@@ -1,0 +1,21 @@
+{
+  "direction": "SVM minus MiniLM",
+  "micro_difference": 0.018026418026418023,
+  "macro_difference": -0.05220512820512824,
+  "micro_CI95": [
+    -0.06027473927016595,
+    0.09035258019707706
+  ],
+  "macro_CI95": [
+    -0.21616018080309493,
+    0.19499581090740897
+  ],
+  "overlap_counts": {
+    "Both correct": 41,
+    "SVM only correct": 5,
+    "Both incorrect": 8,
+    "MiniLM only correct": 4
+  },
+  "n_test_decidable": 58,
+  "interpretation": "paired exploratory bootstrap; not independent confirmation"
+}

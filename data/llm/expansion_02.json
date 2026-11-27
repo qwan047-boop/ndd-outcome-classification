@@ -1,0 +1,842 @@
+{
+  "Batch_ID": "CHATGPT_EXPANSION_BATCH_02",
+  "Prompt_Version": "ndd-web-multiaxis-v1.0.0",
+  "Results": [
+    {
+      "Record_ID": "NCT07284745:secondaryOutcomes:5",
+      "NCT_ID": "NCT07284745",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "SocialCommunication"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Inappropriate Speech Subscale"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Inappropriate Speech Subscale"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Inappropriate Speech Subscale"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04016792:secondaryOutcomes:1",
+      "NCT_ID": "NCT04016792",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "29"
+      ],
+      "NDD_Subdomain": [
+        "CognitionLanguage"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "PERMP math test number attempted and number correct"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "PERMP math test number attempted and number correct"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "PERMP math test number attempted and number correct"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00191698:secondaryOutcomes:5",
+      "NCT_ID": "NCT00191698",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "33"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Environmental stress"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "33",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Readjustment Rating Scale (SRRS)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Environmental stress"
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "The named instrument measures stressful life circumstances; the text does not specify which ODD symptoms are assessed."
+    },
+    {
+      "Record_ID": "NCT01914393:secondaryOutcomes:7",
+      "NCT_ID": "NCT01914393",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "30"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "30",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Higher scores indicate better quality of life."
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02614599:secondaryOutcomes:1",
+      "NCT_ID": "NCT02614599",
+      "Outcome_Domain": [
+        "UNCLEAR"
+      ],
+      "COMET_Domain": [
+        "UNCLEAR"
+      ],
+      "NDD_Subdomain": [
+        "UNCLEAR"
+      ],
+      "Evidence_Span": [],
+      "Uncertainty": "HIGH",
+      "Abstain": true,
+      "Abstain_Reason": "Behavior is unspecified, and the AMEN questionnaire reference does not identify an unambiguous measured construct."
+    },
+    {
+      "Record_ID": "NCT01256060:otherOutcomes:0",
+      "NCT_ID": "NCT01256060",
+      "Outcome_Domain": [
+        "FunctionAndCognition",
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "29",
+        "26",
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "CognitionLanguage",
+        "SocialCommunication",
+        "RepetitiveBehavior",
+        "AnxietyEmotion"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Cognition"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Repetitive Behaviors, and Anxiety"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Cognition"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "26",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Function"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Repetitive Behaviors, and Anxiety"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Cognition"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Responsiveness Scale"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "RepetitiveBehavior",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Repetitive Behaviors"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AnxietyEmotion",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Anxiety"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03231800:secondaryOutcomes:0",
+      "NCT_ID": "NCT03231800",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Attention Subscale scores for the SKAMP"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "subject impairment of classroom observed behaviors"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Attention Subscale scores for the SKAMP"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04312932:secondaryOutcomes:9",
+      "NCT_ID": "NCT04312932",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "17",
+        "28",
+        "09"
+      ],
+      "NDD_Subdomain": [
+        "AnxietyEmotion",
+        "GlobalFunction",
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "emotional regulation difficulties"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "poorer functioning"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "unusual sensory responses"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Description",
+          "Quote": "unusual sensory responses"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "28",
+          "Source_Field": "Outcome_Description",
+          "Quote": "emotional regulation difficulties"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Description",
+          "Quote": "how much they interfere with daily life"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AnxietyEmotion",
+          "Source_Field": "Outcome_Description",
+          "Quote": "emotional regulation difficulties"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "poorer functioning"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "unusual sensory responses"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "Sensory responses fall outside the specific project leaves; the functional impact is described without a specific functional domain."
+    },
+    {
+      "Record_ID": "NCT02410902:secondaryOutcomes:0",
+      "NCT_ID": "NCT02410902",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "21",
+        "09"
+      ],
+      "NDD_Subdomain": [
+        "SocialCommunication",
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Withdrawal"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Lethargy"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Withdrawal"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Lethargy"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Social Withdrawal"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Lethargy"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "Lethargy is explicitly named but has no specific project leaf."
+    },
+    {
+      "Record_ID": "NCT04382885:primaryOutcomes:7",
+      "NCT_ID": "NCT04382885",
+      "Outcome_Domain": [
+        "Safety"
+      ],
+      "COMET_Domain": [
+        "17"
+      ],
+      "NDD_Subdomain": [
+        "SafetyTolerability"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "treatment-emergent parkinsonism"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "parkinsonism"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "treatment-emergent parkinsonism"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01053156:secondaryOutcomes:4",
+      "NCT_ID": "NCT01053156",
+      "Outcome_Domain": [
+        "UNCLEAR"
+      ],
+      "COMET_Domain": [
+        "UNCLEAR"
+      ],
+      "NDD_Subdomain": [
+        "UNCLEAR"
+      ],
+      "Evidence_Span": [],
+      "Uncertainty": "HIGH",
+      "Abstain": true,
+      "Abstain_Reason": "The third caregiver-selected behavior is not identified; the rating method does not specify its construct."
+    },
+    {
+      "Record_ID": "NCT01227668:secondaryOutcomes:1",
+      "NCT_ID": "NCT01227668",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "IrritabilityAggression"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "the CGI focuses on severity of irritability"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "the CGI focuses on severity of irritability"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Description",
+          "Quote": "the CGI focuses on severity of irritability"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT05924594:otherOutcomes:0",
+      "NCT_ID": "NCT05924594",
+      "Outcome_Domain": [
+        "OtherDomain"
+      ],
+      "COMET_Domain": [
+        "32"
+      ],
+      "NDD_Subdomain": [
+        "Other"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "OtherDomain",
+          "Source_Field": "Outcome_Description",
+          "Quote": "quality and satisfaction of prior medications and of CTx-1301"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "32",
+          "Source_Field": "Outcome_Description",
+          "Quote": "quality and satisfaction of prior medications and of CTx-1301"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Other",
+          "Source_Field": "Outcome_Description",
+          "Quote": "quality and satisfaction of prior medications and of CTx-1301"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04786990:secondaryOutcomes:27",
+      "NCT_ID": "NCT04786990",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "assess current ADHD symptomatology"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "assess current ADHD symptomatology"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Attention-Deficit/Hyperactivity Disorder Rating Scale"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01850355:primaryOutcomes:2",
+      "NCT_ID": "NCT01850355",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AnxietyEmotion"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Pediatric Anxiety Rating Scale (PARS)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Pediatric Anxiety Rating Scale (PARS)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AnxietyEmotion",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Pediatric Anxiety Rating Scale (PARS)"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT05954052:otherOutcomes:0",
+      "NCT_ID": "NCT05954052",
+      "Outcome_Domain": [
+        "FunctionAndCognition",
+        "Safety"
+      ],
+      "COMET_Domain": [
+        "09",
+        "38"
+      ],
+      "NDD_Subdomain": [
+        "GlobalFunction",
+        "SafetyTolerability"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "global assessment of illness severity, improvement, and therapeutic efficacy"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Balances therapeutic efficacy with adverse effects"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "09",
+          "Source_Field": "Outcome_Description",
+          "Quote": "global assessment of illness severity, improvement, and therapeutic efficacy"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "38",
+          "Source_Field": "Outcome_Description",
+          "Quote": "adverse effects"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "global assessment of illness severity, improvement, and therapeutic efficacy"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Balances therapeutic efficacy with adverse effects"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "The description lists three CGI scales, including adverse effects, without specifying which scales contribute to the reported change."
+    },
+    {
+      "Record_ID": "NCT04085172:secondaryOutcomes:6",
+      "NCT_ID": "NCT04085172",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "29"
+      ],
+      "NDD_Subdomain": [
+        "CognitionLanguage"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "retain spatial information and manipulate remembered items in working memory"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "retain spatial information and manipulate remembered items in working memory"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "retain spatial information and manipulate remembered items in working memory"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00191386:secondaryOutcomes:1",
+      "NCT_ID": "NCT00191386",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "overall severity of ADHD symptoms"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "overall severity of ADHD symptoms"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "overall severity of ADHD symptoms"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03530293:primaryOutcomes:0",
+      "NCT_ID": "NCT03530293",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "Safety"
+      ],
+      "COMET_Domain": [
+        "17"
+      ],
+      "NDD_Subdomain": [
+        "TicSeverity",
+        "SafetyTolerability"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Yale Global Tic Severity Scale (YGTSS) Total Tic Score (TTS)"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Description",
+          "Quote": "a treatment-emergent adverse event (TEAE) of worsening of tics"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Description",
+          "Quote": "worsening of tics"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "TicSeverity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Yale Global Tic Severity Scale (YGTSS) Total Tic Score (TTS)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Description",
+          "Quote": "a treatment-emergent adverse event (TEAE) of worsening of tics"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03514784:otherOutcomes:0",
+      "NCT_ID": "NCT03514784",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21",
+        "26"
+      ],
+      "NDD_Subdomain": [
+        "IrritabilityAggression",
+        "SocialCommunication"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "change in irritability"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "change in irritability"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "26",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Responsiveness Scale-2 (SRS-2)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Description",
+          "Quote": "change in irritability"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Responsiveness Scale-2 (SRS-2)"
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "The stated irritability target and the named social responsiveness instrument identify different constructs; both explicit constructs are retained."
+    }
+  ]
+}

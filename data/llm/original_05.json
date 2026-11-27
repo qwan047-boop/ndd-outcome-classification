@@ -1,0 +1,827 @@
+{
+  "Batch_ID": "CHATGPT_BATCH_05",
+  "Prompt_Version": "ndd-web-multiaxis-v1.0.0",
+  "Results": [
+    {
+      "Record_ID": "NCT01012622:secondaryOutcomes:12",
+      "NCT_ID": "NCT01012622",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "31"
+      ],
+      "NDD_Subdomain": [
+        "GlobalFunction"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Clinical Global Impression - Improvement (CGI-I)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "31",
+          "Source_Field": "Outcome_Description",
+          "Quote": "assess how much the participant's illness has improved or worsened relative to a baseline state"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Clinical Global Impression - Improvement (CGI-I)"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT07284745:primaryOutcomes:0",
+      "NCT_ID": "NCT07284745",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "IrritabilityAggression"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Aberrant Behavior Checklist Irritability (ABC-I) Score"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Aberrant Behavior Checklist Irritability (ABC-I) Score"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Aberrant Behavior Checklist Irritability (ABC-I) Score"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04382885:primaryOutcomes:3",
+      "NCT_ID": "NCT04382885",
+      "Outcome_Domain": [
+        "BiologicalAndExposure"
+      ],
+      "COMET_Domain": [
+        "UNCLEAR"
+      ],
+      "NDD_Subdomain": [
+        "BiologicalMechanistic"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "BiologicalAndExposure",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "potentially clinically significant values in clinical laboratory assessments"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "BiologicalMechanistic",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "potentially clinically significant values in clinical laboratory assessments"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "Laboratory abnormalities are measured, but the analytes, affected body systems, and explicit safety-monitoring purpose are not supplied."
+    },
+    {
+      "Record_ID": "NCT01592747:primaryOutcomes:0",
+      "NCT_ID": "NCT01592747",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "26",
+        "29",
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "SocialCommunication",
+        "RepetitiveBehavior",
+        "CognitionLanguage"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "social awareness, social cognition, social communication, social motivation and autistic mannerisms"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "social cognition"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "26",
+          "Source_Field": "Outcome_Description",
+          "Quote": "A higher score indicates greater severity of social impairment."
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "social cognition"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "autistic mannerisms"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Description",
+          "Quote": "social communication"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "RepetitiveBehavior",
+          "Source_Field": "Outcome_Description",
+          "Quote": "autistic mannerisms"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "social cognition"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02642653:secondaryOutcomes:0",
+      "NCT_ID": "NCT02642653",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "SocialCommunication",
+        "AnxietyEmotion"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "gaze avoidance, social ''escape'' behaviors, and social anxiety"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "gaze avoidance, social ''escape'' behaviors, and social anxiety"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Description",
+          "Quote": "gaze avoidance, social ''escape'' behaviors"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AnxietyEmotion",
+          "Source_Field": "Outcome_Description",
+          "Quote": "social anxiety"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01302964:primaryOutcomes:0",
+      "NCT_ID": "NCT01302964",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AnxietyEmotion"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "assesses anxiety symptoms"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "assesses anxiety symptoms"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AnxietyEmotion",
+          "Source_Field": "Outcome_Description",
+          "Quote": "assesses anxiety symptoms"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00681863:secondaryOutcomes:2",
+      "NCT_ID": "NCT00681863",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "17"
+      ],
+      "NDD_Subdomain": [
+        "TicSeverity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Total Tic Score (TTS) of the Yale Global Tic Severity Scale"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Total Tic Score (TTS) of the Yale Global Tic Severity Scale"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "TicSeverity",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Total Tic Score (TTS) of the Yale Global Tic Severity Scale"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00556959:primaryOutcomes:0",
+      "NCT_ID": "NCT00556959",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "ADHDRS-IV"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "ADHDRS-IV"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "ADHDRS-IV"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01205282:primaryOutcomes:8",
+      "NCT_ID": "NCT01205282",
+      "Outcome_Domain": [
+        "Safety"
+      ],
+      "COMET_Domain": [
+        "38"
+      ],
+      "NDD_Subdomain": [
+        "SafetyTolerability"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Maximum Tolerated Dose (MTD)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "38",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Maximum Tolerated Dose (MTD)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Maximum Tolerated Dose (MTD)"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04964427:secondaryOutcomes:1",
+      "NCT_ID": "NCT04964427",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "29"
+      ],
+      "NDD_Subdomain": [
+        "CognitionLanguage"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "N-Back Correct Scores of visuo-spatial working memory task"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "N-Back Correct Scores of visuo-spatial working memory task"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "N-Back Correct Scores of visuo-spatial working memory task"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01170325:secondaryOutcomes:0",
+      "NCT_ID": "NCT01170325",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "UNCLEAR"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Improvement in behavior"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Improvement in behavior"
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "Behavioral improvement is named, but no specific behavior, symptom dimension, or instrument is supplied to justify a project leaf."
+    },
+    {
+      "Record_ID": "NCT00996931:secondaryOutcomes:0",
+      "NCT_ID": "NCT00996931",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "UNCLEAR"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Childhood Autism Rating Scale (CARS)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Childhood Autism Rating Scale (CARS)"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "An overall symptom rating is identified, but specific measured dimensions are not supplied to justify a project leaf."
+    },
+    {
+      "Record_ID": "NCT00178503:primaryOutcomes:1",
+      "NCT_ID": "NCT00178503",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "29"
+      ],
+      "NDD_Subdomain": [
+        "CognitionLanguage"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "CPT is a measure of sustained attention"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "29",
+          "Source_Field": "Outcome_Description",
+          "Quote": "CPT is a measure of sustained attention"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "CognitionLanguage",
+          "Source_Field": "Outcome_Description",
+          "Quote": "CPT is a measure of sustained attention"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01172288:secondaryOutcomes:2",
+      "NCT_ID": "NCT01172288",
+      "Outcome_Domain": [
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "31"
+      ],
+      "NDD_Subdomain": [
+        "GlobalFunction"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Clinical Global Impression - Improvement Scale (CGI-I)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "31",
+          "Source_Field": "Outcome_Description",
+          "Quote": "assess how much the patient's illness has improved or worsened relative to a baseline state"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Clinical Global Impression - Improvement Scale (CGI-I)"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01418339:secondaryOutcomes:0",
+      "NCT_ID": "NCT01418339",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "17",
+        "31"
+      ],
+      "NDD_Subdomain": [
+        "TicSeverity",
+        "GlobalFunction"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Clinical Global Impressions Scale for Tourette's Syndrome (CGI-TS) Score"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "The study physician rated the participants total improvement whether or not it is due to study treatment."
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Clinical Global Impressions Scale for Tourette's Syndrome (CGI-TS) Score"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "31",
+          "Source_Field": "Outcome_Description",
+          "Quote": "The study physician rated the participants total improvement whether or not it is due to study treatment."
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "TicSeverity",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Clinical Global Impressions Scale for Tourette's Syndrome (CGI-TS) Score"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "The study physician rated the participants total improvement whether or not it is due to study treatment."
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01133353:primaryOutcomes:0",
+      "NCT_ID": "NCT01133353",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "17"
+      ],
+      "NDD_Subdomain": [
+        "TicSeverity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "total tic score as measured by the Yale Global Tic Severity Score (YGTSS)"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "17",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "total tic score as measured by the Yale Global Tic Severity Score (YGTSS)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "TicSeverity",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "total tic score as measured by the Yale Global Tic Severity Score (YGTSS)"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00889538:primaryOutcomes:0",
+      "NCT_ID": "NCT00889538",
+      "Outcome_Domain": [
+        "FunctionAndCognition",
+        "ClinicalSymptoms",
+        "Safety"
+      ],
+      "COMET_Domain": [
+        "21",
+        "38"
+      ],
+      "NDD_Subdomain": [
+        "SafetyTolerability"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "developmental skills"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "behavior measured using validated scales"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "Safety",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Subjects will also be monitored using clinical and laboratory safety parameters."
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "behavior measured using validated scales"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "38",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Subjects will also be monitored using clinical and laboratory safety parameters."
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SafetyTolerability",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Subjects will also be monitored using clinical and laboratory safety parameters."
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "Developmental skills and behavior are not specified sufficiently to assign additional project leaves or a specific COMET functioning domain."
+    },
+    {
+      "Record_ID": "NCT00844753:primaryOutcomes:1",
+      "NCT_ID": "NCT00844753",
+      "Outcome_Domain": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "COMET_Domain": [
+        "21",
+        "31"
+      ],
+      "NDD_Subdomain": [
+        "GlobalFunction"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "evaluate behavioral noncompliance"
+        },
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "FunctionAndCognition",
+          "Source_Field": "Outcome_Description",
+          "Quote": "The Clinical Global Impressions Scale (CGI) includes subscales for severity of illness and global improvement."
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "evaluate behavioral noncompliance"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "31",
+          "Source_Field": "Outcome_Description",
+          "Quote": "The Clinical Global Impressions Scale (CGI) includes subscales for severity of illness and global improvement."
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "GlobalFunction",
+          "Source_Field": "Outcome_Description",
+          "Quote": "global improvement"
+        }
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": "Noncompliance is explicit but does not establish irritability, aggression, hyperactivity, or another specific project symptom leaf."
+    },
+    {
+      "Record_ID": "NCT01363544:primaryOutcomes:0",
+      "NCT_ID": "NCT01363544",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "AttentionHyperactivity",
+        "Sleep"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Measure",
+          "Quote": "Improvement in Behaviour"
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "SWAN"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "SWAN"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "Sleep",
+          "Source_Field": "Outcome_Description",
+          "Quote": "SDSC"
+        }
+      ],
+      "Uncertainty": "HIGH",
+      "Abstain": false,
+      "Abstain_Reason": "Instrument acronyms are not expanded; DCD and the construct measured by actigraphy are insufficiently specified for additional labels."
+    },
+    {
+      "Record_ID": "NCT03835117:secondaryOutcomes:3",
+      "NCT_ID": "NCT03835117",
+      "Outcome_Domain": [
+        "ClinicalSymptoms"
+      ],
+      "COMET_Domain": [
+        "21"
+      ],
+      "NDD_Subdomain": [
+        "IrritabilityAggression",
+        "SocialCommunication",
+        "AttentionHyperactivity"
+      ],
+      "Evidence_Span": [
+        {
+          "Axis": "Outcome_Domain",
+          "Label": "ClinicalSymptoms",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Our secondary measures are the subscale scores for Irritability (15 item), Social Withdrawal (16 item) and Hyperactivity (16 item)."
+        },
+        {
+          "Axis": "COMET_Domain",
+          "Label": "21",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Our secondary measures are the subscale scores for Irritability (15 item), Social Withdrawal (16 item) and Hyperactivity (16 item)."
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "IrritabilityAggression",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Irritability (15 item)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "SocialCommunication",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Social Withdrawal (16 item)"
+        },
+        {
+          "Axis": "NDD_Subdomain",
+          "Label": "AttentionHyperactivity",
+          "Source_Field": "Outcome_Description",
+          "Quote": "Hyperactivity (16 item)"
+        }
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    }
+  ]
+}

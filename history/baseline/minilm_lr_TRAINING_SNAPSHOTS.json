@@ -1,0 +1,1352 @@
+[
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1937,
+    "positive_support": [
+      898,
+      657,
+      230,
+      214,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1927
+  },
+  {
+    "training_n": 1940,
+    "positive_support": [
+      899,
+      659,
+      230,
+      215,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1943,
+    "positive_support": [
+      900,
+      660,
+      230,
+      215,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      901,
+      656,
+      230,
+      216,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1931
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      903,
+      658,
+      230,
+      216,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1925
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1918
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1937,
+    "positive_support": [
+      898,
+      656,
+      230,
+      215,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1927
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      657,
+      230,
+      216,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 20,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      902,
+      658,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 30,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1937,
+    "positive_support": [
+      899,
+      656,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 9,
+    "weak_remaining_n": 1928
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      657,
+      230,
+      216,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1922
+  },
+  {
+    "training_n": 1943,
+    "positive_support": [
+      901,
+      658,
+      230,
+      216,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      901,
+      656,
+      230,
+      216,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1931
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      903,
+      658,
+      230,
+      216,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1925
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1918
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1937,
+    "positive_support": [
+      898,
+      656,
+      230,
+      215,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1927
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      657,
+      230,
+      216,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 20,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      902,
+      658,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 30,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1939,
+    "positive_support": [
+      899,
+      657,
+      230,
+      214,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1929
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      658,
+      230,
+      214,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 20,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1943,
+    "positive_support": [
+      901,
+      658,
+      230,
+      215,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      901,
+      656,
+      230,
+      216,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1931
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      903,
+      658,
+      230,
+      216,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1925
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1918
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1937,
+    "positive_support": [
+      898,
+      656,
+      230,
+      215,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1927
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      657,
+      230,
+      216,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 20,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      902,
+      658,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 30,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1936,
+    "positive_support": [
+      899,
+      656,
+      230,
+      215,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 9,
+    "weak_remaining_n": 1927
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      901,
+      658,
+      230,
+      215,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1922
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      903,
+      659,
+      230,
+      215,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1915
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      901,
+      656,
+      230,
+      216,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1931
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      903,
+      658,
+      230,
+      216,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1925
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1918
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1937,
+    "positive_support": [
+      898,
+      656,
+      230,
+      215,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1927
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      657,
+      230,
+      216,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 20,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      902,
+      658,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 30,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1936,
+    "positive_support": [
+      898,
+      655,
+      230,
+      214,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1926
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      656,
+      230,
+      215,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 20,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1943,
+    "positive_support": [
+      901,
+      657,
+      230,
+      215,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      901,
+      656,
+      230,
+      216,
+      108
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1931
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      903,
+      658,
+      230,
+      216,
+      109
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 19,
+    "weak_remaining_n": 1925
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 29,
+    "weak_remaining_n": 1918
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  },
+  {
+    "training_n": 1934,
+    "positive_support": [
+      897,
+      655,
+      230,
+      214,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "budget": 0,
+    "human_reviewed_n": 0,
+    "human_trainable_n": 0,
+    "weak_remaining_n": 1934
+  },
+  {
+    "training_n": 1937,
+    "positive_support": [
+      898,
+      656,
+      230,
+      215,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "budget": 10,
+    "human_reviewed_n": 10,
+    "human_trainable_n": 10,
+    "weak_remaining_n": 1927
+  },
+  {
+    "training_n": 1941,
+    "positive_support": [
+      900,
+      657,
+      230,
+      216,
+      107
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "budget": 20,
+    "human_reviewed_n": 20,
+    "human_trainable_n": 20,
+    "weak_remaining_n": 1921
+  },
+  {
+    "training_n": 1944,
+    "positive_support": [
+      902,
+      658,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "budget": 30,
+    "human_reviewed_n": 30,
+    "human_trainable_n": 30,
+    "weak_remaining_n": 1914
+  },
+  {
+    "training_n": 1947,
+    "positive_support": [
+      903,
+      660,
+      230,
+      216,
+      110
+    ],
+    "constant_classes": [],
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "budget": 40,
+    "human_reviewed_n": 40,
+    "human_trainable_n": 39,
+    "weak_remaining_n": 1908
+  }
+]

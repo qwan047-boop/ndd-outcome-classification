@@ -1,0 +1,17 @@
+{
+  "SocialCommunication": "social communication|social responsiveness|reciprocal social|social withdrawal",
+  "IrritabilityAggression": "irritability|aggression|aggressive|self.injur",
+  "RepetitiveBehavior": "repetitive behavio|restricted.*behavio|stereotyp",
+  "AttentionHyperactivity": "hyperactiv|inattention|attention.deficit|adhd.rating",
+  "AnxietyEmotion": "anxiety|depressi|emotional|mood",
+  "Sleep": "sleep|insomnia|actigraph",
+  "AdaptiveFunction": "adaptive behavio|daily living|vineland",
+  "GlobalFunction": "clinical global impression|global functioning|global improvement",
+  "CognitionLanguage": "cogniti|language|vocabulary|memory|intelligence|executive function",
+  "BiologicalMechanistic": "biomarker|electroencephal|\\beeg\\b|magnetic resonance|\\bfmri\\b|gene expression|eye.track",
+  "SafetyTolerability": "adverse event|tolerability|safety|side.effect",
+  "Pharmacokinetics": "pharmacokinetic|plasma concentration|area under.*curve|\\bcmax\\b|\\btmax\\b",
+  "TicSeverity": "\\btic\\b|yale global tic",
+  "GrowthMetabolic": "body mass|body weight|growth|metabolic|glucose",
+  "Other": "quality of life|caregiver burden|sensory|pain|seizure|feasibility"
+}

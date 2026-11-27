@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-11-24T14:26:33.093757+08:00",
+  "analysis_type": "POST_TEST_EXPLORATORY_HISTORICAL_CLOSED_WORLD_SENSITIVITY",
+  "seed": 20261124,
+  "strategies": {
+    "A_original": {
+      "conflict_weight": 1
+    },
+    "B_exclude": {
+      "conflict_weight": 0
+    },
+    "C_downweight": {
+      "conflict_weight": 0.25
+    }
+  },
+  "conflict_definition": "different complete positive label sets on10 rule-nonconflicting and LLM QC-candidate records; not proof of true categorical contradiction",
+  "conflict_ids": [
+    "NCT00418262:primaryOutcomes:7",
+    "NCT01418352:secondaryOutcomes:1",
+    "NCT01709695:primaryOutcomes:1",
+    "NCT01914393:secondaryOutcomes:7",
+    "NCT02226458:secondaryOutcomes:4",
+    "NCT03460652:secondaryOutcomes:1",
+    "NCT04007991:secondaryOutcomes:0",
+    "NCT05685732:secondaryOutcomes:0",
+    "NCT07635862:primaryOutcomes:0",
+    "NCT07635862:secondaryOutcomes:0"
+  ],
+  "noisy_target_assumption": "only for this historical sensitivity: unassigned classes encoded0 as assumed weak negatives, never confirmed NEGATIVE; strict three-state audit remains unchanged",
+  "CV": "5-fold GroupKFold on strict components; assert NCT isolation; validation references remain original weak labels, NOT human gold",
+  "selection": "no hyperparameter or strategy selection; fixed C1,balanced; test used only after config freeze",
+  "models": [
+    "tfidf_svm",
+    "minilm_lr"
+  ],
+  "bootstrap": {
+    "replicates": 2000,
+    "unit": "NCT, one per test record",
+    "paired": true,
+    "seed": 20261124,
+    "fixed_five_label_macro_zero_division": 0
+  },
+  "LLM_fusion_training": false,
+  "human_relabeling": false
+}

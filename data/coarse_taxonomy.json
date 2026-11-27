@@ -1,0 +1,27 @@
+{
+  "ClinicalSymptoms": [
+    "SocialCommunication",
+    "IrritabilityAggression",
+    "RepetitiveBehavior",
+    "AttentionHyperactivity",
+    "AnxietyEmotion",
+    "Sleep",
+    "TicSeverity"
+  ],
+  "FunctionAndCognition": [
+    "AdaptiveFunction",
+    "GlobalFunction",
+    "CognitionLanguage"
+  ],
+  "BiologicalAndExposure": [
+    "BiologicalMechanistic",
+    "Pharmacokinetics",
+    "GrowthMetabolic"
+  ],
+  "Safety": [
+    "SafetyTolerability"
+  ],
+  "OtherDomain": [
+    "Other"
+  ]
+}

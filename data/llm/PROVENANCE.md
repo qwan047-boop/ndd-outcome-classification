@@ -1,0 +1,7 @@
+# Frozen ChatGPT web weak-label provenance
+
+Both rounds used human-triggered ChatGPT web batches of 20 and the frozen prompt `ndd-web-multiaxis-v1.0.0`. GPT-6.1 Sol is the author-confirmed interface designation. At the conversation level, both archived CDP responses returned `default_model_slug=gpt-6.1-sol-wm`. At the message level, all ten successful responses recorded `message.metadata.model_slug=gpt-6.1-sol-wm`. These source observations are **VERIFIED**. The exact fixed backend snapshot, model weights and historical deployment environment remain **UNAVAILABLE**.
+
+The original pilot preceded the initial held-out evaluation. Its first batch 03 attempt returned no results and is documented independently from the successful response `CHATGPT_BATCH_03(2)`. The expansion occurred after initial test review. The package has ten successful raw JSON output files and the existing 200-record merge with its original quality states. Message creation times come from the saved web responses. They are separate from the author's reported expansion session of 2026-11-24 13:13–13:43 UTC+08:00 and from the transcript printing/export labels.
+
+The ten canonical response hashes matched the archived successful JSON outputs, and the ordered identifiers matched for all 200 records. See `CDP_MESSAGE_MODEL_EVIDENCE.csv`. The private originals of the transcripts and real conversation, message and parent IDs are kept outside this release candidate. No new labeling or browser retrieval was performed to create this freeze.

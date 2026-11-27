@@ -1,0 +1,22 @@
+{
+  "started": "2026-11-26T19:57:43+08:00",
+  "completed": "2026-11-26T19:58:13+08:00",
+  "estimator_fits": 390,
+  "historical_cv_rows_reproduced": 30,
+  "historical_test_conditions_reproduced": 6,
+  "cv_rows": 65,
+  "test_summary_rows": 13,
+  "input_hashes_unchanged": true,
+  "isolation_keys": [
+    "nct",
+    "strict_split_group",
+    "normalized_hash"
+  ],
+  "cv_nct_disjoint": true,
+  "reused_test_not_used_in_fit": true,
+  "test_excluded_unclear": [
+    "NCT07079696:secondaryOutcomes:0",
+    "NCT00863499:secondaryOutcomes:0"
+  ],
+  "historical_composition_rows": 11604
+}

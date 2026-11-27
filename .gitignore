@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.pem
+*.key
+.cache/
+run_*/
+encoder/
+*.log
+
+PRIVATE_SOURCE_EVIDENCE/
+*.har
+*.pdf
+*.docx

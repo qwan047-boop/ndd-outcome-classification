@@ -1,0 +1,15 @@
+stage_id,stage,date_or_range_utc_plus_08,relative_to_documented_initial_test_review,analysis_classification,decision_input_or_output,evidence_id,remaining_uncertainty
+S01,初始规则弱标注及划分,2026-11-23 23:01:11,BEFORE,ORIGINAL_TRAINING_INPUTS,初始规则候选及锁定的NCT和关联组件划分,E01,文件时间为生成产物锚点
+S02,第一轮LLM试点,2026-11-23 23:37:30 to 2026-11-24 08:59:28 local JSON writes,BEFORE,ORIGINAL_DESCRIPTIVE_PILOT,100条机器弱预测以非测试非Pool记录为输入且不训练原始基线,E02,各批生成时点和时区UNKNOWN
+S03,人工参照及模型配置冻结,2026-11-24 12:46:32,BEFORE,ORIGINAL_PROTOCOL_FREEZE,固定五类和60/40角色及模型参数预算种子,E03,未建立公开预注册
+S04,初始模型拟合和基线预测,2026-11-24 12:48:26 to 12:54:40,BEFORE_DOCUMENTED_FULL_TEST_METRICS,ORIGINAL_FIXED_PROTOCOL,预算0使用1934个规则弱目标且保留各模型参数,E03/E04,单个中间预测是否被更早查看UNKNOWN
+S05,离线主动学习回放拟合与预测,2026-11-24 12:48:26 to 12:54:40,BEFORE_DOCUMENTED_FULL_TEST_METRICS,ORIGINAL_FIXED_PROTOCOL_OFFLINE_REPLAY,原有40条池和三种策略按预算释放后重训,E03/E04,单个中间预测是否被更早查看UNKNOWN
+S06,初始人工参照测试及原回放评分,2026-11-24 12:55:07,INDEX_EVALUATION,ORIGINAL_HELD_OUT_INTERNAL_EVALUATION,58条计分和2条UNCLEAR保留预测,E05,发布和实际阅览时间不等同于写入时间
+S07,初次自动生成逐条误差明细,2026-11-24 12:55:07,INDEX_EVALUATION,ORIGINAL_EVALUATION_DIAGNOSTIC,与基线指标同批导出逐条预测与参考差异,E05,首次打开误差文件的时间UNKNOWN
+S08,完整结果报告与作者知悉,2026-11-24 12:55:07 to 13:03:57 evidence window,REVIEW_BOUNDARY,TEST_RESULTS_DISCLOSURE,对话已在13:00:36前报告且13:03:57作者明确提及回放结果,E05/E06/E07,首次实际查看的精确时刻UNKNOWN
+S09,选择追加100条和定向抽样,2026-11-24 13:03:57 decision; 13:07:15 artifacts,AFTER,POST_HOC_EXPLORATORY,原结果已知后采用规则空白40及冲突25及潜在OtherDomain20及剩余随机15,E07/E08,无法量化观察结果对各配额决策的独立作用
+S10,第二轮LLM弱标签生成,2026-11-24 13:13 to 13:43 researcher-reported session,AFTER,POST_HOC_EXPLORATORY,新增五批各20条且提示词版本沿用,E09,逐批生成时点UNKNOWN
+S11,合并两轮LLM质控和覆盖比较,2026-11-24 13:54:36 merged artifact,AFTER,POST_HOC_EXPLORATORY,汇总200条机器输出并比较不同抽样与QC版本,E10,没有新增独立人工验证或融合性能实验
+S12,追加SVM和MiniLM错误互补分析,2026-11-24 14:26:46 artifact,AFTER,POST_HOC_EXPLORATORY,复用原逐条预测并比较错误模式,E11,没有适用的新独立测试集
+S13,原始噪声敏感性A/B/C,2026-11-24 14:26:33 to 14:26:46 logged/artifact,AFTER,POST_HOC_EXPLORATORY,固定A及B及C并复用旧弱目标和58条人工记录,E11,不能将点估计变化解读为权重收益确认
+S14,五档权重及删除对照,2026-11-26 19:57:43 to 19:58:13 logged,AFTER,POST_HOC_EXPLORATORY,五折用历史规则弱参照且复用58条人工记录作事后评分,E12,未新增独立人工评价或校准来源可靠性

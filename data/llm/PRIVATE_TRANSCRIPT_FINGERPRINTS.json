@@ -1,0 +1,20 @@
+[
+  {
+    "conversation_evidence_id": "CHAT_ROUND_01",
+    "pdf_pages": 63,
+    "pdf_sha256": "e53bf8191b1922ab8f3ee3713d5f811215df5268e2ec7012ee813a567624c882",
+    "text_layer_pages": 0,
+    "pdf_creation_date": "NOT_RECORDED",
+    "link_annotation_count": 0,
+    "storage": "private research archive"
+  },
+  {
+    "conversation_evidence_id": "CHAT_ROUND_02",
+    "pdf_pages": 60,
+    "pdf_sha256": "dd565c453a67a03c4569cfcecd67fbed617947886ba17d19997a74f5a6a794f8",
+    "text_layer_pages": 0,
+    "pdf_creation_date": "NOT_RECORDED",
+    "link_annotation_count": 0,
+    "storage": "private research archive"
+  }
+]

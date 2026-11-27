@@ -1,0 +1,317 @@
+{
+  "Batch_ID": "CHATGPT_BATCH_01",
+  "Prompt_Version": "ndd-web-multiaxis-v1.0.0",
+  "Results": [
+    {
+      "Record_ID": "NCT00641329:primaryOutcomes:0",
+      "NCT_ID": "NCT00641329",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["21"],
+      "NDD_Subdomain": ["AttentionHyperactivity"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Measure", "Quote": "ADHDRS-IV Total Score"},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Measure", "Quote": "ADHDRS-IV Total Score"},
+        {"Axis": "NDD_Subdomain", "Label": "AttentionHyperactivity", "Source_Field": "Outcome_Measure", "Quote": "ADHDRS-IV Total Score"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04569357:secondaryOutcomes:3",
+      "NCT_ID": "NCT04569357",
+      "Outcome_Domain": ["FunctionAndCognition", "Safety"],
+      "COMET_Domain": ["31", "38"],
+      "NDD_Subdomain": ["GlobalFunction", "SafetyTolerability"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Description", "Quote": "Clinical Global Impression Efficacy Index (CGI-EI). Rating scale for assessment of the therapeutic effect of treatment and associated side effects."},
+        {"Axis": "Outcome_Domain", "Label": "Safety", "Source_Field": "Outcome_Description", "Quote": "The scale consists of 2 items: therapeutic effect and side effects."},
+        {"Axis": "COMET_Domain", "Label": "31", "Source_Field": "Outcome_Description", "Quote": "Clinical Global Impression Efficacy Index (CGI-EI). Rating scale for assessment of the therapeutic effect of treatment and associated side effects."},
+        {"Axis": "COMET_Domain", "Label": "38", "Source_Field": "Outcome_Description", "Quote": "Scores in side effects range from 0 (no side effects) to 3 (side effects outweigh therapeutic effects)."},
+        {"Axis": "NDD_Subdomain", "Label": "GlobalFunction", "Source_Field": "Outcome_Description", "Quote": "Clinical Global Impression Efficacy Index (CGI-EI). Rating scale for assessment of the therapeutic effect of treatment and associated side effects."},
+        {"Axis": "NDD_Subdomain", "Label": "SafetyTolerability", "Source_Field": "Outcome_Description", "Quote": "The scale consists of 2 items: therapeutic effect and side effects."}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03292952:secondaryOutcomes:0",
+      "NCT_ID": "NCT03292952",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["29"],
+      "NDD_Subdomain": ["CognitionLanguage"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Description", "Quote": "The test measures attention through a subject's ability to initiate, self-monitor, and complete the math test."},
+        {"Axis": "COMET_Domain", "Label": "29", "Source_Field": "Outcome_Description", "Quote": "The test measures attention through a subject's ability to initiate, self-monitor, and complete the math test."},
+        {"Axis": "NDD_Subdomain", "Label": "CognitionLanguage", "Source_Field": "Outcome_Description", "Quote": "The test measures attention through a subject's ability to initiate, self-monitor, and complete the math test."}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01156051:secondaryOutcomes:0",
+      "NCT_ID": "NCT01156051",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["21"],
+      "NDD_Subdomain": ["AttentionHyperactivity"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Description", "Quote": "This scale quantitates ADHD symptoms based on DSM-IV criteria"},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Description", "Quote": "This scale quantitates ADHD symptoms based on DSM-IV criteria"},
+        {"Axis": "NDD_Subdomain", "Label": "AttentionHyperactivity", "Source_Field": "Outcome_Description", "Quote": "The total score is a sum of the 9 items on the ADHD Rating Scale IV inattention score and the 9 items on the ADHD Rating Scale IV hyperactivity-impulsivity score"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT05439616:secondaryOutcomes:1",
+      "NCT_ID": "NCT05439616",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["21"],
+      "NDD_Subdomain": ["AnxietyEmotion"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Description", "Quote": "higher scores indicating greater severity of anxiety"},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Description", "Quote": "higher scores indicating greater severity of anxiety"},
+        {"Axis": "NDD_Subdomain", "Label": "AnxietyEmotion", "Source_Field": "Outcome_Description", "Quote": "higher scores indicating greater severity of anxiety"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT05516407:primaryOutcomes:0",
+      "NCT_ID": "NCT05516407",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["31"],
+      "NDD_Subdomain": ["GlobalFunction"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Measure", "Quote": "Clinical Global Impression Scale - Improvement (CGI-I)"},
+        {"Axis": "COMET_Domain", "Label": "31", "Source_Field": "Outcome_Measure", "Quote": "Clinical Global Impression Scale - Improvement (CGI-I)"},
+        {"Axis": "NDD_Subdomain", "Label": "GlobalFunction", "Source_Field": "Outcome_Measure", "Quote": "Clinical Global Impression Scale - Improvement (CGI-I)"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02582515:primaryOutcomes:0",
+      "NCT_ID": "NCT02582515",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["17"],
+      "NDD_Subdomain": ["TicSeverity"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Description", "Quote": "Lower scores represent less tic severity, and higher scores indicate greater tic severity."},
+        {"Axis": "COMET_Domain", "Label": "17", "Source_Field": "Outcome_Description", "Quote": "Participants can nominate up to five motor and five vocal tics"},
+        {"Axis": "NDD_Subdomain", "Label": "TicSeverity", "Source_Field": "Outcome_Description", "Quote": "Lower scores represent less tic severity, and higher scores indicate greater tic severity."}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02402166:primaryOutcomes:1",
+      "NCT_ID": "NCT02402166",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["21", "22"],
+      "NDD_Subdomain": ["Sleep", "AnxietyEmotion"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Description", "Quote": "screen the most common sleep problems in children"},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Description", "Quote": "sleep anxiety"},
+        {"Axis": "COMET_Domain", "Label": "22", "Source_Field": "Outcome_Description", "Quote": "sleep-disordered breathing"},
+        {"Axis": "NDD_Subdomain", "Label": "Sleep", "Source_Field": "Outcome_Description", "Quote": "screen the most common sleep problems in children"},
+        {"Axis": "NDD_Subdomain", "Label": "AnxietyEmotion", "Source_Field": "Outcome_Description", "Quote": "sleep anxiety"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02649959:primaryOutcomes:0",
+      "NCT_ID": "NCT02649959",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["21"],
+      "NDD_Subdomain": ["IrritabilityAggression"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Measure", "Quote": "Subscale of Irritability / Agitation (ABC-I)"},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Measure", "Quote": "Subscale of Irritability / Agitation (ABC-I)"},
+        {"Axis": "NDD_Subdomain", "Label": "IrritabilityAggression", "Source_Field": "Outcome_Measure", "Quote": "Subscale of Irritability / Agitation (ABC-I)"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01039792:primaryOutcomes:0",
+      "NCT_ID": "NCT01039792",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["31"],
+      "NDD_Subdomain": ["GlobalFunction"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Measure", "Quote": "Clinical Global Impression-Improvement (CGI-I)"},
+        {"Axis": "COMET_Domain", "Label": "31", "Source_Field": "Outcome_Description", "Quote": "assesses improvement of the patient's condition"},
+        {"Axis": "NDD_Subdomain", "Label": "GlobalFunction", "Source_Field": "Outcome_Measure", "Quote": "Clinical Global Impression-Improvement (CGI-I)"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02226458:secondaryOutcomes:5",
+      "NCT_ID": "NCT02226458",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["29"],
+      "NDD_Subdomain": ["CognitionLanguage"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Description", "Quote": "intellectual function, attention and memory"},
+        {"Axis": "COMET_Domain", "Label": "29", "Source_Field": "Outcome_Description", "Quote": "intellectual function, attention and memory"},
+        {"Axis": "NDD_Subdomain", "Label": "CognitionLanguage", "Source_Field": "Outcome_Description", "Quote": "intellectual function, attention and memory"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT06568588:primaryOutcomes:6",
+      "NCT_ID": "NCT06568588",
+      "Outcome_Domain": ["BiologicalAndExposure"],
+      "COMET_Domain": ["14"],
+      "NDD_Subdomain": ["GrowthMetabolic"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "BiologicalAndExposure", "Source_Field": "Outcome_Description", "Quote": "quantify nutrient intake"},
+        {"Axis": "COMET_Domain", "Label": "14", "Source_Field": "Outcome_Description", "Quote": "quantify nutrient intake"},
+        {"Axis": "NDD_Subdomain", "Label": "GrowthMetabolic", "Source_Field": "Outcome_Description", "Quote": "quantify nutrient intake"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT03788902:primaryOutcomes:0",
+      "NCT_ID": "NCT03788902",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["29"],
+      "NDD_Subdomain": ["CognitionLanguage"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Measure", "Quote": "changes in scores of ToM test"},
+        {"Axis": "COMET_Domain", "Label": "29", "Source_Field": "Outcome_Measure", "Quote": "changes in scores of ToM test"},
+        {"Axis": "NDD_Subdomain", "Label": "CognitionLanguage", "Source_Field": "Outcome_Measure", "Quote": "changes in scores of ToM test"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT02466425:secondaryOutcomes:0",
+      "NCT_ID": "NCT02466425",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["31"],
+      "NDD_Subdomain": ["GlobalFunction"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Measure", "Quote": "Clinical Global Impression of Improvement (CGI-I)"},
+        {"Axis": "COMET_Domain", "Label": "31", "Source_Field": "Outcome_Description", "Quote": "rate the severity of a participant's condition on a 7-point scale ranging from 1 (very much improved) to 7 (very much worse)"},
+        {"Axis": "NDD_Subdomain", "Label": "GlobalFunction", "Source_Field": "Outcome_Measure", "Quote": "Clinical Global Impression of Improvement (CGI-I)"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01709695:primaryOutcomes:1",
+      "NCT_ID": "NCT01709695",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["29"],
+      "NDD_Subdomain": ["CognitionLanguage"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Measure", "Quote": "Go/No-go Task Reaction Time"},
+        {"Axis": "COMET_Domain", "Label": "29", "Source_Field": "Outcome_Measure", "Quote": "Go/No-go Task Reaction Time"},
+        {"Axis": "NDD_Subdomain", "Label": "CognitionLanguage", "Source_Field": "Outcome_Measure", "Quote": "Go/No-go Task Reaction Time"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01133847:primaryOutcomes:5",
+      "NCT_ID": "NCT01133847",
+      "Outcome_Domain": ["FunctionAndCognition"],
+      "COMET_Domain": ["29"],
+      "NDD_Subdomain": ["CognitionLanguage"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Description", "Quote": "a test of their ability to use phonics to decode unknown words"},
+        {"Axis": "COMET_Domain", "Label": "29", "Source_Field": "Outcome_Description", "Quote": "a test of their ability to use phonics to decode unknown words"},
+        {"Axis": "NDD_Subdomain", "Label": "CognitionLanguage", "Source_Field": "Outcome_Description", "Quote": "a test of their ability to use phonics to decode unknown words"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00541346:secondaryOutcomes:2",
+      "NCT_ID": "NCT00541346",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["21"],
+      "NDD_Subdomain": ["SocialCommunication"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Description", "Quote": "16 of these items comprise the lethargy/social withdrawal factor."},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Description", "Quote": "16 of these items comprise the lethargy/social withdrawal factor."},
+        {"Axis": "NDD_Subdomain", "Label": "SocialCommunication", "Source_Field": "Outcome_Description", "Quote": "social withdrawal"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT04085172:secondaryOutcomes:39",
+      "NCT_ID": "NCT04085172",
+      "Outcome_Domain": ["ClinicalSymptoms", "FunctionAndCognition"],
+      "COMET_Domain": ["21", "29", "26"],
+      "NDD_Subdomain": ["AttentionHyperactivity", "CognitionLanguage", "IrritabilityAggression", "SocialCommunication"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Description", "Quote": "inattention, hyperactivity/impulsivity"},
+        {"Axis": "Outcome_Domain", "Label": "FunctionAndCognition", "Source_Field": "Outcome_Description", "Quote": "executive functioning, learning problems"},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Description", "Quote": "inattention, hyperactivity/impulsivity"},
+        {"Axis": "COMET_Domain", "Label": "29", "Source_Field": "Outcome_Description", "Quote": "executive functioning, learning problems"},
+        {"Axis": "COMET_Domain", "Label": "26", "Source_Field": "Outcome_Description", "Quote": "peer relations"},
+        {"Axis": "NDD_Subdomain", "Label": "AttentionHyperactivity", "Source_Field": "Outcome_Description", "Quote": "inattention, hyperactivity/impulsivity"},
+        {"Axis": "NDD_Subdomain", "Label": "CognitionLanguage", "Source_Field": "Outcome_Description", "Quote": "executive functioning, learning problems"},
+        {"Axis": "NDD_Subdomain", "Label": "IrritabilityAggression", "Source_Field": "Outcome_Description", "Quote": "defiance/aggression"},
+        {"Axis": "NDD_Subdomain", "Label": "SocialCommunication", "Source_Field": "Outcome_Description", "Quote": "peer relations"}
+      ],
+      "Uncertainty": "MODERATE",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT00796302:otherOutcomes:0",
+      "NCT_ID": "NCT00796302",
+      "Outcome_Domain": ["ClinicalSymptoms"],
+      "COMET_Domain": ["21"],
+      "NDD_Subdomain": ["IrritabilityAggression"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "ClinicalSymptoms", "Source_Field": "Outcome_Measure", "Quote": "Reactive Aggression Subscale"},
+        {"Axis": "COMET_Domain", "Label": "21", "Source_Field": "Outcome_Measure", "Quote": "Reactive Aggression Subscale"},
+        {"Axis": "NDD_Subdomain", "Label": "IrritabilityAggression", "Source_Field": "Outcome_Measure", "Quote": "Reactive Aggression Subscale"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    },
+    {
+      "Record_ID": "NCT01109849:secondaryOutcomes:9",
+      "NCT_ID": "NCT01109849",
+      "Outcome_Domain": ["BiologicalAndExposure"],
+      "COMET_Domain": ["14"],
+      "NDD_Subdomain": ["GrowthMetabolic"],
+      "Evidence_Span": [
+        {"Axis": "Outcome_Domain", "Label": "BiologicalAndExposure", "Source_Field": "Outcome_Measure", "Quote": "Change in Weight z Score"},
+        {"Axis": "COMET_Domain", "Label": "14", "Source_Field": "Outcome_Description", "Quote": "Larger values reflect a greater incremental weight gain."},
+        {"Axis": "NDD_Subdomain", "Label": "GrowthMetabolic", "Source_Field": "Outcome_Measure", "Quote": "Change in Weight z Score"}
+      ],
+      "Uncertainty": "LOW",
+      "Abstain": false,
+      "Abstain_Reason": ""
+    }
+  ]
+}

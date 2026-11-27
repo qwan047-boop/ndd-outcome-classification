@@ -1,0 +1,62 @@
+{
+  "created_at": "2026-11-24T12:46:32.018227+08:00",
+  "status": "FROZEN_BEFORE_FIRST_FIT",
+  "labels": [
+    "ClinicalSymptoms",
+    "FunctionAndCognition",
+    "BiologicalAndExposure",
+    "Safety",
+    "OtherDomain"
+  ],
+  "seeds": [
+    20261123,
+    20261124,
+    20261125,
+    20261126,
+    20261127
+  ],
+  "budgets": [
+    0,
+    10,
+    20,
+    30,
+    40
+  ],
+  "strategies": [
+    "random",
+    "uncertainty",
+    "uncertainty_diversity"
+  ],
+  "initial_labels": "1934 nonconflicting rule candidates; no LLM/human Test labels",
+  "tfidf": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 1,
+    "sublinear_tf": true,
+    "fit_corpus": "3038 eligible non-test texts; fixed unsupervised vocabulary including pool"
+  },
+  "svm": {
+    "C": 1,
+    "class_weight": "balanced",
+    "threshold": 0
+  },
+  "lr": {
+    "C": 1,
+    "class_weight": "balanced",
+    "max_iter": 2000,
+    "threshold": 0.5
+  },
+  "minilm": {
+    "local_only": true,
+    "chunking": "tokenizer non-overlapping max_seq_length-2 content tokens; normalized token-weighted mean of normalized chunk embeddings; no discarded tokens"
+  },
+  "diversity": "5*batch most uncertain, first most uncertain then farthest-first cosine",
+  "test_unclear": "exclude only from five-label metric denominator; retain all60 predictions and report reference coverage",
+  "pool_unclear": "review counts toward budget; remove any weak target for selected UNCLEAR record, no all-negative fabricated label",
+  "intervals": "test NCT bootstrap 1000 replicates percentile95% at seed20261123; seed mean/min/max/SD descriptive, not CI",
+  "llm_fusion": "not run: only30 conservative consensus candidate records and no OtherDomain positive; no superiority claim",
+  "human_reference_sha256": "363c3a8746182736344176f5969d5d69a3a16af2bd2b9e188d4b9a2e6ce2f64e",
+  "no_test_tuning": true
+}

@@ -1,0 +1,3107 @@
+[
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT05413187:secondaryOutcomes:2"
+    ],
+    "revealed_labels": {
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT05120505:primaryOutcomes:0",
+      "NCT01552902:otherOutcomes:0",
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT02780102:primaryOutcomes:7"
+    ],
+    "revealed_labels": {
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261123,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT00556296:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT03715166:secondaryOutcomes:5"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT02039908:primaryOutcomes:0",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT03887676:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261123,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT01552902:otherOutcomes:0",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT07594652:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT01552902:otherOutcomes:0",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00417794:secondaryOutcomes:4"
+    ],
+    "revealed_labels": {
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT02901431:secondaryOutcomes:9"
+    ],
+    "revealed_labels": {
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261123,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT01106430:secondaryOutcomes:1"
+    ],
+    "revealed_labels": {
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT01552902:otherOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT00687609:secondaryOutcomes:3"
+    ],
+    "revealed_labels": {
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT00857220:secondaryOutcomes:2"
+    ],
+    "revealed_labels": {
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT00467818:primaryOutcomes:1",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT02520388:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261124,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT07594652:primaryOutcomes:0",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT01944046:otherOutcomes:7",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT02780102:primaryOutcomes:7"
+    ],
+    "revealed_labels": {
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT03715166:secondaryOutcomes:5"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT02039908:primaryOutcomes:0",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT03887676:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261124,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT01552902:otherOutcomes:0",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT07594652:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT01552902:otherOutcomes:0",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00417794:secondaryOutcomes:4"
+    ],
+    "revealed_labels": {
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT02901431:secondaryOutcomes:9"
+    ],
+    "revealed_labels": {
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261124,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT01106430:secondaryOutcomes:1"
+    ],
+    "revealed_labels": {
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT03589898:primaryOutcomes:1",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3"
+    ],
+    "revealed_labels": {
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT01944046:otherOutcomes:7",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT01552902:otherOutcomes:0",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT00716274:secondaryOutcomes:33"
+    ],
+    "revealed_labels": {
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT05120505:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261125,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT01372449:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT01308749:secondaryOutcomes:5"
+    ],
+    "revealed_labels": {
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT03715166:secondaryOutcomes:5"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT02039908:primaryOutcomes:0",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT03887676:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261125,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT01552902:otherOutcomes:0",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT07594652:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT01552902:otherOutcomes:0",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00417794:secondaryOutcomes:4"
+    ],
+    "revealed_labels": {
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT02901431:secondaryOutcomes:9"
+    ],
+    "revealed_labels": {
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261125,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT01106430:secondaryOutcomes:1"
+    ],
+    "revealed_labels": {
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT05120505:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT05413187:secondaryOutcomes:2"
+    ],
+    "revealed_labels": {
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT07087327:primaryOutcomes:0",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT01552902:otherOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261126,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00811083:primaryOutcomes:1",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT00428792:secondaryOutcomes:5"
+    ],
+    "revealed_labels": {
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT03715166:secondaryOutcomes:5"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT02039908:primaryOutcomes:0",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT03887676:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261126,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT01552902:otherOutcomes:0",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT07594652:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT01552902:otherOutcomes:0",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00417794:secondaryOutcomes:4"
+    ],
+    "revealed_labels": {
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT02901431:secondaryOutcomes:9"
+    ],
+    "revealed_labels": {
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261126,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT01106430:secondaryOutcomes:1"
+    ],
+    "revealed_labels": {
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01372449:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT01552902:otherOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "random",
+    "seed": 20261127,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00417794:secondaryOutcomes:4",
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT03715166:secondaryOutcomes:5"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ],
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT02901431:secondaryOutcomes:9",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT02039908:primaryOutcomes:0",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT03887676:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty",
+    "seed": 20261127,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01106430:secondaryOutcomes:1",
+      "NCT01552902:otherOutcomes:0",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT07594652:primaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "from_budget": 0,
+    "to_budget": 10,
+    "selected_ids": [
+      "NCT00857220:secondaryOutcomes:2",
+      "NCT03715166:secondaryOutcomes:5",
+      "NCT05413187:secondaryOutcomes:2",
+      "NCT00428792:secondaryOutcomes:5",
+      "NCT00500149:secondaryOutcomes:0",
+      "NCT03589898:primaryOutcomes:1",
+      "NCT02780102:primaryOutcomes:7",
+      "NCT00550147:secondaryOutcomes:1",
+      "NCT07087327:primaryOutcomes:0",
+      "NCT02700685:secondaryOutcomes:0"
+    ],
+    "revealed_labels": {
+      "NCT00857220:secondaryOutcomes:2": [
+        "Safety"
+      ],
+      "NCT03715166:secondaryOutcomes:5": [
+        "Safety"
+      ],
+      "NCT05413187:secondaryOutcomes:2": [
+        "BiologicalAndExposure"
+      ],
+      "NCT00428792:secondaryOutcomes:5": [
+        "FunctionAndCognition"
+      ],
+      "NCT00500149:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT03589898:primaryOutcomes:1": [
+        "BiologicalAndExposure"
+      ],
+      "NCT02780102:primaryOutcomes:7": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00550147:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07087327:primaryOutcomes:0": [
+        "Safety"
+      ],
+      "NCT02700685:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "from_budget": 10,
+    "to_budget": 20,
+    "selected_ids": [
+      "NCT07226219:secondaryOutcomes:4",
+      "NCT02428205:secondaryOutcomes:4",
+      "NCT06826326:primaryOutcomes:0",
+      "NCT00811083:primaryOutcomes:1",
+      "NCT06690398:primaryOutcomes:0",
+      "NCT01552902:otherOutcomes:0",
+      "NCT03887676:secondaryOutcomes:0",
+      "NCT00734578:secondaryOutcomes:3",
+      "NCT07717879:primaryOutcomes:0",
+      "NCT00417794:secondaryOutcomes:4"
+    ],
+    "revealed_labels": {
+      "NCT07226219:secondaryOutcomes:4": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02428205:secondaryOutcomes:4": [
+        "FunctionAndCognition"
+      ],
+      "NCT06826326:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00811083:primaryOutcomes:1": [
+        "Safety"
+      ],
+      "NCT06690398:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01552902:otherOutcomes:0": [
+        "Safety"
+      ],
+      "NCT03887676:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00734578:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT07717879:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00417794:secondaryOutcomes:4": [
+        "Safety"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "from_budget": 20,
+    "to_budget": 30,
+    "selected_ids": [
+      "NCT01308749:secondaryOutcomes:5",
+      "NCT02039908:primaryOutcomes:0",
+      "NCT01017263:primaryOutcomes:0",
+      "NCT07594652:primaryOutcomes:0",
+      "NCT01944046:otherOutcomes:7",
+      "NCT00269815:secondaryOutcomes:0",
+      "NCT01372449:primaryOutcomes:0",
+      "NCT00687609:secondaryOutcomes:3",
+      "NCT00556296:secondaryOutcomes:0",
+      "NCT02901431:secondaryOutcomes:9"
+    ],
+    "revealed_labels": {
+      "NCT01308749:secondaryOutcomes:5": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition"
+      ],
+      "NCT02039908:primaryOutcomes:0": [
+        "OtherDomain"
+      ],
+      "NCT01017263:primaryOutcomes:0": [
+        "BiologicalAndExposure"
+      ],
+      "NCT07594652:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT01944046:otherOutcomes:7": [
+        "OtherDomain"
+      ],
+      "NCT00269815:secondaryOutcomes:0": [
+        "ClinicalSymptoms",
+        "FunctionAndCognition",
+        "OtherDomain"
+      ],
+      "NCT01372449:primaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT00687609:secondaryOutcomes:3": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00556296:secondaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02901431:secondaryOutcomes:9": [
+        "FunctionAndCognition"
+      ]
+    }
+  },
+  {
+    "backend": "minilm_lr",
+    "strategy": "uncertainty_diversity",
+    "seed": 20261127,
+    "from_budget": 30,
+    "to_budget": 40,
+    "selected_ids": [
+      "NCT00716274:secondaryOutcomes:33",
+      "NCT00773812:secondaryOutcomes:3",
+      "NCT03487783:secondaryOutcomes:3",
+      "NCT02520388:secondaryOutcomes:0",
+      "NCT05120505:primaryOutcomes:0",
+      "NCT00483106:primaryOutcomes:0",
+      "NCT02633527:primaryOutcomes:0",
+      "NCT01624675:secondaryOutcomes:3",
+      "NCT00467818:primaryOutcomes:1",
+      "NCT01106430:secondaryOutcomes:1"
+    ],
+    "revealed_labels": {
+      "NCT00716274:secondaryOutcomes:33": [
+        "FunctionAndCognition"
+      ],
+      "NCT00773812:secondaryOutcomes:3": [
+        "UNCLEAR"
+      ],
+      "NCT03487783:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT02520388:secondaryOutcomes:0": [
+        "FunctionAndCognition"
+      ],
+      "NCT05120505:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT00483106:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT02633527:primaryOutcomes:0": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01624675:secondaryOutcomes:3": [
+        "FunctionAndCognition"
+      ],
+      "NCT00467818:primaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ],
+      "NCT01106430:secondaryOutcomes:1": [
+        "ClinicalSymptoms"
+      ]
+    }
+  }
+]

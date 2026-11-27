@@ -1,0 +1,7 @@
+{
+  "fit_ids_sha256": "b69990204f4cd8cd6fba2ba26974f522ce1ad4566ec6c90555feba20cb0161b5",
+  "fit_rows": 3038,
+  "vocabulary_n": 42180,
+  "no_test_fit": true,
+  "pool_unlabeled_text_in_vocabulary": true
+}

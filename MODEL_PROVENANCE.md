@@ -1,0 +1,9 @@
+# Model provenance
+
+The two bundles in models/ are explicitly RECONSTRUCTED_MODEL artifacts. They contain the fitted five-domain classifier heads, ordered label mapping and fixed decision threshold. The LinearSVC bundle also contains its fitted TF-IDF vectorizer. They were rebuilt from frozen data and original configurations and matched the historical hard predictions for all 60 test records per model. Original historical fitted model objects remain unavailable.
+
+The author-confirmed rights-holder approval covers publication of the project's reconstructed classifiers and derived research assets. No additional MIT, CC or other project reuse license is assigned here. The LR heads are separate from the pretrained encoder weights. The fixed encoder model is sentence-transformers/all-MiniLM-L6-v2 at revision 1110a243fdf4706b3f48f1d95db1a4f5529b4d41, whose official model card declares Apache-2.0. The weights are not bundled. Use the pinned official model and preserved hashes in history/baseline/MINILM_FEATURE_PROVENANCE.json. [Official pinned model card](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/blob/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md)
+
+Joblib uses pickle and can execute code when loading. Load only trusted, independently verified copies with the recorded scikit-learn version. The saved-model loading command verifies integrity first and uses the packaged vectorizer and embedding cache, without refitting. The frozen encoder's source terms remain applicable to upstream content; approval of the project heads does not relicense the encoder.
+
+Exact historical LLM backend weights, complete original candidate scores and cross-platform environment reproduction remain unavailable or unverified. These limits do not change the archived prediction values.
